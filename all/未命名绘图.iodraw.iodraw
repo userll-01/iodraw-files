@@ -121,8 +121,8 @@
         <mxCell id="KzwcP8r9qCKmiWtFyrjv-48" value="同步登记&lt;div&gt;拉运记录&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="359" y="588" width="74" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KzwcP8r9qCKmiWtFyrjv-49" value="开展过程监管" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="560" y="520" width="120" height="30" as="geometry" />
+        <mxCell id="KzwcP8r9qCKmiWtFyrjv-49" value="审批拉运计划" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="560" y="500" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="KzwcP8r9qCKmiWtFyrjv-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KzwcP8r9qCKmiWtFyrjv-50" target="KzwcP8r9qCKmiWtFyrjv-27">
           <mxGeometry relative="1" as="geometry" />
