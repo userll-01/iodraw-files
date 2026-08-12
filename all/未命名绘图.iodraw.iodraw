@@ -178,7 +178,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="KzwcP8r9qCKmiWtFyrjv-73" value="&lt;div&gt;按规定路线行驶，拉运岩屑至指定处置地点&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="451" y="760" width="94" height="60" as="geometry" />
+          <mxGeometry x="451" y="760" width="97" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KzwcP8r9qCKmiWtFyrjv-76" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KzwcP8r9qCKmiWtFyrjv-75" target="KzwcP8r9qCKmiWtFyrjv-73">
           <mxGeometry relative="1" as="geometry" />
