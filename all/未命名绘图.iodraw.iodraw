@@ -116,7 +116,7 @@
           <mxGeometry x="242" y="590" width="88" height="57" as="geometry" />
         </mxCell>
         <mxCell id="KzwcP8r9qCKmiWtFyrjv-48" value="登记拉运车次&lt;div&gt;记录登记&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="340" y="710" width="120" height="60" as="geometry" />
+          <mxGeometry x="340" y="710" width="98" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
