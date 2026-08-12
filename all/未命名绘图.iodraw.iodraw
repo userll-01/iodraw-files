@@ -13,7 +13,7 @@
         <mxCell id="TT1xrOZBvsEEWYrkdfZf-5" value="管理流程" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="70" y="125" width="80" height="32" as="geometry" />
         </mxCell>
-        <mxCell id="TT1xrOZBvsEEWYrkdfZf-6" value="管理" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
+        <mxCell id="TT1xrOZBvsEEWYrkdfZf-6" value="管理内容" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="20" y="157" width="80" height="32" as="geometry" />
         </mxCell>
       </root>
