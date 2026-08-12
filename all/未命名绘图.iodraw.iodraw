@@ -188,8 +188,12 @@
         </mxCell>
         <mxCell id="KzwcP8r9qCKmiWtFyrjv-78" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="KzwcP8r9qCKmiWtFyrjv-73">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="270" y="780" as="sourcePoint" />
+            <mxPoint x="270" y="680" as="sourcePoint" />
             <mxPoint x="320" y="730" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="270" y="810" />
+              <mxPoint x="454" y="810" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
