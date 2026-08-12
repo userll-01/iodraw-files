@@ -22,6 +22,12 @@
             <mxPoint x="115.96000000000004" y="196.05600000000004" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="KzwcP8r9qCKmiWtFyrjv-2" value="" style="endArrow=none;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;exitX=0.021;exitY=0.319;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.614;entryY=0.966;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="80.00000000000006" y="81.9439999999999" as="sourcePoint" />
+            <mxPoint x="163.02000000000004" y="156.99600000000004" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
