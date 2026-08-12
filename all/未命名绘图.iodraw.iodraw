@@ -327,10 +327,10 @@
         <mxCell id="KzwcP8r9qCKmiWtFyrjv-115" value="公&lt;div&gt;司&lt;/div&gt;&lt;div&gt;系&lt;/div&gt;&lt;div&gt;统&lt;/div&gt;&lt;div&gt;填&lt;/div&gt;&lt;div&gt;报&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="1293" width="83" height="247" as="geometry" />
         </mxCell>
-        <mxCell id="KzwcP8r9qCKmiWtFyrjv-116" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="KzwcP8r9qCKmiWtFyrjv-115">
+        <mxCell id="KzwcP8r9qCKmiWtFyrjv-116" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="660" y="1310" as="sourcePoint" />
-            <mxPoint x="1150" y="1540" as="targetPoint" />
+            <mxPoint x="223" y="1541" as="sourcePoint" />
+            <mxPoint x="1150" y="1541" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="KzwcP8r9qCKmiWtFyrjv-117" value="&lt;div&gt;接收、登记、处置、反馈数据和处置资料&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
@@ -466,7 +466,7 @@
             <mxPoint x="718" y="1420" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KzwcP8r9qCKmiWtFyrjv-154" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KzwcP8r9qCKmiWtFyrjv-153">
+        <mxCell id="KzwcP8r9qCKmiWtFyrjv-154" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KzwcP8r9qCKmiWtFyrjv-153">
           <mxGeometry x="-0.1651" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
