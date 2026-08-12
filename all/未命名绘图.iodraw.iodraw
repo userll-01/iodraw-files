@@ -41,7 +41,7 @@
           <mxGeometry x="332" y="183" width="114" height="50" as="geometry" />
         </mxCell>
         <mxCell id="KzwcP8r9qCKmiWtFyrjv-15" value="承包商服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="446" y="118" width="101" height="115" as="geometry" />
+          <mxGeometry x="446" y="118" width="102" height="115" as="geometry" />
         </mxCell>
         <mxCell id="KzwcP8r9qCKmiWtFyrjv-16" value="清洁生产服务分公司" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="547" y="118" width="257" height="66" as="geometry" />
@@ -307,7 +307,7 @@
           <mxGeometry x="1042" y="850" width="85" height="49" as="geometry" />
         </mxCell>
         <mxCell id="KzwcP8r9qCKmiWtFyrjv-109" value="开展过程监管" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="697" y="848" width="84" height="51" as="geometry" />
+          <mxGeometry x="701" y="848" width="84" height="51" as="geometry" />
         </mxCell>
         <mxCell id="KzwcP8r9qCKmiWtFyrjv-110" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="KzwcP8r9qCKmiWtFyrjv-109" target="KzwcP8r9qCKmiWtFyrjv-73">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
