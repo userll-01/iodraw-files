@@ -306,6 +306,9 @@
         <mxCell id="KzwcP8r9qCKmiWtFyrjv-108" value="审阅监管结果&lt;div&gt;提出工作要求&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="1042" y="850" width="85" height="49" as="geometry" />
         </mxCell>
+        <mxCell id="KzwcP8r9qCKmiWtFyrjv-109" value="开展过程监管" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="702" y="434" width="84" height="51" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
