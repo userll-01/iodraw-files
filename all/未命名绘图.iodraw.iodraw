@@ -375,6 +375,9 @@
         <mxCell id="KzwcP8r9qCKmiWtFyrjv-129" value="&lt;div&gt;建立产生、拉运、处置数据&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="250" y="1050" width="80" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="KzwcP8r9qCKmiWtFyrjv-131" value="审核是否通过" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=-1;hachureGap=8;fillStyle=cross-hatch;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="577" width="108" height="46" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
