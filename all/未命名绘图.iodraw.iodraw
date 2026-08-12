@@ -70,7 +70,7 @@
         <mxCell id="KzwcP8r9qCKmiWtFyrjv-26" value="产生" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="233" width="83" height="67" as="geometry" />
         </mxCell>
-        <mxCell id="KzwcP8r9qCKmiWtFyrjv-27" value="收集固控设备分离&lt;span style=&quot;background-color: initial;&quot;&gt;出的钻井岩屑&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="KzwcP8r9qCKmiWtFyrjv-27" value="收集固控设备&lt;div&gt;分离&lt;span style=&quot;background-color: initial;&quot;&gt;钻井岩屑&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="240" y="239.5" width="90" height="62" as="geometry" />
         </mxCell>
         <mxCell id="KzwcP8r9qCKmiWtFyrjv-28" value="收集" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
