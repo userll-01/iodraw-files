@@ -115,7 +115,7 @@
         <mxCell id="KzwcP8r9qCKmiWtFyrjv-45" value="出库、计量&lt;div&gt;装车和记录&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fillColor=#dae8fc;" vertex="1" parent="1">
           <mxGeometry x="242" y="590" width="88" height="57" as="geometry" />
         </mxCell>
-        <mxCell id="KzwcP8r9qCKmiWtFyrjv-48" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="KzwcP8r9qCKmiWtFyrjv-48" value="登记拉运记录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="710" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
