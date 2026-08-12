@@ -378,6 +378,20 @@
         <mxCell id="KzwcP8r9qCKmiWtFyrjv-131" value="数据是否准确" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=-1;hachureGap=8;fillStyle=cross-hatch;sketch=1;" vertex="1" parent="1">
           <mxGeometry x="579" y="1150.5" width="108" height="46" as="geometry" />
         </mxCell>
+        <mxCell id="KzwcP8r9qCKmiWtFyrjv-132" value="通报建设单位" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="829" y="1143.5" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KzwcP8r9qCKmiWtFyrjv-133" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="KzwcP8r9qCKmiWtFyrjv-132">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="692" y="1173.5" as="sourcePoint" />
+            <mxPoint x="766" y="1148.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KzwcP8r9qCKmiWtFyrjv-134" value="Y" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KzwcP8r9qCKmiWtFyrjv-133">
+          <mxGeometry x="-0.0657" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
