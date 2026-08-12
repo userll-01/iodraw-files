@@ -116,13 +116,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KzwcP8r9qCKmiWtFyrjv-45" value="出库、计量&lt;div&gt;装车和记录&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fillColor=#dae8fc;" vertex="1" parent="1">
-          <mxGeometry x="242" y="590" width="88" height="57" as="geometry" />
+          <mxGeometry x="242" y="591" width="88" height="57" as="geometry" />
         </mxCell>
         <mxCell id="KzwcP8r9qCKmiWtFyrjv-48" value="同步登记&lt;div&gt;拉运记录&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="359" y="588" width="74" height="60" as="geometry" />
+          <mxGeometry x="359" y="589" width="74" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KzwcP8r9qCKmiWtFyrjv-49" value="审批拉运计划" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="561" y="500" width="88" height="50" as="geometry" />
+          <mxGeometry x="570" y="498" width="88" height="50" as="geometry" />
         </mxCell>
         <mxCell id="KzwcP8r9qCKmiWtFyrjv-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KzwcP8r9qCKmiWtFyrjv-50" target="KzwcP8r9qCKmiWtFyrjv-27">
           <mxGeometry relative="1" as="geometry" />
