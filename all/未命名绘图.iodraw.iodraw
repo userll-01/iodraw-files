@@ -116,7 +116,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KzwcP8r9qCKmiWtFyrjv-45" value="出库、计量&lt;div&gt;装车和记录&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fillColor=#dae8fc;" vertex="1" parent="1">
-          <mxGeometry x="242" y="617" width="88" height="57" as="geometry" />
+          <mxGeometry x="242" y="610" width="88" height="64" as="geometry" />
         </mxCell>
         <mxCell id="KzwcP8r9qCKmiWtFyrjv-48" value="同步登记&lt;div&gt;拉运记录&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="359" y="615" width="74" height="60" as="geometry" />
