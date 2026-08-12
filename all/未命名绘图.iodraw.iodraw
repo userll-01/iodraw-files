@@ -53,16 +53,16 @@
           <mxGeometry x="668" y="184" width="136" height="50" as="geometry" />
         </mxCell>
         <mxCell id="KzwcP8r9qCKmiWtFyrjv-21" value="建设单位" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="803" y="118.5" width="89" height="117" as="geometry" />
+          <mxGeometry x="803" y="118.5" width="89" height="116" as="geometry" />
         </mxCell>
         <mxCell id="KzwcP8r9qCKmiWtFyrjv-22" value="长庆钻井总公司" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="893" y="118.5" width="256" height="68" as="geometry" />
+          <mxGeometry x="892" y="118.5" width="256" height="68" as="geometry" />
         </mxCell>
         <mxCell id="KzwcP8r9qCKmiWtFyrjv-23" value="安全环保岗" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="893" y="185.5" width="120" height="50" as="geometry" />
+          <mxGeometry x="892" y="185.5" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="KzwcP8r9qCKmiWtFyrjv-24" value="安全环保部门负责人" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1014" y="185.5" width="135" height="50" as="geometry" />
+          <mxGeometry x="1013" y="185.5" width="135" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
