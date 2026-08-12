@@ -196,7 +196,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="KzwcP8r9qCKmiWtFyrjv-82" value="开展过程监管" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="684" y="320" width="120" height="60" as="geometry" />
+          <mxGeometry x="686" y="320" width="84" height="46" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
