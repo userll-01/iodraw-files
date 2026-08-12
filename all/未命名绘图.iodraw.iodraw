@@ -44,16 +44,16 @@
           <mxGeometry x="446" y="118" width="101" height="115" as="geometry" />
         </mxCell>
         <mxCell id="KzwcP8r9qCKmiWtFyrjv-16" value="清洁生产服务分公司" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="547" y="118" width="257" height="65" as="geometry" />
+          <mxGeometry x="760" y="170" width="257" height="65" as="geometry" />
         </mxCell>
         <mxCell id="KzwcP8r9qCKmiWtFyrjv-17" value="生产部门" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="547" y="184" width="121" height="50" as="geometry" />
+          <mxGeometry x="760" y="236" width="121" height="50" as="geometry" />
         </mxCell>
         <mxCell id="KzwcP8r9qCKmiWtFyrjv-18" value="环保部门" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="668" y="184" width="136" height="50" as="geometry" />
+          <mxGeometry x="881" y="236" width="136" height="50" as="geometry" />
         </mxCell>
         <mxCell id="KzwcP8r9qCKmiWtFyrjv-21" value="建设单位" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="804" y="119.5" width="101" height="115" as="geometry" />
+          <mxGeometry x="804" y="119.5" width="89" height="115" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
