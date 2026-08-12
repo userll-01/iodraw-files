@@ -213,8 +213,8 @@
             <mxPoint x="323" y="447" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KzwcP8r9qCKmiWtFyrjv-86" value="通报建设单位" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="803" y="560" width="120" height="60" as="geometry" />
+        <mxCell id="KzwcP8r9qCKmiWtFyrjv-86" value="通报建设单位" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="803" y="560" width="80" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
