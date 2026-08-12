@@ -459,14 +459,6 @@
             <mxPoint x="892" y="1312" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KzwcP8r9qCKmiWtFyrjv-156" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KzwcP8r9qCKmiWtFyrjv-151" target="KzwcP8r9qCKmiWtFyrjv-155">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="KzwcP8r9qCKmiWtFyrjv-157" value="Y" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KzwcP8r9qCKmiWtFyrjv-156">
-          <mxGeometry x="0.3333" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="KzwcP8r9qCKmiWtFyrjv-151" value="数据是否准确" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=-1;hachureGap=8;fillStyle=cross-hatch;sketch=1;" vertex="1" parent="1">
           <mxGeometry x="898" y="1362" width="108" height="46" as="geometry" />
         </mxCell>
