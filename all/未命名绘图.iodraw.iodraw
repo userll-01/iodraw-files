@@ -228,12 +228,21 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="KzwcP8r9qCKmiWtFyrjv-89" value="开展过程监管" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="900" y="336" width="119" height="49" as="geometry" />
+          <mxGeometry x="900" y="336" width="85" height="49" as="geometry" />
         </mxCell>
         <mxCell id="KzwcP8r9qCKmiWtFyrjv-90" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="KzwcP8r9qCKmiWtFyrjv-89" target="KzwcP8r9qCKmiWtFyrjv-82">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="680" y="630" as="sourcePoint" />
             <mxPoint x="730" y="580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KzwcP8r9qCKmiWtFyrjv-91" value="开展过程监管" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="910" y="346" width="85" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="KzwcP8r9qCKmiWtFyrjv-92" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="KzwcP8r9qCKmiWtFyrjv-91">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="690" y="640" as="sourcePoint" />
+            <mxPoint x="787" y="370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
