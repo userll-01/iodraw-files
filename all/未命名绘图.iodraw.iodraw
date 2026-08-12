@@ -480,10 +480,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="KzwcP8r9qCKmiWtFyrjv-155" value="&lt;div&gt;分析系统数据&lt;/div&gt;&lt;div&gt;编订报告&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="892" y="1465" width="120" height="60" as="geometry" />
+          <mxGeometry x="892" y="1465" width="116" height="44" as="geometry" />
         </mxCell>
         <mxCell id="KzwcP8r9qCKmiWtFyrjv-158" value="审阅报告" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1028" y="1465" width="71" height="41" as="geometry" />
+          <mxGeometry x="1032" y="1465" width="71" height="41" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
