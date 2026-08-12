@@ -14,7 +14,7 @@
           <mxGeometry x="70" y="125" width="80" height="32" as="geometry" />
         </mxCell>
         <mxCell id="TT1xrOZBvsEEWYrkdfZf-6" value="管理内容" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;direction=west;" parent="1" vertex="1">
-          <mxGeometry x="20" y="167" width="80" height="32" as="geometry" />
+          <mxGeometry x="28" y="169" width="80" height="32" as="geometry" />
         </mxCell>
         <mxCell id="TT1xrOZBvsEEWYrkdfZf-8" value="" style="endArrow=none;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;exitX=0.021;exitY=0.319;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.614;entryY=0.966;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -29,7 +29,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="KzwcP8r9qCKmiWtFyrjv-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="130" y="140" width="120" height="60" as="geometry" />
+          <mxGeometry x="30" y="84" width="120" height="116" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
