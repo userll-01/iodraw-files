@@ -19,20 +19,11 @@
         <mxCell id="7tmwS47lcPxHXH2H9vHI-6" value="清洁生产服务公司" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1102" y="1078" width="369" height="99" as="geometry" />
         </mxCell>
-        <mxCell id="7tmwS47lcPxHXH2H9vHI-7" value="基层队站" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="995" y="259" width="776" height="744" as="geometry" />
-        </mxCell>
         <mxCell id="7tmwS47lcPxHXH2H9vHI-8" value="管理流程" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1015" y="284" width="512" height="694" as="geometry" />
         </mxCell>
-        <mxCell id="7tmwS47lcPxHXH2H9vHI-9" value="管理层" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1047" y="110" width="424" height="99" as="geometry" />
-        </mxCell>
         <mxCell id="7tmwS47lcPxHXH2H9vHI-10" value="现场管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1309" y="135" width="126" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="7tmwS47lcPxHXH2H9vHI-11" value="系统填报" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1082" y="135" width="125" height="49" as="geometry" />
         </mxCell>
         <mxCell id="7tmwS47lcPxHXH2H9vHI-12" value="产生" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1340" y="309" width="64" height="49" as="geometry" />
@@ -116,9 +107,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="7tmwS47lcPxHXH2H9vHI-32" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="7tmwS47lcPxHXH2H9vHI-11" target="7tmwS47lcPxHXH2H9vHI-18">
+        <mxCell id="7tmwS47lcPxHXH2H9vHI-32" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="7tmwS47lcPxHXH2H9vHI-18">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
+            <mxPoint x="1144.5" y="184.0000000000001" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="7tmwS47lcPxHXH2H9vHI-33" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.76;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="7tmwS47lcPxHXH2H9vHI-18" target="7tmwS47lcPxHXH2H9vHI-19">
