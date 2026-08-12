@@ -100,6 +100,9 @@
         <mxCell id="KzwcP8r9qCKmiWtFyrjv-36" value="处置" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="800" width="83" height="140" as="geometry" />
         </mxCell>
+        <mxCell id="KzwcP8r9qCKmiWtFyrjv-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KzwcP8r9qCKmiWtFyrjv-37" target="KzwcP8r9qCKmiWtFyrjv-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="KzwcP8r9qCKmiWtFyrjv-37" value="入库、记录" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="240" y="415" width="87" height="60" as="geometry" />
         </mxCell>
@@ -107,7 +110,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KzwcP8r9qCKmiWtFyrjv-42" value="根据储运&lt;div&gt;申报拉运&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="242" y="498" width="88" height="51" as="geometry" />
+          <mxGeometry x="242" y="498" width="88" height="53" as="geometry" />
         </mxCell>
         <mxCell id="KzwcP8r9qCKmiWtFyrjv-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KzwcP8r9qCKmiWtFyrjv-45" target="KzwcP8r9qCKmiWtFyrjv-48">
           <mxGeometry relative="1" as="geometry" />
