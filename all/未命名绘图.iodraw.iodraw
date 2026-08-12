@@ -498,6 +498,11 @@
         <mxCell id="KzwcP8r9qCKmiWtFyrjv-167" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KzwcP8r9qCKmiWtFyrjv-159" target="KzwcP8r9qCKmiWtFyrjv-160">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="KzwcP8r9qCKmiWtFyrjv-172" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KzwcP8r9qCKmiWtFyrjv-167">
+          <mxGeometry x="-0.1605" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="KzwcP8r9qCKmiWtFyrjv-159" value="检查报告" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=-1;hachureGap=8;fillStyle=cross-hatch;sketch=1;" vertex="1" parent="1">
           <mxGeometry x="982" y="1493" width="108" height="46" as="geometry" />
         </mxCell>
