@@ -381,6 +381,11 @@
         <mxCell id="KzwcP8r9qCKmiWtFyrjv-145" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KzwcP8r9qCKmiWtFyrjv-131" target="KzwcP8r9qCKmiWtFyrjv-144">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="KzwcP8r9qCKmiWtFyrjv-146" value="Y" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KzwcP8r9qCKmiWtFyrjv-145">
+          <mxGeometry x="-0.2364" y="-1" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="KzwcP8r9qCKmiWtFyrjv-131" value="数据是否准确" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=-1;hachureGap=8;fillStyle=cross-hatch;sketch=1;" vertex="1" parent="1">
           <mxGeometry x="575" y="1167.5" width="108" height="46" as="geometry" />
         </mxCell>
@@ -431,7 +436,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="KzwcP8r9qCKmiWtFyrjv-144" value="建立公司台账" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="KzwcP8r9qCKmiWtFyrjv-144" value="建立公司台账" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="570" y="1240" width="120" height="48" as="geometry" />
         </mxCell>
       </root>
