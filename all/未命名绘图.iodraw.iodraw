@@ -251,6 +251,14 @@
         <mxCell id="KzwcP8r9qCKmiWtFyrjv-94" value="审阅监管结果&lt;div&gt;提出工作要求&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="1039" y="336" width="85" height="49" as="geometry" />
         </mxCell>
+        <mxCell id="KzwcP8r9qCKmiWtFyrjv-97" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KzwcP8r9qCKmiWtFyrjv-98">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="994" y="447" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KzwcP8r9qCKmiWtFyrjv-98" value="审阅监管结果&lt;div&gt;提出工作要求&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1048" y="422" width="85" height="49" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
