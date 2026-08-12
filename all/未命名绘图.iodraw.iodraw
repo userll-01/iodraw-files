@@ -31,13 +31,8 @@
             <mxPoint x="233" y="183" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KzwcP8r9qCKmiWtFyrjv-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="KzwcP8r9qCKmiWtFyrjv-9">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="550" y="160" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="KzwcP8r9qCKmiWtFyrjv-9" value="基层队站" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="233" y="117" width="154" height="68" as="geometry" />
+          <mxGeometry x="233" y="117" width="257" height="68" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
