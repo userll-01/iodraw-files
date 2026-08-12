@@ -68,10 +68,10 @@
           <mxGeometry x="73" y="232.5" width="87" height="553.5" as="geometry" />
         </mxCell>
         <mxCell id="KzwcP8r9qCKmiWtFyrjv-26" value="产生" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="233" width="73" height="60" as="geometry" />
+          <mxGeometry x="160" y="233" width="73" height="61" as="geometry" />
         </mxCell>
         <mxCell id="KzwcP8r9qCKmiWtFyrjv-27" value="收集固控设备分离&lt;div&gt;出的钻井岩屑&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="233" y="235.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="233" y="233.5" width="99" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
