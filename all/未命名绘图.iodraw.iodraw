@@ -428,8 +428,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="KzwcP8r9qCKmiWtFyrjv-144" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="590" y="1350" width="120" height="60" as="geometry" />
+        <mxCell id="KzwcP8r9qCKmiWtFyrjv-144" value="建立公司台账" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="572" y="1240" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
