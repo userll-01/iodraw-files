@@ -369,6 +369,9 @@
             <mxPoint x="657" y="918.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="KzwcP8r9qCKmiWtFyrjv-136" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KzwcP8r9qCKmiWtFyrjv-126" target="KzwcP8r9qCKmiWtFyrjv-131">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="KzwcP8r9qCKmiWtFyrjv-126" value="收集现场台账数据" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="569" y="1050" width="120" height="60" as="geometry" />
         </mxCell>
@@ -390,12 +393,6 @@
         <mxCell id="KzwcP8r9qCKmiWtFyrjv-134" value="Y" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KzwcP8r9qCKmiWtFyrjv-133">
           <mxGeometry x="-0.0657" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="KzwcP8r9qCKmiWtFyrjv-135" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="628" y="1110" as="sourcePoint" />
-            <mxPoint x="630.5890372053393" y="1151.1009656347628" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
