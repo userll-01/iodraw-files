@@ -119,7 +119,7 @@
           <mxGeometry x="359" y="615" width="74" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KzwcP8r9qCKmiWtFyrjv-49" value="审批拉运计划" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="570" y="498" width="88" height="50" as="geometry" />
+          <mxGeometry x="570" y="500" width="88" height="50" as="geometry" />
         </mxCell>
         <mxCell id="KzwcP8r9qCKmiWtFyrjv-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KzwcP8r9qCKmiWtFyrjv-50" target="KzwcP8r9qCKmiWtFyrjv-27">
           <mxGeometry relative="1" as="geometry" />
@@ -142,6 +142,9 @@
             <mxPoint x="490" y="590" as="sourcePoint" />
             <mxPoint x="540" y="540" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="KzwcP8r9qCKmiWtFyrjv-59" value="" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=-1;hachureGap=8;fillStyle=cross-hatch;fillColor=#006600;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="530" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
