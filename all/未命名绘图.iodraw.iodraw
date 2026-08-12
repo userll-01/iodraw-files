@@ -118,7 +118,7 @@
         <mxCell id="KzwcP8r9qCKmiWtFyrjv-48" value="登记拉运车次&lt;div&gt;记录登记&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="340" y="710" width="92" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KzwcP8r9qCKmiWtFyrjv-49" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="KzwcP8r9qCKmiWtFyrjv-49" value="开展过程监管" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="676" y="240.5" width="120" height="189.5" as="geometry" />
         </mxCell>
       </root>
