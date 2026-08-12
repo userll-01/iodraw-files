@@ -496,10 +496,16 @@
           <mxGeometry x="1032" y="1438" width="71" height="41" as="geometry" />
         </mxCell>
         <mxCell id="KzwcP8r9qCKmiWtFyrjv-159" value="检查报告" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=-1;hachureGap=8;fillStyle=cross-hatch;sketch=1;" vertex="1" parent="1">
-          <mxGeometry x="1016" y="1510" width="108" height="46" as="geometry" />
+          <mxGeometry x="1016" y="1507" width="108" height="46" as="geometry" />
         </mxCell>
         <mxCell id="KzwcP8r9qCKmiWtFyrjv-160" value="上报川庆" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1043" y="1593" width="71" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="KzwcP8r9qCKmiWtFyrjv-163" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="670" y="1410" as="sourcePoint" />
+            <mxPoint x="720" y="1360" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
