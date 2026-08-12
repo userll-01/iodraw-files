@@ -372,7 +372,7 @@
             <mxPoint x="657" y="918.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KzwcP8r9qCKmiWtFyrjv-126" value="收集现场台账数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="KzwcP8r9qCKmiWtFyrjv-126" value="收集现场台账数据" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="569" y="1030" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
