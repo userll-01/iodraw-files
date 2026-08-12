@@ -97,8 +97,8 @@
         <mxCell id="KzwcP8r9qCKmiWtFyrjv-36" value="处置" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="800" width="120" height="87" as="geometry" />
         </mxCell>
-        <mxCell id="KzwcP8r9qCKmiWtFyrjv-37" value="入库、记录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="415" width="120" height="60" as="geometry" />
+        <mxCell id="KzwcP8r9qCKmiWtFyrjv-37" value="入库、记录" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="240" y="415" width="87" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
