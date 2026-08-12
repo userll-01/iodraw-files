@@ -485,8 +485,8 @@
         <mxCell id="KzwcP8r9qCKmiWtFyrjv-158" value="审阅报告" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1032" y="1465" width="71" height="41" as="geometry" />
         </mxCell>
-        <mxCell id="KzwcP8r9qCKmiWtFyrjv-159" value="数据是否准确" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=-1;hachureGap=8;fillStyle=cross-hatch;sketch=1;" vertex="1" parent="1">
-          <mxGeometry x="908" y="1400" width="108" height="46" as="geometry" />
+        <mxCell id="KzwcP8r9qCKmiWtFyrjv-159" value="检查报告" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=-1;hachureGap=8;fillStyle=cross-hatch;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="1006" y="1530" width="108" height="46" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
