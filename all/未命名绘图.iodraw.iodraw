@@ -177,7 +177,7 @@
             <mxPoint x="496" y="690" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KzwcP8r9qCKmiWtFyrjv-73" value="按照" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="KzwcP8r9qCKmiWtFyrjv-73" value="按规定路线行驶" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="446" y="760" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
