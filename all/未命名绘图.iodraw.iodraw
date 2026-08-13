@@ -526,10 +526,10 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2KNIT4m-9WrXUhDI-uEc-1" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;" edge="1" parent="1">
+        <mxCell id="2KNIT4m-9WrXUhDI-uEc-1" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=0.576;exitY=0.993;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="KzwcP8r9qCKmiWtFyrjv-117">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="300" y="1070" as="sourcePoint" />
-            <mxPoint x="350" y="1020" as="targetPoint" />
+            <mxPoint x="298" y="970" as="sourcePoint" />
+            <mxPoint x="348" y="920" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
