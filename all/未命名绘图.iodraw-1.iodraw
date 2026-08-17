@@ -4,8 +4,8 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="c4nnX-2pcdhGykfU6tpA-1" value="环境影响性评价管理流程" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="450" y="70" width="120" height="60" as="geometry" />
+        <mxCell id="c4nnX-2pcdhGykfU6tpA-1" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;环境影响性评价管理流程&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="420" y="70" width="210" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
