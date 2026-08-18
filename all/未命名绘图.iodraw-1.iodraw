@@ -93,6 +93,11 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="peaUoX4Pmoz3yc2kiJaC-39" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="peaUoX4Pmoz3yc2kiJaC-29">
+          <mxGeometry x="-0.0721" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="peaUoX4Pmoz3yc2kiJaC-24" value="审查是否通过" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="906" y="412" width="129" height="62" as="geometry" />
         </mxCell>
