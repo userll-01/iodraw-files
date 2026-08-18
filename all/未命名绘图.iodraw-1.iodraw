@@ -119,8 +119,13 @@
         <mxCell id="peaUoX4Pmoz3yc2kiJaC-28" value="立项方案预审" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1060" y="423" width="99" height="41" as="geometry" />
         </mxCell>
-        <mxCell id="peaUoX4Pmoz3yc2kiJaC-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="peaUoX4Pmoz3yc2kiJaC-32" target="peaUoX4Pmoz3yc2kiJaC-34">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="peaUoX4Pmoz3yc2kiJaC-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.933;exitY=0.502;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="peaUoX4Pmoz3yc2kiJaC-32" target="peaUoX4Pmoz3yc2kiJaC-34">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1190" y="530" />
+              <mxPoint x="1190" y="530" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="peaUoX4Pmoz3yc2kiJaC-32" value="审查是否通过" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="1045" y="500" width="129" height="62" as="geometry" />
