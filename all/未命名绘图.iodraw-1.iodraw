@@ -76,6 +76,12 @@
         <mxCell id="peaUoX4Pmoz3yc2kiJaC-22" value="立项方案初审" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="910" y="340" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="peaUoX4Pmoz3yc2kiJaC-23" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="650" y="480" as="sourcePoint" />
+            <mxPoint x="700" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
