@@ -261,7 +261,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="peaUoX4Pmoz3yc2kiJaC-76" value="报川庆公司审批" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1612.5" y="965" width="101" height="34" as="geometry" />
+          <mxGeometry x="1610.5" y="880" width="101" height="34" as="geometry" />
         </mxCell>
         <mxCell id="peaUoX4Pmoz3yc2kiJaC-77" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.895;exitY=0.503;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="peaUoX4Pmoz3yc2kiJaC-73" target="peaUoX4Pmoz3yc2kiJaC-76">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
