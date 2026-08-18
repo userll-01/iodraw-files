@@ -55,6 +55,9 @@
         <mxCell id="peaUoX4Pmoz3yc2kiJaC-15" value="二级单位" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="720" y="100" width="450" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="peaUoX4Pmoz3yc2kiJaC-16" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
