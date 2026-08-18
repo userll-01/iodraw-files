@@ -86,7 +86,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="peaUoX4Pmoz3yc2kiJaC-24" value="审查是否通过" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;" vertex="1" parent="1">
-          <mxGeometry x="900" y="410" width="149" height="71" as="geometry" />
+          <mxGeometry x="909" y="410" width="129" height="62" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
