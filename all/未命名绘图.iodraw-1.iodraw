@@ -40,7 +40,7 @@
         <mxCell id="peaUoX4Pmoz3yc2kiJaC-10" value="设计单位" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="197" y="163" width="143" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="peaUoX4Pmoz3yc2kiJaC-11" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="peaUoX4Pmoz3yc2kiJaC-11" value="项目立项方案" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="250" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
