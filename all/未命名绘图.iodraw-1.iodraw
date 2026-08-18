@@ -151,6 +151,9 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="peaUoX4Pmoz3yc2kiJaC-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="peaUoX4Pmoz3yc2kiJaC-42" target="peaUoX4Pmoz3yc2kiJaC-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="peaUoX4Pmoz3yc2kiJaC-42" value="是否需要环评" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="1421.5" y="605" width="128" height="62" as="geometry" />
         </mxCell>
