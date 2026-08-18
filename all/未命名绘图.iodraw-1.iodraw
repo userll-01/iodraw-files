@@ -296,8 +296,10 @@
             <mxPoint x="1713.5" y="985" as="sourcePoint" />
             <mxPoint x="1780" y="655" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1720" y="985" />
+              <mxPoint x="1713" y="950" />
+              <mxPoint x="1720" y="950" />
               <mxPoint x="1720" y="308" />
+              <mxPoint x="1266" y="308" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -307,7 +309,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="peaUoX4Pmoz3yc2kiJaC-85" value="组织项目设计" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1180" y="1066" width="120" height="30" as="geometry" />
+          <mxGeometry x="1180" y="996" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="peaUoX4Pmoz3yc2kiJaC-86" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.143;exitY=0.484;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="peaUoX4Pmoz3yc2kiJaC-81" target="peaUoX4Pmoz3yc2kiJaC-85">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
