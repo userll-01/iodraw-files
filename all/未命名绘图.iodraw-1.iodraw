@@ -310,8 +310,8 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="peaUoX4Pmoz3yc2kiJaC-85" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1060" y="590" width="120" height="60" as="geometry" />
+        <mxCell id="peaUoX4Pmoz3yc2kiJaC-85" value="组织项目涉及" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1180" y="1040" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
