@@ -121,11 +121,11 @@
         </mxCell>
         <mxCell id="peaUoX4Pmoz3yc2kiJaC-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.933;exitY=0.502;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1398.357" y="547.1239999999998" as="sourcePoint" />
-            <mxPoint x="1422.9999999999998" y="546" as="targetPoint" />
+            <mxPoint x="1400.357" y="549.1239999999998" as="sourcePoint" />
+            <mxPoint x="1424.9999999999998" y="548" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1423" y="546" />
-              <mxPoint x="1423" y="546" />
+              <mxPoint x="1425" y="548" />
+              <mxPoint x="1425" y="548" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -168,6 +168,12 @@
         </mxCell>
         <mxCell id="peaUoX4Pmoz3yc2kiJaC-48" value="反馈结果&lt;div&gt;环境影响评价管理流程结束&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1290.5" y="667" width="148.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="peaUoX4Pmoz3yc2kiJaC-49" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1220" y="750" as="sourcePoint" />
+            <mxPoint x="1270" y="700" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
