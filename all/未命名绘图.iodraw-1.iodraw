@@ -212,12 +212,17 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="peaUoX4Pmoz3yc2kiJaC-63" value="确定环境影响评价类型&lt;br&gt;(登记表 / 报告表 / 报告书)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1412.5" y="880" width="143.5" height="50" as="geometry" />
+          <mxGeometry x="1414.5" y="881" width="143.5" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="peaUoX4Pmoz3yc2kiJaC-64" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.496;exitY=0.961;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="peaUoX4Pmoz3yc2kiJaC-56">
+        <mxCell id="peaUoX4Pmoz3yc2kiJaC-64" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.496;exitY=0.961;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="peaUoX4Pmoz3yc2kiJaC-56" target="peaUoX4Pmoz3yc2kiJaC-63">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1281" y="920" as="sourcePoint" />
             <mxPoint x="1331" y="870" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="peaUoX4Pmoz3yc2kiJaC-65" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="peaUoX4Pmoz3yc2kiJaC-64">
+          <mxGeometry x="-0.1507" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
