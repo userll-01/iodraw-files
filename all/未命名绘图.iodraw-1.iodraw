@@ -261,6 +261,9 @@
         <mxCell id="peaUoX4Pmoz3yc2kiJaC-73" value="审查是否通过" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="1266.5" y="956" width="129" height="52" as="geometry" />
         </mxCell>
+        <mxCell id="peaUoX4Pmoz3yc2kiJaC-82" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="peaUoX4Pmoz3yc2kiJaC-76" target="peaUoX4Pmoz3yc2kiJaC-81">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="peaUoX4Pmoz3yc2kiJaC-76" value="报川庆公司审批" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1612.5" y="965" width="101" height="34" as="geometry" />
         </mxCell>
@@ -288,6 +291,9 @@
           <mxGeometry x="-0.6196" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="peaUoX4Pmoz3yc2kiJaC-81" value="审查是否通过" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1598.5" y="1020" width="129" height="52" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
