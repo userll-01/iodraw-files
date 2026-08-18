@@ -49,6 +49,9 @@
         <mxCell id="peaUoX4Pmoz3yc2kiJaC-13" value="环境监测、监理单位" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="163" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="peaUoX4Pmoz3yc2kiJaC-14" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="163" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
