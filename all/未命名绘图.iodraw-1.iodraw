@@ -211,6 +211,9 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="peaUoX4Pmoz3yc2kiJaC-63" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;川庆公司报备&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1621.5" y="806" width="99" height="41" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
