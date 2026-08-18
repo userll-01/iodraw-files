@@ -313,14 +313,10 @@
         <mxCell id="peaUoX4Pmoz3yc2kiJaC-85" value="组织项目设计" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1180" y="1072" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="peaUoX4Pmoz3yc2kiJaC-86" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=0.192;exitY=0.484;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="peaUoX4Pmoz3yc2kiJaC-81">
+        <mxCell id="peaUoX4Pmoz3yc2kiJaC-86" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="990" y="1090" as="sourcePoint" />
-            <mxPoint x="1040" y="1040" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="1240" y="1036" />
-              <mxPoint x="1240" y="1040" />
-            </Array>
+            <mxPoint x="1240" y="1060" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
