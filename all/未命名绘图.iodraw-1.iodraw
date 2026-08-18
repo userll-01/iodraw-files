@@ -210,8 +210,8 @@
             <mxPoint x="1572.997391304348" y="792" as="sourcePoint" />
             <mxPoint x="1398" y="832" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1515" y="792" />
-              <mxPoint x="1515" y="832" />
+              <mxPoint x="1500" y="792" />
+              <mxPoint x="1500" y="832" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -255,7 +255,7 @@
           <mxGeometry x="1279" y="810" width="104" height="44" as="geometry" />
         </mxCell>
         <mxCell id="peaUoX4Pmoz3yc2kiJaC-73" value="审查是否通过" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="1266.5" y="956" width="129" height="52" as="geometry" />
+          <mxGeometry x="1266.5" y="874" width="129" height="52" as="geometry" />
         </mxCell>
         <mxCell id="peaUoX4Pmoz3yc2kiJaC-82" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="peaUoX4Pmoz3yc2kiJaC-76" target="peaUoX4Pmoz3yc2kiJaC-81">
           <mxGeometry relative="1" as="geometry" />
