@@ -169,10 +169,15 @@
         <mxCell id="peaUoX4Pmoz3yc2kiJaC-48" value="反馈结果&lt;div&gt;环境影响评价管理流程结束&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1290.5" y="667" width="148.5" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="peaUoX4Pmoz3yc2kiJaC-49" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;entryX=0.468;entryY=0.05;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.041;exitY=0.497;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+        <mxCell id="peaUoX4Pmoz3yc2kiJaC-49" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=0.041;exitY=0.497;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1431.748" y="635.814" as="sourcePoint" />
-            <mxPoint x="1364.998" y="670" as="targetPoint" />
+            <mxPoint x="1365" y="670" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="peaUoX4Pmoz3yc2kiJaC-50" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="peaUoX4Pmoz3yc2kiJaC-49">
+          <mxGeometry x="-0.3076" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
