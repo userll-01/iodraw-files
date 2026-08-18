@@ -151,8 +151,8 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="peaUoX4Pmoz3yc2kiJaC-42" value="审查是否通过" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="1055" y="510" width="129" height="62" as="geometry" />
+        <mxCell id="peaUoX4Pmoz3yc2kiJaC-42" value="是否需要环评" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1185.5" y="610" width="129" height="62" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
