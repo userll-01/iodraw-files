@@ -164,7 +164,7 @@
           <mxGeometry x="1350" y="120" width="120" height="123" as="geometry" />
         </mxCell>
         <mxCell id="peaUoX4Pmoz3yc2kiJaC-46" value="地方行政主管部门" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1470" y="120" width="120" height="122" as="geometry" />
+          <mxGeometry x="1470" y="120" width="140" height="123" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
