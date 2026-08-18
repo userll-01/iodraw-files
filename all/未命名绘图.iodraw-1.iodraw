@@ -160,8 +160,8 @@
             <mxPoint x="1185.5" y="580" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="peaUoX4Pmoz3yc2kiJaC-45" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1350" y="120" width="120" height="130" as="geometry" />
+        <mxCell id="peaUoX4Pmoz3yc2kiJaC-45" value="川庆公司" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1350" y="120" width="120" height="124" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
