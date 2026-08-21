@@ -386,11 +386,12 @@
         <mxCell id="PPdWcYO4c5VOot3ufRt8-1" value="环境影响性价专项评价" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1435" y="1068" width="126.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="PPdWcYO4c5VOot3ufRt8-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+        <mxCell id="PPdWcYO4c5VOot3ufRt8-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.505;exitY=0.948;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="PPdWcYO4c5VOot3ufRt8-3">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1541" y="1141.5" as="sourcePoint" />
             <mxPoint x="1573.5" y="1141.5" as="targetPoint" />
             <Array as="points">
+              <mxPoint x="1541" y="1163" />
               <mxPoint x="1541" y="1180" />
               <mxPoint x="1573" y="1180" />
             </Array>
@@ -408,10 +409,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PPdWcYO4c5VOot3ufRt8-5" value="环境影响评价报告书审查&lt;div style=&quot;font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-stretch: normal; font-family: ui-sans-serif, system-ui, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; font-size: 16px; line-height: 24px; text-align: left; flex: 0 1 auto; flex-direction: row; justify-content: normal; align-items: normal; padding: 0px; margin: 0px; background: none 0% 0% / auto repeat scroll padding-box border-box rgba(0, 0, 0, 0);&quot;&gt;&lt;/div&gt;（登记表、报告表跳过此流程" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1575.5" y="1118" width="137.5" height="48" as="geometry" />
+          <mxGeometry x="1574" y="1180" width="137.5" height="48" as="geometry" />
         </mxCell>
         <mxCell id="PPdWcYO4c5VOot3ufRt8-7" value="审查是否通过" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="1581" y="1193" width="129" height="47" as="geometry" />
+          <mxGeometry x="1579.5" y="1255" width="129" height="47" as="geometry" />
         </mxCell>
         <mxCell id="PPdWcYO4c5VOot3ufRt8-10" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=0.172;exitY=0.548;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="peaUoX4Pmoz3yc2kiJaC-104">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
