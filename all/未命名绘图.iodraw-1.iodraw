@@ -413,12 +413,6 @@
         <mxCell id="PPdWcYO4c5VOot3ufRt8-7" value="审查是否通过" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="1581" y="1193" width="129" height="47" as="geometry" />
         </mxCell>
-        <mxCell id="PPdWcYO4c5VOot3ufRt8-9" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="760" y="1088" as="sourcePoint" />
-            <mxPoint x="810" y="1038" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
