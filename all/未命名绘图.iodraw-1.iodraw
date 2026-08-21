@@ -450,10 +450,10 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PPdWcYO4c5VOot3ufRt8-26" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;" edge="1" parent="1">
+        <mxCell id="PPdWcYO4c5VOot3ufRt8-26" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=0.505;exitY=0.904;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="PPdWcYO4c5VOot3ufRt8-3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1356" y="1270.95" as="sourcePoint" />
-            <mxPoint x="1406" y="1220.95" as="targetPoint" />
+            <mxPoint x="1580" y="1210" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
