@@ -383,11 +383,14 @@
         <mxCell id="peaUoX4Pmoz3yc2kiJaC-104" value="审查是否通过" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="1171" y="1060" width="129" height="47" as="geometry" />
         </mxCell>
+        <mxCell id="PPdWcYO4c5VOot3ufRt8-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nyPER20Y6usa4ug9nTPi-2" target="PPdWcYO4c5VOot3ufRt8-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="nyPER20Y6usa4ug9nTPi-2" value="组织综合评审" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1302" y="1068.5" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PPdWcYO4c5VOot3ufRt8-1" value="环境影响性价专项评价" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1435" y="1061" width="126.5" height="40" as="geometry" />
+          <mxGeometry x="1435" y="1071" width="126.5" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
