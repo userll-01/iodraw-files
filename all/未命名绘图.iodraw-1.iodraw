@@ -435,21 +435,6 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PPdWcYO4c5VOot3ufRt8-24" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.783;exitY=0.523;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1536.007" y="1142.5810000000001" as="sourcePoint" />
-            <mxPoint x="1281" y="1014" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="1571" y="1143" />
-              <mxPoint x="1571" y="1014" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="PPdWcYO4c5VOot3ufRt8-25" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="PPdWcYO4c5VOot3ufRt8-24">
-          <mxGeometry x="0.2203" y="3" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="PPdWcYO4c5VOot3ufRt8-27" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=0.505;exitY=0.948;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="PPdWcYO4c5VOot3ufRt8-3" target="PPdWcYO4c5VOot3ufRt8-5">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1467.25" y="1271" as="sourcePoint" />
