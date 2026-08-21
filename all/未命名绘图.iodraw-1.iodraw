@@ -404,8 +404,8 @@
         <mxCell id="PPdWcYO4c5VOot3ufRt8-3" value="审查是否通过" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="1434" y="1118" width="129" height="47" as="geometry" />
         </mxCell>
-        <mxCell id="PPdWcYO4c5VOot3ufRt8-5" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;报川庆公司审批&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1582.5" y="1122" width="107.5" height="68" as="geometry" />
+        <mxCell id="PPdWcYO4c5VOot3ufRt8-5" value="环境影响评价报告书审查&lt;div style=&quot;font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-stretch: normal; font-family: ui-sans-serif, system-ui, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; font-size: 16px; line-height: 24px; text-align: left; flex: 0 1 auto; flex-direction: row; justify-content: normal; align-items: normal; padding: 0px; margin: 0px; background: none 0% 0% / auto repeat scroll padding-box border-box rgba(0, 0, 0, 0);&quot;&gt;&lt;/div&gt;&lt;br/&gt;（登记表、报告表跳过此流程" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1582.5" y="1122" width="127.5" height="68" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
