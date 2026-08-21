@@ -128,6 +128,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="PPdWcYO4c5VOot3ufRt8-17" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="peaUoX4Pmoz3yc2kiJaC-35">
+          <mxGeometry x="-0.0071" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="peaUoX4Pmoz3yc2kiJaC-32" value="审查是否通过" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="1281" y="458" width="129" height="52" as="geometry" />
         </mxCell>
@@ -404,6 +409,11 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1541" y="1141.5" as="sourcePoint" />
             <mxPoint x="1573.5" y="1141.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PPdWcYO4c5VOot3ufRt8-16" value="Y" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="PPdWcYO4c5VOot3ufRt8-6">
+          <mxGeometry x="-0.0983" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="PPdWcYO4c5VOot3ufRt8-3" value="审查是否通过" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
