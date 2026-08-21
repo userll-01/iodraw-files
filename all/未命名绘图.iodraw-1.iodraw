@@ -386,8 +386,8 @@
         <mxCell id="nyPER20Y6usa4ug9nTPi-2" value="组织综合评审" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1302" y="1068.5" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="PPdWcYO4c5VOot3ufRt8-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1486.5" y="1068.5" width="120" height="51.5" as="geometry" />
+        <mxCell id="PPdWcYO4c5VOot3ufRt8-1" value="环境影响性价专项评价" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1480" y="1068.5" width="126.5" height="51.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
