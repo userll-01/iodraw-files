@@ -240,10 +240,10 @@
         </mxCell>
         <mxCell id="peaUoX4Pmoz3yc2kiJaC-66" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=0.186;exitY=0.531;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1453.9940000000001" y="686.019" as="sourcePoint" />
-            <mxPoint x="655" y="304" as="targetPoint" />
+            <mxPoint x="1453.9940000000001" y="688.019" as="sourcePoint" />
+            <mxPoint x="655" y="306" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="655" y="686" />
+              <mxPoint x="655" y="688" />
             </Array>
           </mxGeometry>
         </mxCell>
