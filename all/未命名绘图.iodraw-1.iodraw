@@ -376,15 +376,15 @@
         </mxCell>
         <mxCell id="nyPER20Y6usa4ug9nTPi-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.805;exitY=0.523;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1274.8449999999998" y="1082.581" as="sourcePoint" />
-            <mxPoint x="1310" y="1088" as="targetPoint" />
+            <mxPoint x="1259.8449999999998" y="1082.581" as="sourcePoint" />
+            <mxPoint x="1306" y="1082.5000000000002" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="peaUoX4Pmoz3yc2kiJaC-104" value="审查是否通过" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="1171" y="1060" width="129" height="47" as="geometry" />
         </mxCell>
         <mxCell id="nyPER20Y6usa4ug9nTPi-2" value="组织综合评审" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1321" y="1069.5" width="90" height="30" as="geometry" />
+          <mxGeometry x="1320" y="1069.5" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
