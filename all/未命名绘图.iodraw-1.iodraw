@@ -376,8 +376,8 @@
         </mxCell>
         <mxCell id="nyPER20Y6usa4ug9nTPi-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.805;exitY=0.523;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1274.8449999999998" y="1083.581" as="sourcePoint" />
-            <mxPoint x="1310" y="1089" as="targetPoint" />
+            <mxPoint x="1274.8449999999998" y="1082.581" as="sourcePoint" />
+            <mxPoint x="1310" y="1088" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="peaUoX4Pmoz3yc2kiJaC-104" value="审查是否通过" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
