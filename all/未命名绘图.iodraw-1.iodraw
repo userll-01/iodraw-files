@@ -442,7 +442,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="PPdWcYO4c5VOot3ufRt8-32" value="" style="edgeStyle=orthogonalEdgeStyle;endArrow=classic;html=1;curved=1;rounded=0;endSize=8;startSize=8;exitX=0.189;exitY=0.505;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.4;entryY=1.016;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+        <mxCell id="PPdWcYO4c5VOot3ufRt8-32" value="" style="edgeStyle=elbowEdgeStyle;endArrow=classic;html=1;rounded=0;endSize=8;startSize=8;exitX=0.189;exitY=0.505;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.4;entryY=1.016;entryDx=0;entryDy=0;entryPerimeter=0;elbow=vertical;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1458.3809999999999" y="1143.7349999999997" as="sourcePoint" />
             <mxPoint x="799.2" y="1038.7039999999997" as="targetPoint" />
