@@ -1018,10 +1018,13 @@
         <mxCell id="LINdSobTBbgWGHi0nwle-8" value="审查、批复" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1767.5" y="1280" width="90" height="38" as="geometry" />
         </mxCell>
-        <mxCell id="LINdSobTBbgWGHi0nwle-9" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="LINdSobTBbgWGHi0nwle-8">
+        <mxCell id="LINdSobTBbgWGHi0nwle-9" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.833;exitY=0.553;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="zIRN0Xyj8EtUOTZ_-rDE-9" target="LINdSobTBbgWGHi0nwle-8">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1380" y="1490" as="sourcePoint" />
             <mxPoint x="1430" y="1440" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1430" y="1333" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
