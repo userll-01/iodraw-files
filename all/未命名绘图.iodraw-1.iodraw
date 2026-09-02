@@ -593,7 +593,7 @@
         <mxCell id="zIRN0Xyj8EtUOTZ_-rDE-33" value="专项检查通过，设计阶段结束" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1224" y="1546.5" width="90" height="38" as="geometry" />
         </mxCell>
-        <mxCell id="zIRN0Xyj8EtUOTZ_-rDE-34" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="zIRN0Xyj8EtUOTZ_-rDE-34" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.496;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="zIRN0Xyj8EtUOTZ_-rDE-27" target="zIRN0Xyj8EtUOTZ_-rDE-33">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1480" y="1634.5" as="sourcePoint" />
             <mxPoint x="1530" y="1584.5" as="targetPoint" />
