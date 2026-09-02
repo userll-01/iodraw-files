@@ -664,10 +664,10 @@
         <mxCell id="zIRN0Xyj8EtUOTZ_-rDE-53" value="组织整改" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1194" y="1783" width="90" height="38" as="geometry" />
         </mxCell>
-        <mxCell id="zIRN0Xyj8EtUOTZ_-rDE-57" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="zIRN0Xyj8EtUOTZ_-rDE-57" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="zIRN0Xyj8EtUOTZ_-rDE-46">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1370" y="1500" as="sourcePoint" />
-            <mxPoint x="1420" y="1450" as="targetPoint" />
+            <mxPoint x="1376" y="1648" as="sourcePoint" />
+            <mxPoint x="1426" y="1598" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
