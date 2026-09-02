@@ -818,6 +818,9 @@
         <mxCell id="zIRN0Xyj8EtUOTZ_-rDE-87" value="提出验收申请" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1206" y="2027" width="90" height="38" as="geometry" />
         </mxCell>
+        <mxCell id="zIRN0Xyj8EtUOTZ_-rDE-103" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zIRN0Xyj8EtUOTZ_-rDE-90" target="zIRN0Xyj8EtUOTZ_-rDE-94">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="zIRN0Xyj8EtUOTZ_-rDE-90" value="验收资料预审" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1330.5" y="2027" width="90" height="38" as="geometry" />
         </mxCell>
@@ -828,7 +831,7 @@
           <mxGeometry x="1596.5" y="2130" width="103.5" height="38" as="geometry" />
         </mxCell>
         <mxCell id="zIRN0Xyj8EtUOTZ_-rDE-94" value="审查是否通过" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="1314" y="2130" width="129" height="47" as="geometry" />
+          <mxGeometry x="1311" y="2080" width="129" height="47" as="geometry" />
         </mxCell>
         <mxCell id="zIRN0Xyj8EtUOTZ_-rDE-95" value="审查是否通过" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="1427.5" y="2130" width="129" height="47" as="geometry" />
