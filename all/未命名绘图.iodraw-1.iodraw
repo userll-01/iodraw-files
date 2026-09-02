@@ -825,13 +825,16 @@
           <mxGeometry x="1330.5" y="2027" width="90" height="38" as="geometry" />
         </mxCell>
         <mxCell id="zIRN0Xyj8EtUOTZ_-rDE-92" value="组织专项验收&lt;div&gt;报告书、报告表&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1440" y="2080" width="90" height="38" as="geometry" />
+          <mxGeometry x="1480" y="2082" width="90" height="38" as="geometry" />
         </mxCell>
         <mxCell id="zIRN0Xyj8EtUOTZ_-rDE-93" value="报告书审批&lt;div&gt;报告表跳过此阶段&amp;nbsp;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1596.5" y="2130" width="103.5" height="38" as="geometry" />
         </mxCell>
+        <mxCell id="zIRN0Xyj8EtUOTZ_-rDE-104" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zIRN0Xyj8EtUOTZ_-rDE-94" target="zIRN0Xyj8EtUOTZ_-rDE-95">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="zIRN0Xyj8EtUOTZ_-rDE-94" value="审查是否通过" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="1311" y="2080" width="129" height="47" as="geometry" />
+          <mxGeometry x="1311" y="2082" width="129" height="47" as="geometry" />
         </mxCell>
         <mxCell id="zIRN0Xyj8EtUOTZ_-rDE-95" value="审查是否通过" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="1427.5" y="2130" width="129" height="47" as="geometry" />
