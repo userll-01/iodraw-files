@@ -896,20 +896,6 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zIRN0Xyj8EtUOTZ_-rDE-113" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.502;exitY=0.936;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1642.0079999999998" y="2249.992" as="sourcePoint" />
-            <mxPoint x="1574" y="2266" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="1642" y="2270" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="zIRN0Xyj8EtUOTZ_-rDE-115" value="Y" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="zIRN0Xyj8EtUOTZ_-rDE-113">
-          <mxGeometry x="-0.4233" y="1" relative="1" as="geometry">
-            <mxPoint x="-21" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="zIRN0Xyj8EtUOTZ_-rDE-118" value="备案" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1640" y="2401" width="67.75" height="38" as="geometry" />
         </mxCell>
@@ -929,6 +915,12 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="592" y="2480" as="sourcePoint" />
             <mxPoint x="1877" y="2480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zIRN0Xyj8EtUOTZ_-rDE-125" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.494;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="zIRN0Xyj8EtUOTZ_-rDE-96">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1260" y="2240" as="sourcePoint" />
+            <mxPoint x="1310" y="2190" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
