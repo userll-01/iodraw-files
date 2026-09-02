@@ -43,27 +43,8 @@
         <mxCell id="peaUoX4Pmoz3yc2kiJaC-15" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;总公司&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1124" y="134" width="450" height="64" as="geometry" />
         </mxCell>
-        <mxCell id="peaUoX4Pmoz3yc2kiJaC-28" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;立项方案预审&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1296" y="399" width="99" height="39" as="geometry" />
-        </mxCell>
-        <mxCell id="peaUoX4Pmoz3yc2kiJaC-32" value="审查是否通过" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="1281" y="458" width="129" height="52" as="geometry" />
-        </mxCell>
-        <mxCell id="peaUoX4Pmoz3yc2kiJaC-34" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;是否为《建设项目环境影响评价分类名录》中规定进行环评的情形&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1426" y="442" width="134" height="68" as="geometry" />
-        </mxCell>
         <mxCell id="peaUoX4Pmoz3yc2kiJaC-45" value="川庆公司" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1880" y="110" width="150" height="123" as="geometry" />
-        </mxCell>
-        <mxCell id="peaUoX4Pmoz3yc2kiJaC-88" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=0.828;exitY=0.493;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1703.312" y="894.171" as="sourcePoint" />
-            <mxPoint x="1266" y="299" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="1720" y="894" />
-              <mxPoint x="1720" y="299" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="peaUoX4Pmoz3yc2kiJaC-97" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
