@@ -1034,6 +1034,12 @@
         <mxCell id="LINdSobTBbgWGHi0nwle-10" value="审查是否通过" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="1749" y="1341" width="129" height="47" as="geometry" />
         </mxCell>
+        <mxCell id="LINdSobTBbgWGHi0nwle-12" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1380" y="1490" as="sourcePoint" />
+            <mxPoint x="1430" y="1440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
