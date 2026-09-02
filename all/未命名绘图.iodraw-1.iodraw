@@ -778,13 +778,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="zIRN0Xyj8EtUOTZ_-rDE-78" value="项目完工，组织预审" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1197" y="1885" width="106" height="38" as="geometry" />
+          <mxGeometry x="1194" y="1885" width="113" height="38" as="geometry" />
         </mxCell>
         <mxCell id="zIRN0Xyj8EtUOTZ_-rDE-80" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.622;exitY=0.974;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="zIRN0Xyj8EtUOTZ_-rDE-53" target="zIRN0Xyj8EtUOTZ_-rDE-78">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1080" y="1940" as="sourcePoint" />
             <mxPoint x="1130" y="1890" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="zIRN0Xyj8EtUOTZ_-rDE-81" value="环境监测、监理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="895" y="1620" width="90" height="38" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
