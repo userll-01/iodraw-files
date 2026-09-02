@@ -516,6 +516,11 @@
         <mxCell id="zIRN0Xyj8EtUOTZ_-rDE-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.806;exitY=0.489;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="zIRN0Xyj8EtUOTZ_-rDE-15" target="zIRN0Xyj8EtUOTZ_-rDE-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="zIRN0Xyj8EtUOTZ_-rDE-23" value="Y" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="zIRN0Xyj8EtUOTZ_-rDE-19">
+          <mxGeometry x="-0.3823" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="zIRN0Xyj8EtUOTZ_-rDE-15" value="审查是否通过" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="1295" y="1437" width="129" height="47" as="geometry" />
         </mxCell>
@@ -531,7 +536,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="zIRN0Xyj8EtUOTZ_-rDE-22" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="zIRN0Xyj8EtUOTZ_-rDE-21">
+        <mxCell id="zIRN0Xyj8EtUOTZ_-rDE-22" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="zIRN0Xyj8EtUOTZ_-rDE-21">
           <mxGeometry x="-0.2946" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
