@@ -1060,7 +1060,13 @@
         </mxCell>
         <mxCell id="LINdSobTBbgWGHi0nwle-16" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="LINdSobTBbgWGHi0nwle-15">
           <mxGeometry x="0.171" y="-4" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint y="2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LINdSobTBbgWGHi0nwle-17" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1380" y="2190" as="sourcePoint" />
+            <mxPoint x="1430" y="2140" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
