@@ -634,6 +634,9 @@
         <mxCell id="zIRN0Xyj8EtUOTZ_-rDE-46" value="按照设计方案及批复组织项目施工" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1195" y="1608" width="120" height="38" as="geometry" />
         </mxCell>
+        <mxCell id="zIRN0Xyj8EtUOTZ_-rDE-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zIRN0Xyj8EtUOTZ_-rDE-47" target="zIRN0Xyj8EtUOTZ_-rDE-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="zIRN0Xyj8EtUOTZ_-rDE-47" value="运行情况检查" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1330" y="1673" width="90" height="38" as="geometry" />
         </mxCell>
@@ -653,7 +656,7 @@
           <mxGeometry x="1587" y="1750" width="129" height="47" as="geometry" />
         </mxCell>
         <mxCell id="zIRN0Xyj8EtUOTZ_-rDE-53" value="组织整改" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1195" y="1764" width="90" height="38" as="geometry" />
+          <mxGeometry x="1194" y="1783" width="90" height="38" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
