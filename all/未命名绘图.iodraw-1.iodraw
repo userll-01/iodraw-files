@@ -925,6 +925,12 @@
         <mxCell id="zIRN0Xyj8EtUOTZ_-rDE-120" value="项目其他验收流程" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1325.5" y="2401" width="103.5" height="38" as="geometry" />
         </mxCell>
+        <mxCell id="zIRN0Xyj8EtUOTZ_-rDE-124" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="640" y="2470" as="sourcePoint" />
+            <mxPoint x="1200" y="2190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
