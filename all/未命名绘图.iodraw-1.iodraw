@@ -640,8 +640,8 @@
         <mxCell id="zIRN0Xyj8EtUOTZ_-rDE-48" value="专项检查" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1448" y="1673" width="90" height="38" as="geometry" />
         </mxCell>
-        <mxCell id="zIRN0Xyj8EtUOTZ_-rDE-49" value="专项检查" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1458" y="1683" width="90" height="38" as="geometry" />
+        <mxCell id="zIRN0Xyj8EtUOTZ_-rDE-49" value="监督抽查" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1606.5" y="1673" width="90" height="38" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
