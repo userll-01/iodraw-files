@@ -576,10 +576,10 @@
         <mxCell id="zIRN0Xyj8EtUOTZ_-rDE-29" value="备案" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1606.5" y="1508.5" width="90" height="38" as="geometry" />
         </mxCell>
-        <mxCell id="zIRN0Xyj8EtUOTZ_-rDE-31" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="zIRN0Xyj8EtUOTZ_-rDE-31" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.217;exitY=0.511;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="zIRN0Xyj8EtUOTZ_-rDE-27">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1300" y="1490" as="sourcePoint" />
-            <mxPoint x="1350" y="1440" as="targetPoint" />
+            <mxPoint x="1300" y="1570" as="sourcePoint" />
+            <mxPoint x="1230" y="1420" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
