@@ -1018,8 +1018,8 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LINdSobTBbgWGHi0nwle-8" value="报地方生态环境&lt;br/&gt;行政主管部门" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1193" y="1266" width="90" height="38" as="geometry" />
+        <mxCell id="LINdSobTBbgWGHi0nwle-8" value="审查、批复" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1761" y="1294" width="90" height="38" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
