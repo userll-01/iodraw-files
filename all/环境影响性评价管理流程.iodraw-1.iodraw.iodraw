@@ -984,6 +984,9 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="LINdSobTBbgWGHi0nwle-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LINdSobTBbgWGHi0nwle-1" target="LINdSobTBbgWGHi0nwle-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="LINdSobTBbgWGHi0nwle-1" value="审查、备案" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1760" y="2304.5" width="67.75" height="38" as="geometry" />
         </mxCell>
@@ -997,6 +1000,9 @@
           <mxGeometry x="-0.159" y="-3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="LINdSobTBbgWGHi0nwle-4" value="审查是否通过" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1726.5" y="2370" width="129" height="47" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
