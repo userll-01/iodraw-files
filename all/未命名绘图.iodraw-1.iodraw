@@ -590,8 +590,8 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zIRN0Xyj8EtUOTZ_-rDE-33" value="项目备案资料" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1194" y="1385" width="90" height="38" as="geometry" />
+        <mxCell id="zIRN0Xyj8EtUOTZ_-rDE-33" value="专项检查通过，设计&lt;br/&gt;阶段结束" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1224" y="1546.5" width="90" height="38" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
