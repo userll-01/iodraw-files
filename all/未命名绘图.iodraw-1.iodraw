@@ -850,9 +850,9 @@
         <mxCell id="zIRN0Xyj8EtUOTZ_-rDE-110" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.795;exitY=0.447;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="zIRN0Xyj8EtUOTZ_-rDE-95" target="zIRN0Xyj8EtUOTZ_-rDE-93">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="zIRN0Xyj8EtUOTZ_-rDE-117" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="zIRN0Xyj8EtUOTZ_-rDE-110">
+        <mxCell id="zIRN0Xyj8EtUOTZ_-rDE-117" value="Y" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="zIRN0Xyj8EtUOTZ_-rDE-110">
           <mxGeometry x="-0.5565" y="-4" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-4" y="-4" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="zIRN0Xyj8EtUOTZ_-rDE-95" value="审查是否通过" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
