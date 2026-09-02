@@ -504,7 +504,7 @@
         <mxCell id="zIRN0Xyj8EtUOTZ_-rDE-12" value="项目备案资料" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1184" y="1375" width="90" height="38" as="geometry" />
         </mxCell>
-        <mxCell id="zIRN0Xyj8EtUOTZ_-rDE-14" value="报地方生态环境&lt;br/&gt;行政主管部门" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="zIRN0Xyj8EtUOTZ_-rDE-14" value="审查" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1312" y="1375" width="90" height="38" as="geometry" />
         </mxCell>
       </root>
