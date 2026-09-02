@@ -848,16 +848,6 @@
         <mxCell id="zIRN0Xyj8EtUOTZ_-rDE-95" value="审查是否通过" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="1448.5" y="2145" width="129" height="47" as="geometry" />
         </mxCell>
-        <mxCell id="zIRN0Xyj8EtUOTZ_-rDE-112" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zIRN0Xyj8EtUOTZ_-rDE-96" target="zIRN0Xyj8EtUOTZ_-rDE-95">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1642" y="2185" />
-              <mxPoint x="1557" y="2185" />
-              <mxPoint x="1557" y="2212" />
-              <mxPoint x="1480" y="2212" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="zIRN0Xyj8EtUOTZ_-rDE-96" value="审查是否通过" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="1577.25" y="2205" width="129" height="47" as="geometry" />
         </mxCell>
@@ -888,6 +878,12 @@
         <mxCell id="zIRN0Xyj8EtUOTZ_-rDE-102" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="zIRN0Xyj8EtUOTZ_-rDE-100">
           <mxGeometry x="-0.4634" y="3" relative="1" as="geometry">
             <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zIRN0Xyj8EtUOTZ_-rDE-113" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1080" y="2140" as="sourcePoint" />
+            <mxPoint x="1130" y="2090" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
