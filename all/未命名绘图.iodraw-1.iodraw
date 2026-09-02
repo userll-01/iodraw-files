@@ -851,11 +851,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="zIRN0Xyj8EtUOTZ_-rDE-101" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="zIRN0Xyj8EtUOTZ_-rDE-99">
-          <mxGeometry x="0.0255" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="zIRN0Xyj8EtUOTZ_-rDE-100" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1071" y="1975" as="sourcePoint" />
