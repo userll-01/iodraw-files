@@ -858,7 +858,7 @@
           <mxGeometry x="1467" y="2246" width="107" height="38" as="geometry" />
         </mxCell>
         <mxCell id="zIRN0Xyj8EtUOTZ_-rDE-98" value="审查是否通过" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="1456" y="2326" width="129" height="47" as="geometry" />
+          <mxGeometry x="1456" y="2304" width="129" height="47" as="geometry" />
         </mxCell>
         <mxCell id="zIRN0Xyj8EtUOTZ_-rDE-99" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.194;exitY=0.532;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="zIRN0Xyj8EtUOTZ_-rDE-85" target="zIRN0Xyj8EtUOTZ_-rDE-82">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -890,6 +890,11 @@
             <Array as="points">
               <mxPoint x="1520" y="2227" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zIRN0Xyj8EtUOTZ_-rDE-115" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="zIRN0Xyj8EtUOTZ_-rDE-113">
+          <mxGeometry x="-0.4233" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
