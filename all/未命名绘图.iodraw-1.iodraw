@@ -777,8 +777,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="zIRN0Xyj8EtUOTZ_-rDE-78" value="组织整改" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1204" y="1793" width="90" height="38" as="geometry" />
+        <mxCell id="zIRN0Xyj8EtUOTZ_-rDE-78" value="项目完工组织预审" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1194" y="1860" width="90" height="38" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
