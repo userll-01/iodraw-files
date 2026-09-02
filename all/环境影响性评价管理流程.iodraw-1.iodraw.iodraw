@@ -1013,10 +1013,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="LINdSobTBbgWGHi0nwle-7" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="LINdSobTBbgWGHi0nwle-6">
+        <mxCell id="LINdSobTBbgWGHi0nwle-7" value="Y" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="LINdSobTBbgWGHi0nwle-6">
           <mxGeometry x="0.0567" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="LINdSobTBbgWGHi0nwle-8" value="报地方生态环境&lt;br/&gt;行政主管部门" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1193" y="1266" width="90" height="38" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
