@@ -43,14 +43,8 @@
         <mxCell id="peaUoX4Pmoz3yc2kiJaC-11" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;项目立项方案&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="608" y="284" width="120" height="31" as="geometry" />
         </mxCell>
-        <mxCell id="peaUoX4Pmoz3yc2kiJaC-12" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;环境影响评价单位&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="peaUoX4Pmoz3yc2kiJaC-12" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;现场负责人&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="738" y="197" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="peaUoX4Pmoz3yc2kiJaC-13" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;环境监测、监理单位&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="858" y="197" width="132" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="peaUoX4Pmoz3yc2kiJaC-14" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;环保竣工验收咨询单位&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="990" y="197" width="146" height="60" as="geometry" />
         </mxCell>
         <mxCell id="peaUoX4Pmoz3yc2kiJaC-15" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;总公司&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1136" y="134" width="450" height="63" as="geometry" />
