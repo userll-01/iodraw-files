@@ -753,7 +753,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zIRN0Xyj8EtUOTZ_-rDE-75" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="zIRN0Xyj8EtUOTZ_-rDE-75" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="zIRN0Xyj8EtUOTZ_-rDE-53">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1370" y="1840" as="sourcePoint" />
             <mxPoint x="740" y="1840" as="targetPoint" />
