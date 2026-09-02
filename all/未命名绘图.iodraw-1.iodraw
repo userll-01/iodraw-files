@@ -830,8 +830,11 @@
         <mxCell id="zIRN0Xyj8EtUOTZ_-rDE-92" value="组织专项验收&lt;div&gt;报告书、报告表&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1468" y="2086" width="90" height="38" as="geometry" />
         </mxCell>
+        <mxCell id="zIRN0Xyj8EtUOTZ_-rDE-111" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zIRN0Xyj8EtUOTZ_-rDE-93" target="zIRN0Xyj8EtUOTZ_-rDE-96">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="zIRN0Xyj8EtUOTZ_-rDE-93" value="报告书审批&lt;div&gt;报告表跳过此阶段&amp;nbsp;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1587.5" y="2147" width="103.5" height="38" as="geometry" />
+          <mxGeometry x="1589.5" y="2147" width="103.5" height="38" as="geometry" />
         </mxCell>
         <mxCell id="zIRN0Xyj8EtUOTZ_-rDE-108" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.829;exitY=0.489;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="zIRN0Xyj8EtUOTZ_-rDE-94" target="zIRN0Xyj8EtUOTZ_-rDE-92">
           <mxGeometry relative="1" as="geometry" />
@@ -846,7 +849,7 @@
           <mxGeometry x="1448.5" y="2145" width="129" height="47" as="geometry" />
         </mxCell>
         <mxCell id="zIRN0Xyj8EtUOTZ_-rDE-96" value="审查是否通过" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="1589.25" y="2251" width="129" height="47" as="geometry" />
+          <mxGeometry x="1576.25" y="2212" width="129" height="47" as="geometry" />
         </mxCell>
         <mxCell id="zIRN0Xyj8EtUOTZ_-rDE-97" value="专项验收通过，报地方管理部门" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1433" y="2299" width="107" height="38" as="geometry" />
