@@ -664,11 +664,12 @@
         <mxCell id="zIRN0Xyj8EtUOTZ_-rDE-53" value="组织整改" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1194" y="1783" width="90" height="38" as="geometry" />
         </mxCell>
-        <mxCell id="zIRN0Xyj8EtUOTZ_-rDE-57" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="zIRN0Xyj8EtUOTZ_-rDE-46">
+        <mxCell id="zIRN0Xyj8EtUOTZ_-rDE-57" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.829;exitY=0.426;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="zIRN0Xyj8EtUOTZ_-rDE-52" target="zIRN0Xyj8EtUOTZ_-rDE-46">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1730" y="1630" as="sourcePoint" />
             <mxPoint x="1426" y="1598" as="targetPoint" />
             <Array as="points">
+              <mxPoint x="1770" y="1769" />
               <mxPoint x="1650" y="1630" />
             </Array>
           </mxGeometry>
