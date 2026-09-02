@@ -652,8 +652,8 @@
         <mxCell id="zIRN0Xyj8EtUOTZ_-rDE-52" value="审查是否通过" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="1587" y="1750" width="129" height="47" as="geometry" />
         </mxCell>
-        <mxCell id="zIRN0Xyj8EtUOTZ_-rDE-53" value="运行情况检查" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1340" y="1683" width="90" height="38" as="geometry" />
+        <mxCell id="zIRN0Xyj8EtUOTZ_-rDE-53" value="组织整改" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1195" y="1764" width="90" height="38" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
