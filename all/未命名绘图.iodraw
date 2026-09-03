@@ -82,8 +82,8 @@
             <mxPoint x="1118" y="1626" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="uuLHGR9MCX1gwSNQ39ho-1" value="班组长" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="415" y="169" width="114" height="50" as="geometry" />
+        <mxCell id="uuLHGR9MCX1gwSNQ39ho-1" value="环保岗（专、兼职）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="414" y="169" width="114" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
