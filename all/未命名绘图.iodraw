@@ -53,10 +53,10 @@
           <mxGeometry x="108" y="386" width="83" height="90" as="geometry" />
         </mxCell>
         <mxCell id="KzwcP8r9qCKmiWtFyrjv-34" value="出库" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="108" y="476" width="83" height="176" as="geometry" />
+          <mxGeometry x="108" y="476" width="83" height="98" as="geometry" />
         </mxCell>
         <mxCell id="KzwcP8r9qCKmiWtFyrjv-35" value="拉运" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="108" y="666" width="83" height="180" as="geometry" />
+          <mxGeometry x="108" y="665" width="83" height="180" as="geometry" />
         </mxCell>
         <mxCell id="KzwcP8r9qCKmiWtFyrjv-36" value="处置" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="108" y="843" width="83" height="173" as="geometry" />
