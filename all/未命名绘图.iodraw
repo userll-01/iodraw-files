@@ -89,7 +89,10 @@
           <mxGeometry x="526" y="169" width="114" height="50" as="geometry" />
         </mxCell>
         <mxCell id="uuLHGR9MCX1gwSNQ39ho-3" value="项目部/专业公司" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="640" y="103" width="449" height="65" as="geometry" />
+          <mxGeometry x="640" y="104" width="449" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="uuLHGR9MCX1gwSNQ39ho-4" value="环保岗（专、兼职）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="424" y="179" width="114" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
