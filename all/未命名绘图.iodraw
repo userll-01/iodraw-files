@@ -47,7 +47,7 @@
           <mxGeometry x="108" y="219" width="83" height="67" as="geometry" />
         </mxCell>
         <mxCell id="KzwcP8r9qCKmiWtFyrjv-28" value="收集" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="108" y="286" width="83" height="100" as="geometry" />
+          <mxGeometry x="108" y="300" width="83" height="86" as="geometry" />
         </mxCell>
         <mxCell id="KzwcP8r9qCKmiWtFyrjv-33" value="入库" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="108" y="386" width="83" height="90" as="geometry" />
@@ -104,10 +104,10 @@
           <mxGeometry x="1100" y="104" width="230" height="65" as="geometry" />
         </mxCell>
         <mxCell id="uuLHGR9MCX1gwSNQ39ho-10" value="环保岗" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1100" y="185" width="114" height="50" as="geometry" />
+          <mxGeometry x="1100" y="169" width="114" height="50" as="geometry" />
         </mxCell>
         <mxCell id="uuLHGR9MCX1gwSNQ39ho-11" value="环保办公室&lt;div&gt;正、副负责人&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1214" y="185" width="116" height="50" as="geometry" />
+          <mxGeometry x="1214" y="169" width="116" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
