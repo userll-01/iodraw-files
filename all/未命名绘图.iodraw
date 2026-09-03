@@ -118,6 +118,9 @@
         <mxCell id="uuLHGR9MCX1gwSNQ39ho-14" value="分类称重、登记固废房入库" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="426" y="390" width="90" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="uuLHGR9MCX1gwSNQ39ho-15" value="分类称重、登记固废房入库" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="436" y="400" width="90" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
