@@ -56,7 +56,7 @@
           <mxGeometry x="108" y="476" width="83" height="98" as="geometry" />
         </mxCell>
         <mxCell id="KzwcP8r9qCKmiWtFyrjv-35" value="拉运" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="108" y="665" width="83" height="180" as="geometry" />
+          <mxGeometry x="108" y="574" width="83" height="180" as="geometry" />
         </mxCell>
         <mxCell id="KzwcP8r9qCKmiWtFyrjv-36" value="处置" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="108" y="843" width="83" height="173" as="geometry" />
@@ -118,7 +118,7 @@
         <mxCell id="uuLHGR9MCX1gwSNQ39ho-14" value="分类称重、登记固废房入库" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="426" y="390" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="uuLHGR9MCX1gwSNQ39ho-15" value="分类称重、登记固废房入库" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="uuLHGR9MCX1gwSNQ39ho-15" value="根据台账数据上报拉运" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="426" y="490" width="90" height="60" as="geometry" />
         </mxCell>
       </root>
