@@ -131,7 +131,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="uuLHGR9MCX1gwSNQ39ho-16" value="上报拉运计划" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="544" y="490" width="90" height="60" as="geometry" />
+          <mxGeometry x="544" y="490" width="90" height="53" as="geometry" />
         </mxCell>
         <mxCell id="uuLHGR9MCX1gwSNQ39ho-17" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="uuLHGR9MCX1gwSNQ39ho-12">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
