@@ -192,7 +192,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="uuLHGR9MCX1gwSNQ39ho-30" value="组织车辆" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="uuLHGR9MCX1gwSNQ39ho-30" value="出库计量、装车和记录台账" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="426" y="760" width="90" height="37" as="geometry" />
         </mxCell>
       </root>
