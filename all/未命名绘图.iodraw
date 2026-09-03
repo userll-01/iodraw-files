@@ -32,7 +32,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="KzwcP8r9qCKmiWtFyrjv-9" value="基层队站" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="191" y="104" width="223" height="65" as="geometry" />
+          <mxGeometry x="191" y="104" width="449" height="65" as="geometry" />
         </mxCell>
         <mxCell id="KzwcP8r9qCKmiWtFyrjv-11" value="各岗位" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="191" y="169" width="110" height="50" as="geometry" />
@@ -83,10 +83,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="uuLHGR9MCX1gwSNQ39ho-1" value="环保岗（专、兼职）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="414" y="169" width="114" height="50" as="geometry" />
+          <mxGeometry x="415" y="169" width="114" height="50" as="geometry" />
         </mxCell>
         <mxCell id="uuLHGR9MCX1gwSNQ39ho-2" value="队站负责人" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="169" width="114" height="50" as="geometry" />
+          <mxGeometry x="526" y="169" width="114" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
