@@ -112,6 +112,9 @@
         <mxCell id="uuLHGR9MCX1gwSNQ39ho-12" value="随产生放入收集设施" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="205" y="229.5" width="85" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="uuLHGR9MCX1gwSNQ39ho-13" value="随产生放入收集设施" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="300" width="85" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
