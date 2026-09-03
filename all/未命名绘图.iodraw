@@ -151,11 +151,14 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="uuLHGR9MCX1gwSNQ39ho-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uuLHGR9MCX1gwSNQ39ho-21" target="uuLHGR9MCX1gwSNQ39ho-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="uuLHGR9MCX1gwSNQ39ho-21" value="审批拉运计划" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="652" y="490" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uuLHGR9MCX1gwSNQ39ho-23" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="610" y="420" width="80" height="80" as="geometry" />
+          <mxGeometry x="657" y="574" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
