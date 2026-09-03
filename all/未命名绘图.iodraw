@@ -44,7 +44,7 @@
           <mxGeometry x="41" y="218.5" width="67" height="797.5" as="geometry" />
         </mxCell>
         <mxCell id="KzwcP8r9qCKmiWtFyrjv-26" value="产生" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="108" y="219" width="83" height="67" as="geometry" />
+          <mxGeometry x="108" y="219" width="83" height="81" as="geometry" />
         </mxCell>
         <mxCell id="KzwcP8r9qCKmiWtFyrjv-28" value="收集" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="108" y="300" width="83" height="86" as="geometry" />
