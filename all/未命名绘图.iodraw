@@ -97,6 +97,9 @@
         <mxCell id="uuLHGR9MCX1gwSNQ39ho-5" value="环保办公室负责人" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="754" y="169" width="116" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="uuLHGR9MCX1gwSNQ39ho-6" value="项目部/专业公司" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="870" y="104" width="230" height="65" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
