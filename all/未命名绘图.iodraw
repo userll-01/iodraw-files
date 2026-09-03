@@ -100,6 +100,9 @@
         <mxCell id="uuLHGR9MCX1gwSNQ39ho-8" value="环保办公室&lt;div&gt;正、副负责人&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="984" y="169" width="116" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="uuLHGR9MCX1gwSNQ39ho-9" value="总公司" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1100" y="104" width="230" height="65" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
