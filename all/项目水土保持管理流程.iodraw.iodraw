@@ -250,7 +250,7 @@
           <mxGeometry x="620" y="850" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QKdj4n2gvNyY4pAPHCyX-62" value="川庆公司业务部门审批" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="946" y="788" width="94" height="30" as="geometry" />
+          <mxGeometry x="946" y="788" width="104" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QKdj4n2gvNyY4pAPHCyX-63" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="QKdj4n2gvNyY4pAPHCyX-52" target="QKdj4n2gvNyY4pAPHCyX-62">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -258,7 +258,7 @@
             <mxPoint x="910" y="600" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QKdj4n2gvNyY4pAPHCyX-64" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="QKdj4n2gvNyY4pAPHCyX-63">
+        <mxCell id="QKdj4n2gvNyY4pAPHCyX-64" value="Y" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="QKdj4n2gvNyY4pAPHCyX-63">
           <mxGeometry x="-0.0355" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
