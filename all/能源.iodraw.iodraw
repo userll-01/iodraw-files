@@ -323,7 +323,10 @@
           <mxGeometry x="1067" y="910" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="HKMaap-l94tU0r6R_Ycc-70" value="审核是否通过" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1209" y="972" width="90" height="50" as="geometry" />
+          <mxGeometry x="1330" y="1030" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="HKMaap-l94tU0r6R_Ycc-71" value="审核是否通过" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1610" y="1093" width="90" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
