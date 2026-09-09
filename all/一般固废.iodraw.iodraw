@@ -331,11 +331,14 @@
             <mxPoint x="-7" y="-5" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="OLmslDtg9YMi5v1_NCpc-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OLmslDtg9YMi5v1_NCpc-31" target="OLmslDtg9YMi5v1_NCpc-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="OLmslDtg9YMi5v1_NCpc-31" value="检查数据&lt;div&gt;是否准确&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1019" y="968" width="93" height="46" as="geometry" />
         </mxCell>
-        <mxCell id="OLmslDtg9YMi5v1_NCpc-35" value="审阅系统&lt;div&gt;推送数据&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="914" y="983" width="90" height="37" as="geometry" />
+        <mxCell id="OLmslDtg9YMi5v1_NCpc-35" value="报川庆公司审核" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1140" y="973" width="90" height="37" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
