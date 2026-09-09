@@ -73,6 +73,15 @@
         <mxCell id="HKMaap-l94tU0r6R_Ycc-2" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;负责人&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1013" y="230" width="122" height="27" as="geometry" />
         </mxCell>
+        <mxCell id="HKMaap-l94tU0r6R_Ycc-3" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;综合事务管理中心&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="905" y="208" width="265" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="HKMaap-l94tU0r6R_Ycc-4" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;管理员&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="905" y="240" width="143" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="HKMaap-l94tU0r6R_Ycc-5" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;负责人&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1048" y="240" width="122" height="27" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
