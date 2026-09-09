@@ -381,6 +381,9 @@
         <mxCell id="QKdj4n2gvNyY4pAPHCyX-91" value="水土保持方案审查" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="838" y="972" width="80" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="QKdj4n2gvNyY4pAPHCyX-98" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QKdj4n2gvNyY4pAPHCyX-93" target="QKdj4n2gvNyY4pAPHCyX-96">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="QKdj4n2gvNyY4pAPHCyX-93" value="审查是否通过" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="833" y="1023" width="90" height="50" as="geometry" />
         </mxCell>
@@ -390,7 +393,7 @@
             <mxPoint x="837" y="1048" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QKdj4n2gvNyY4pAPHCyX-96" value="水土保持方案审查" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="QKdj4n2gvNyY4pAPHCyX-96" value="报川庆公司审查" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1000" y="1033" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QKdj4n2gvNyY4pAPHCyX-97" value="报地方水行政主管部门" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
