@@ -349,9 +349,9 @@
             <mxPoint x="720" y="864" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HKMaap-l94tU0r6R_Ycc-80" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="HKMaap-l94tU0r6R_Ycc-80" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="HKMaap-l94tU0r6R_Ycc-69">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="930" y="1030" as="sourcePoint" />
+            <mxPoint x="720" y="931" as="sourcePoint" />
             <mxPoint x="980" y="980" as="targetPoint" />
           </mxGeometry>
         </mxCell>
