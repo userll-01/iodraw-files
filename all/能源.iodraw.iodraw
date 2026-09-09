@@ -261,8 +261,8 @@
         </mxCell>
         <mxCell id="HKMaap-l94tU0r6R_Ycc-52" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="970" y="740" as="sourcePoint" />
-            <mxPoint x="970" y="773" as="targetPoint" />
+            <mxPoint x="970" y="738" as="sourcePoint" />
+            <mxPoint x="970" y="771" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
