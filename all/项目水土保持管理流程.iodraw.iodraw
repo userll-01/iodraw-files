@@ -330,7 +330,7 @@
         </mxCell>
         <mxCell id="QKdj4n2gvNyY4pAPHCyX-79" value="报告表：征地面积 0.5~5 公顷 / 挖方 1000~50000 立方米&amp;nbsp;&lt;div&gt;报告书：征地面积＞5 公顷 / 挖方面积＞50000 立方米&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="QKdj4n2gvNyY4pAPHCyX-78">
           <mxGeometry x="0.1184" y="3" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="3" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
