@@ -266,7 +266,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="HKMaap-l94tU0r6R_Ycc-51" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;汇总、统计&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;形成分析报告&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1730" y="990" width="110" height="40" as="geometry" />
+          <mxGeometry x="1729" y="990" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HKMaap-l94tU0r6R_Ycc-52" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -286,7 +286,7 @@
             <mxPoint x="1509.5" y="770" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HKMaap-l94tU0r6R_Ycc-56" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+        <mxCell id="HKMaap-l94tU0r6R_Ycc-56" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="HKMaap-l94tU0r6R_Ycc-51">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1769.5" y="736" as="sourcePoint" />
             <mxPoint x="1769.5" y="769" as="targetPoint" />
