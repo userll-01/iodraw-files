@@ -32,13 +32,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="KzwcP8r9qCKmiWtFyrjv-9" value="第三方服务机构" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="191" y="104" width="443" height="65" as="geometry" />
+          <mxGeometry x="170" y="104" width="443" height="65" as="geometry" />
         </mxCell>
         <mxCell id="KzwcP8r9qCKmiWtFyrjv-11" value="设计单位" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="191" y="169" width="110" height="50" as="geometry" />
+          <mxGeometry x="170" y="169" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="KzwcP8r9qCKmiWtFyrjv-12" value="水土保持方案&lt;div&gt;设计单位&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="300" y="169" width="114" height="50" as="geometry" />
+          <mxGeometry x="279" y="169" width="114" height="50" as="geometry" />
         </mxCell>
         <mxCell id="KzwcP8r9qCKmiWtFyrjv-25" value="&lt;div&gt;立&lt;/div&gt;&lt;div&gt;项&lt;/div&gt;&lt;div&gt;阶&lt;/div&gt;&lt;div&gt;段&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="41" y="218.5" width="129" height="797.5" as="geometry" />
@@ -63,28 +63,28 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="QKdj4n2gvNyY4pAPHCyX-1" value="水土保持检测、&lt;div&gt;监理单位&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="414" y="169" width="110" height="50" as="geometry" />
+          <mxGeometry x="393" y="169" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="QKdj4n2gvNyY4pAPHCyX-2" value="设计单位" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="524" y="169" width="110" height="50" as="geometry" />
+          <mxGeometry x="503" y="169" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="QKdj4n2gvNyY4pAPHCyX-4" value="总公司" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="634" y="104" width="333" height="65" as="geometry" />
+          <mxGeometry x="613" y="104" width="333" height="65" as="geometry" />
         </mxCell>
         <mxCell id="QKdj4n2gvNyY4pAPHCyX-5" value="项目实施单位" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="634" y="169" width="110" height="50" as="geometry" />
+          <mxGeometry x="613" y="169" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="QKdj4n2gvNyY4pAPHCyX-6" value="业务主管部门" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="743" y="169" width="114" height="50" as="geometry" />
+          <mxGeometry x="722" y="169" width="114" height="50" as="geometry" />
         </mxCell>
         <mxCell id="QKdj4n2gvNyY4pAPHCyX-7" value="安全环保部门" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="857" y="169" width="110" height="50" as="geometry" />
+          <mxGeometry x="836" y="169" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="QKdj4n2gvNyY4pAPHCyX-9" value="川庆公司" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="967" y="104" width="120" height="115" as="geometry" />
+          <mxGeometry x="946" y="104" width="120" height="115" as="geometry" />
         </mxCell>
         <mxCell id="QKdj4n2gvNyY4pAPHCyX-11" value="地方水行政&lt;div&gt;主管部门&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1087" y="103" width="103" height="115" as="geometry" />
+          <mxGeometry x="1066" y="103" width="103" height="115" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
