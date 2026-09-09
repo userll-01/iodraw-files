@@ -343,7 +343,7 @@
             <mxPoint x="722" y="733" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HKMaap-l94tU0r6R_Ycc-79" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="HKMaap-l94tU0r6R_Ycc-79" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="HKMaap-l94tU0r6R_Ycc-57">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1060" y="850" as="sourcePoint" />
             <mxPoint x="720" y="870" as="targetPoint" />
