@@ -357,6 +357,14 @@
             <mxPoint x="930" y="1140" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="OLmslDtg9YMi5v1_NCpc-53" value="Y" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="OLmslDtg9YMi5v1_NCpc-50">
+          <mxGeometry x="-0.1812" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OLmslDtg9YMi5v1_NCpc-54" value="审核系统&lt;div&gt;推送数据&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="790" y="1060" width="90" height="37" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
