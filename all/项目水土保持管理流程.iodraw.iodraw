@@ -206,6 +206,9 @@
         <mxCell id="QKdj4n2gvNyY4pAPHCyX-46" value="川庆公司报备" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="946" y="661" width="80" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="QKdj4n2gvNyY4pAPHCyX-48" value="&lt;p&gt;是否涉及水土流失重点预防区和重点治理区&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="809" y="740" width="130" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
