@@ -418,6 +418,11 @@
             <mxPoint x="1007" y="1105" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="QKdj4n2gvNyY4pAPHCyX-107" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="QKdj4n2gvNyY4pAPHCyX-102">
+          <mxGeometry x="-0.3815" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="QKdj4n2gvNyY4pAPHCyX-103" value="审查是否通过" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="610" y="1225" width="90" height="50" as="geometry" />
         </mxCell>
@@ -427,7 +432,7 @@
             <mxPoint x="606" y="1250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QKdj4n2gvNyY4pAPHCyX-106" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="QKdj4n2gvNyY4pAPHCyX-105">
+        <mxCell id="QKdj4n2gvNyY4pAPHCyX-106" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="QKdj4n2gvNyY4pAPHCyX-105">
           <mxGeometry x="0.3586" y="-3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
