@@ -474,8 +474,8 @@
             <mxPoint y="1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="klXIrQ5wFRsCaPP-dyNZ-23" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;汇&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;总&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="790" width="157" height="510" as="geometry" />
+        <mxCell id="klXIrQ5wFRsCaPP-dyNZ-23" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;校&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;准&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="1287" width="157" height="510" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
