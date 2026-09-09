@@ -247,7 +247,7 @@
         <mxCell id="HKMaap-l94tU0r6R_Ycc-47" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;校对&lt;/span&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;水量数据&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="930" y="770" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="HKMaap-l94tU0r6R_Ycc-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="HKMaap-l94tU0r6R_Ycc-48" target="HKMaap-l94tU0r6R_Ycc-61" edge="1">
+        <mxCell id="HKMaap-l94tU0r6R_Ycc-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="klXIrQ5wFRsCaPP-dyNZ-4" target="HKMaap-l94tU0r6R_Ycc-61" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HKMaap-l94tU0r6R_Ycc-48" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;审核&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;电力数据&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -420,8 +420,14 @@
             <mxPoint x="1230" y="870" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="klXIrQ5wFRsCaPP-dyNZ-4" value="" style="shape=stencil(pVPhjsIgDH4a/hoc8QEu3PkedVZHnEAKut3bXxm7xOEwJiYLWb9v/dp+HULp0IFH0chOqG/RNFsp+eR4KGIIHtuYwTuQgUOPmQmR3AUHc4yzhrEdkomJVT9CfvE36VG6ddayiHE2LJgHnsXAWM6VYxaby//O0WaXY88VrhiR5jYzKpr928LbT4SVZqQ2jtIHaC9ncjd7XG2HkpO1CdftL9ez2lClrNInR/iin5Pp+7zFFx56SPt9Iv7pq7tjbaZdpemlAlDLLzQuc6jQGAsjCroHOmNSemwjDIj+rR+F8cqcfFNqDk1pTxZPaL5dE/AH);whiteSpace=wrap;html=1;rotation=-169;" vertex="1" parent="1">
-          <mxGeometry x="1261.31" y="873.45" width="27.69" height="32.55" as="geometry" />
+        <mxCell id="klXIrQ5wFRsCaPP-dyNZ-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HKMaap-l94tU0r6R_Ycc-48" target="klXIrQ5wFRsCaPP-dyNZ-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1244" y="810" as="sourcePoint" />
+            <mxPoint x="1244" y="962" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="klXIrQ5wFRsCaPP-dyNZ-4" value="" style="shape=stencil(pVPhjsIgDH4a/hoc8QEu3PkedVZHnEAKut3bXxm7xOEwJiYLWb9v/dp+HULp0IFH0chOqG/RNFsp+eR4KGIIHtuYwTuQgUOPmQmR3AUHc4yzhrEdkomJVT9CfvE36VG6ddayiHE2LJgHnsXAWM6VYxaby//O0WaXY88VrhiR5jYzKpr928LbT4SVZqQ2jtIHaC9ncjd7XG2HkpO1CdftL9ez2lClrNInR/iin5Pp+7zFFx56SPt9Iv7pq7tjbaZdpemlAlDLLzQuc6jQGAsjCroHOmNSemwjDIj+rR+F8cqcfFNqDk1pTxZPaL5dE/AH);whiteSpace=wrap;html=1;rotation=-180;" vertex="1" parent="1">
+          <mxGeometry x="1230.1599999999999" y="856.45" width="27.69" height="32.55" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
