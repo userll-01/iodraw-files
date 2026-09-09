@@ -1,14 +1,14 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.289 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="VtreUaIQKaSy79a-vFFt">
-    <mxGraphModel dx="1348" dy="916" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="1334" dy="902" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="KzwcP8r9qCKmiWtFyrjv-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="41" y="104" width="150" height="116" as="geometry" />
         </mxCell>
-        <mxCell id="TT1xrOZBvsEEWYrkdfZf-1" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;水基岩屑管理流程图&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="481" y="28" width="240" height="60" as="geometry" />
+        <mxCell id="TT1xrOZBvsEEWYrkdfZf-1" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;项目水土保持管理流程&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="481" y="28" width="259" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TT1xrOZBvsEEWYrkdfZf-4" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;管理层&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=none;gradientColor=default;gradientDirection=north;" parent="1" vertex="1">
           <mxGeometry x="125" y="117" width="80" height="40" as="geometry" />
@@ -532,7 +532,7 @@
             <mxPoint x="456" y="1051" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_-jvDkMVsQQUibyhpkat-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_-jvDkMVsQQUibyhpkat-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="520" y="440" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
