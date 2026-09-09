@@ -543,10 +543,13 @@
         <mxCell id="klXIrQ5wFRsCaPP-dyNZ-44" value="审核是否通过" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1685" y="1430" width="90" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="klXIrQ5wFRsCaPP-dyNZ-46" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="klXIrQ5wFRsCaPP-dyNZ-46" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="klXIrQ5wFRsCaPP-dyNZ-44" target="klXIrQ5wFRsCaPP-dyNZ-41">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1650" y="1540" as="sourcePoint" />
             <mxPoint x="1700" y="1490" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1595" y="1455" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
