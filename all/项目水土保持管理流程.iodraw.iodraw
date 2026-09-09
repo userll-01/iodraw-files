@@ -204,7 +204,7 @@
           <mxGeometry x="817" y="580" width="109" height="50" as="geometry" />
         </mxCell>
         <mxCell id="QKdj4n2gvNyY4pAPHCyX-44" value="是否存在" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="826" y="680" width="90" height="50" as="geometry" />
+          <mxGeometry x="826.5" y="650" width="90" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
