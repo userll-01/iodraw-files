@@ -220,8 +220,8 @@
             <mxPoint x="650" y="840" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OLmslDtg9YMi5v1_NCpc-1" value="处置台账登记、回执" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="435" y="830" width="90" height="37" as="geometry" />
+        <mxCell id="OLmslDtg9YMi5v1_NCpc-1" value="汇总产生、拉运、处置数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="425" y="930" width="90" height="37" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
