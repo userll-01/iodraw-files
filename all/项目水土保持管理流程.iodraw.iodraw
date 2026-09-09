@@ -75,7 +75,7 @@
           <mxGeometry x="524" y="169" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="QKdj4n2gvNyY4pAPHCyX-4" value="总公司" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="634" y="104" width="443" height="65" as="geometry" />
+          <mxGeometry x="634" y="104" width="333" height="65" as="geometry" />
         </mxCell>
         <mxCell id="QKdj4n2gvNyY4pAPHCyX-5" value="项目实施单位" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="634" y="169" width="110" height="50" as="geometry" />
@@ -85,6 +85,9 @@
         </mxCell>
         <mxCell id="QKdj4n2gvNyY4pAPHCyX-7" value="安全环保部门" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="857" y="169" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="QKdj4n2gvNyY4pAPHCyX-9" value="第三方服务机构" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="201" y="114" width="443" height="65" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
