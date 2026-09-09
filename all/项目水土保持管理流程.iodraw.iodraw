@@ -174,6 +174,9 @@
         <mxCell id="QKdj4n2gvNyY4pAPHCyX-28" value="&lt;p&gt;是否存在地表扰动、地貌损坏、土石方开挖、填筑、转运、堆存&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="826.5" y="390" width="89" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="QKdj4n2gvNyY4pAPHCyX-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QKdj4n2gvNyY4pAPHCyX-31" target="QKdj4n2gvNyY4pAPHCyX-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="QKdj4n2gvNyY4pAPHCyX-31" value="是否存在" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="826.5" y="478" width="90" height="50" as="geometry" />
         </mxCell>
@@ -195,7 +198,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="QKdj4n2gvNyY4pAPHCyX-42" value="立项方案初审" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="618" y="304" width="80" height="30" as="geometry" />
+          <mxGeometry x="831.5" y="580" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
