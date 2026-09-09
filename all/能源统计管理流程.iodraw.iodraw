@@ -333,7 +333,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HKMaap-l94tU0r6R_Ycc-67" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;审核&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1750" y="1137" width="80" height="40" as="geometry" />
+          <mxGeometry x="1461" y="1137" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HKMaap-l94tU0r6R_Ycc-69" value="审核是否通过" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="914" y="943" width="90" height="50" as="geometry" />
@@ -502,6 +502,11 @@
         </mxCell>
         <mxCell id="klXIrQ5wFRsCaPP-dyNZ-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="klXIrQ5wFRsCaPP-dyNZ-34" target="klXIrQ5wFRsCaPP-dyNZ-36">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="klXIrQ5wFRsCaPP-dyNZ-40" value="Y" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="klXIrQ5wFRsCaPP-dyNZ-37">
+          <mxGeometry x="-0.1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="klXIrQ5wFRsCaPP-dyNZ-34" value="审核是否通过" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1995" y="1440" width="90" height="50" as="geometry" />
