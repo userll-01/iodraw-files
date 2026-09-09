@@ -410,11 +410,17 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="OLmslDtg9YMi5v1_NCpc-69" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OLmslDtg9YMi5v1_NCpc-64" target="OLmslDtg9YMi5v1_NCpc-68">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="OLmslDtg9YMi5v1_NCpc-64" value="检查是否&lt;div&gt;存在问题&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="915" y="1236" width="93" height="46" as="geometry" />
         </mxCell>
         <mxCell id="OLmslDtg9YMi5v1_NCpc-68" value="审核系统&lt;span style=&quot;background-color: initial;&quot;&gt;数据&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="927" y="1334.5" width="90" height="37" as="geometry" />
+          <mxGeometry x="1038" y="1240" width="90" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="OLmslDtg9YMi5v1_NCpc-70" value="检查是否&lt;div&gt;存在问题&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="925" y="1246" width="93" height="46" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
