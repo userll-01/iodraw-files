@@ -208,6 +208,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="OLmslDtg9YMi5v1_NCpc-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uuLHGR9MCX1gwSNQ39ho-32" target="OLmslDtg9YMi5v1_NCpc-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="uuLHGR9MCX1gwSNQ39ho-32" value="处置台账登记、回执" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="425" y="820" width="90" height="37" as="geometry" />
         </mxCell>
@@ -222,6 +225,9 @@
         </mxCell>
         <mxCell id="OLmslDtg9YMi5v1_NCpc-1" value="汇总产生、拉运、处置数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="425" y="900" width="90" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="OLmslDtg9YMi5v1_NCpc-3" value="汇总产生、拉运、处置数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="435" y="910" width="90" height="37" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
