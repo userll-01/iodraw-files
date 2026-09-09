@@ -320,11 +320,14 @@
         <mxCell id="OLmslDtg9YMi5v1_NCpc-40" value="审阅报告数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1030" y="1120" width="90" height="37" as="geometry" />
         </mxCell>
+        <mxCell id="OLmslDtg9YMi5v1_NCpc-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OLmslDtg9YMi5v1_NCpc-42" target="OLmslDtg9YMi5v1_NCpc-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="OLmslDtg9YMi5v1_NCpc-42" value="检查是否&lt;div&gt;存在问题&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1028" y="1190" width="93" height="46" as="geometry" />
         </mxCell>
-        <mxCell id="OLmslDtg9YMi5v1_NCpc-44" value="审阅报告数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1170" y="1194.5" width="90" height="37" as="geometry" />
+        <mxCell id="OLmslDtg9YMi5v1_NCpc-44" value="报川庆公司" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1152" y="1194.5" width="90" height="37" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
