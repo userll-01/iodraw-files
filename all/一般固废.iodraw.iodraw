@@ -306,8 +306,13 @@
         <mxCell id="OLmslDtg9YMi5v1_NCpc-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OLmslDtg9YMi5v1_NCpc-25" target="OLmslDtg9YMi5v1_NCpc-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="OLmslDtg9YMi5v1_NCpc-28" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="OLmslDtg9YMi5v1_NCpc-27">
+          <mxGeometry x="-0.3231" y="1" relative="1" as="geometry">
+            <mxPoint x="-2" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="OLmslDtg9YMi5v1_NCpc-25" value="检查数据&lt;div&gt;是否准确&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="910" y="1040" width="93" height="46" as="geometry" />
+          <mxGeometry x="902" y="1045" width="93" height="46" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
