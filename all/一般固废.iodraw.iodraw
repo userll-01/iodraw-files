@@ -302,8 +302,9 @@
             <mxPoint x="-2" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OLmslDtg9YMi5v1_NCpc-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OLmslDtg9YMi5v1_NCpc-25" target="OLmslDtg9YMi5v1_NCpc-29">
+        <mxCell id="OLmslDtg9YMi5v1_NCpc-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OLmslDtg9YMi5v1_NCpc-25">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1020" y="1068" as="targetPoint" />
             <Array as="points">
               <mxPoint x="1015" y="1070" />
               <mxPoint x="1015" y="1068" />
@@ -321,11 +322,10 @@
         <mxCell id="OLmslDtg9YMi5v1_NCpc-25" value="检查数据&lt;div&gt;是否准确&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="902" y="1045" width="93" height="46" as="geometry" />
         </mxCell>
-        <mxCell id="OLmslDtg9YMi5v1_NCpc-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OLmslDtg9YMi5v1_NCpc-29" target="OLmslDtg9YMi5v1_NCpc-31">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="OLmslDtg9YMi5v1_NCpc-29" value="审阅系统&lt;div&gt;推送数据&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1020" y="1049.5" width="90" height="37" as="geometry" />
+        <mxCell id="OLmslDtg9YMi5v1_NCpc-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="OLmslDtg9YMi5v1_NCpc-31">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1065" y="1049.5" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="OLmslDtg9YMi5v1_NCpc-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OLmslDtg9YMi5v1_NCpc-31" target="OLmslDtg9YMi5v1_NCpc-22">
           <mxGeometry relative="1" as="geometry" />
@@ -344,11 +344,14 @@
         <mxCell id="OLmslDtg9YMi5v1_NCpc-35" value="报川庆公司审核" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1140" y="973" width="90" height="37" as="geometry" />
         </mxCell>
+        <mxCell id="OLmslDtg9YMi5v1_NCpc-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OLmslDtg9YMi5v1_NCpc-38" target="OLmslDtg9YMi5v1_NCpc-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="OLmslDtg9YMi5v1_NCpc-38" value="分析系统数据&lt;div&gt;编订季度报告&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="904" y="1120" width="90" height="37" as="geometry" />
         </mxCell>
-        <mxCell id="OLmslDtg9YMi5v1_NCpc-40" value="审阅系统&lt;div&gt;推送数据&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1040" y="1120" width="90" height="37" as="geometry" />
+        <mxCell id="OLmslDtg9YMi5v1_NCpc-40" value="审阅报告数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1030" y="1120" width="90" height="37" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
