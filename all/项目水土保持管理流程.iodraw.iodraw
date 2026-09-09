@@ -393,6 +393,9 @@
         <mxCell id="QKdj4n2gvNyY4pAPHCyX-96" value="报川庆公司审查" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1000" y="1033" width="90" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="QKdj4n2gvNyY4pAPHCyX-104" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QKdj4n2gvNyY4pAPHCyX-97" target="QKdj4n2gvNyY4pAPHCyX-103">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="QKdj4n2gvNyY4pAPHCyX-97" value="报地方水行政主管部门审查、审批" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="600" y="1170" width="110" height="30" as="geometry" />
         </mxCell>
@@ -416,7 +419,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="QKdj4n2gvNyY4pAPHCyX-103" value="审查是否通过" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="625" y="972" width="90" height="50" as="geometry" />
+          <mxGeometry x="613" y="1230" width="90" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
