@@ -247,7 +247,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="QKdj4n2gvNyY4pAPHCyX-61" value="组织项目设计" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="620" y="846" width="80" height="30" as="geometry" />
+          <mxGeometry x="620" y="841" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QKdj4n2gvNyY4pAPHCyX-67" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QKdj4n2gvNyY4pAPHCyX-62" target="QKdj4n2gvNyY4pAPHCyX-66">
           <mxGeometry relative="1" as="geometry" />
@@ -288,6 +288,11 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="833" y="940" as="sourcePoint" />
             <mxPoint x="750" y="860" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QKdj4n2gvNyY4pAPHCyX-71" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="QKdj4n2gvNyY4pAPHCyX-70">
+          <mxGeometry x="0.312" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
