@@ -399,8 +399,8 @@
         <mxCell id="OLmslDtg9YMi5v1_NCpc-60" value="审核系统&lt;span style=&quot;background-color: initial;&quot;&gt;数据&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="917" y="1324.5" width="90" height="37" as="geometry" />
         </mxCell>
-        <mxCell id="OLmslDtg9YMi5v1_NCpc-63" value="审核系统&lt;span style=&quot;background-color: initial;&quot;&gt;数据&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="810" y="1260" width="90" height="37" as="geometry" />
+        <mxCell id="OLmslDtg9YMi5v1_NCpc-64" value="检查数据&lt;div&gt;是否准确&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="915.5" y="1260" width="93" height="46" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
