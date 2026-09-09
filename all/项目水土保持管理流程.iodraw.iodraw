@@ -158,8 +158,8 @@
             <mxPoint x="600" y="418.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QKdj4n2gvNyY4pAPHCyX-28" value="&lt;p&gt;是否存在地表扰动、地貌损坏、土石方开挖、填筑、转运、堆存&lt;/p&gt;&lt;p&gt;今天 16:57&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="831" y="370" width="89" height="64" as="geometry" />
+        <mxCell id="QKdj4n2gvNyY4pAPHCyX-28" value="&lt;p&gt;是否存在地表扰动、地貌损坏、土石方开挖、填筑、转运、堆存&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="831" y="370" width="89" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
