@@ -513,18 +513,11 @@
         <mxCell id="klXIrQ5wFRsCaPP-dyNZ-36" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;报川庆公司&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2000" y="1512" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="klXIrQ5wFRsCaPP-dyNZ-38" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="klXIrQ5wFRsCaPP-dyNZ-34" target="klXIrQ5wFRsCaPP-dyNZ-31">
+        <mxCell id="klXIrQ5wFRsCaPP-dyNZ-38" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="klXIrQ5wFRsCaPP-dyNZ-50" target="klXIrQ5wFRsCaPP-dyNZ-31">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1990" y="1442" as="sourcePoint" />
             <mxPoint x="1750" y="1372" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="1910" y="1447" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="klXIrQ5wFRsCaPP-dyNZ-39" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="klXIrQ5wFRsCaPP-dyNZ-38">
-          <mxGeometry x="-0.4715" y="2" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="klXIrQ5wFRsCaPP-dyNZ-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="klXIrQ5wFRsCaPP-dyNZ-41" target="klXIrQ5wFRsCaPP-dyNZ-42">
@@ -559,8 +552,22 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="klXIrQ5wFRsCaPP-dyNZ-51" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="klXIrQ5wFRsCaPP-dyNZ-34" target="klXIrQ5wFRsCaPP-dyNZ-50">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1995" y="1447" as="sourcePoint" />
+            <mxPoint x="1911" y="1391" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1910" y="1447" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="klXIrQ5wFRsCaPP-dyNZ-52" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="klXIrQ5wFRsCaPP-dyNZ-51">
+          <mxGeometry x="-0.4715" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="klXIrQ5wFRsCaPP-dyNZ-50" value="审核是否通过" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2005" y="1432" width="90" height="50" as="geometry" />
+          <mxGeometry x="1871" y="1422" width="90" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
