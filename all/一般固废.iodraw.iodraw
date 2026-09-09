@@ -238,6 +238,9 @@
         <mxCell id="OLmslDtg9YMi5v1_NCpc-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OLmslDtg9YMi5v1_NCpc-5" target="OLmslDtg9YMi5v1_NCpc-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="OLmslDtg9YMi5v1_NCpc-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OLmslDtg9YMi5v1_NCpc-5" target="OLmslDtg9YMi5v1_NCpc-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="OLmslDtg9YMi5v1_NCpc-5" value="检查数据&lt;div&gt;是否准确&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="536.5" y="970" width="93" height="46" as="geometry" />
         </mxCell>
@@ -245,7 +248,7 @@
           <mxGeometry x="538" y="1050" width="90" height="37" as="geometry" />
         </mxCell>
         <mxCell id="OLmslDtg9YMi5v1_NCpc-9" value="收集回执" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="664" y="830" width="90" height="37" as="geometry" />
+          <mxGeometry x="660" y="974.5" width="90" height="37" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
