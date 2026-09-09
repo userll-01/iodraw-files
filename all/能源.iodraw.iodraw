@@ -337,10 +337,10 @@
         <mxCell id="HKMaap-l94tU0r6R_Ycc-71" value="审核是否通过" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1605" y="1172" width="90" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="HKMaap-l94tU0r6R_Ycc-76" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="HKMaap-l94tU0r6R_Ycc-77" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="672" y="790" as="sourcePoint" />
-            <mxPoint x="722" y="730" as="targetPoint" />
+            <mxPoint x="670" y="889" as="sourcePoint" />
+            <mxPoint x="720" y="740" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
