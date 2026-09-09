@@ -97,8 +97,8 @@
         <mxCell id="HKMaap-l94tU0r6R_Ycc-13" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;统&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;计&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="257" width="157" height="423" as="geometry" />
         </mxCell>
-        <mxCell id="HKMaap-l94tU0r6R_Ycc-14" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;统计人员&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="397" y="207" width="143" height="60" as="geometry" />
+        <mxCell id="HKMaap-l94tU0r6R_Ycc-14" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;每日统计能源消耗情况&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="412" y="280" width="93" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
