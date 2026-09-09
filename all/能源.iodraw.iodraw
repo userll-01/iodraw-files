@@ -209,8 +209,8 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HKMaap-l94tU0r6R_Ycc-37" value="汇总每月能耗&lt;br/&gt;（每季度 / 半年 / 年形&lt;br/&gt;成分析报告）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="671" y="638" width="109" height="62" as="geometry" />
+        <mxCell id="HKMaap-l94tU0r6R_Ycc-37" value="汇总每月能耗&lt;br&gt;（每季度 / 半年 / 年形成分析报告）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="671" y="638" width="109" height="52" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
