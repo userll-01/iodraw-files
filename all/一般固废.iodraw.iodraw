@@ -238,6 +238,9 @@
         <mxCell id="OLmslDtg9YMi5v1_NCpc-5" value="检查数据&lt;div&gt;是否准确&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="536.5" y="970" width="93" height="46" as="geometry" />
         </mxCell>
+        <mxCell id="OLmslDtg9YMi5v1_NCpc-7" value="汇总产生、拉运、处置数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="435" y="910" width="90" height="37" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
