@@ -384,10 +384,10 @@
         <mxCell id="QKdj4n2gvNyY4pAPHCyX-93" value="审查是否通过" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="833" y="1023" width="90" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="QKdj4n2gvNyY4pAPHCyX-95" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="QKdj4n2gvNyY4pAPHCyX-93">
+        <mxCell id="QKdj4n2gvNyY4pAPHCyX-95" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="220" y="1048" as="sourcePoint" />
-            <mxPoint x="560" y="1040" as="targetPoint" />
+            <mxPoint x="211" y="1048" as="sourcePoint" />
+            <mxPoint x="834" y="1048" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
