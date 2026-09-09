@@ -394,7 +394,7 @@
           <mxGeometry x="1000" y="1033" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QKdj4n2gvNyY4pAPHCyX-97" value="报地方水行政主管部门审查、审批" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="615" y="1170" width="80" height="30" as="geometry" />
+          <mxGeometry x="600" y="1170" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QKdj4n2gvNyY4pAPHCyX-99" value="审查是否通过" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1000" y="1080" width="90" height="50" as="geometry" />
@@ -414,6 +414,9 @@
             <mxPoint x="315" y="1110" as="sourcePoint" />
             <mxPoint x="1007" y="1105" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="QKdj4n2gvNyY4pAPHCyX-103" value="审查是否通过" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="625" y="972" width="90" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
