@@ -16,7 +16,7 @@
         <mxCell id="TT1xrOZBvsEEWYrkdfZf-5" value="管理流程" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" parent="1" vertex="1">
           <mxGeometry x="115" y="170" width="70" height="32" as="geometry" />
         </mxCell>
-        <mxCell id="TT1xrOZBvsEEWYrkdfZf-6" value="管理内容" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;direction=west;" parent="1" vertex="1">
+        <mxCell id="TT1xrOZBvsEEWYrkdfZf-6" value="管理流程" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;direction=west;" parent="1" vertex="1">
           <mxGeometry x="42" y="185" width="51" height="33" as="geometry" />
         </mxCell>
         <mxCell id="TT1xrOZBvsEEWYrkdfZf-8" value="" style="endArrow=none;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" parent="1" source="KzwcP8r9qCKmiWtFyrjv-4" target="KzwcP8r9qCKmiWtFyrjv-26" edge="1">
