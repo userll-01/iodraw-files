@@ -151,13 +151,14 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="uuLHGR9MCX1gwSNQ39ho-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="uuLHGR9MCX1gwSNQ39ho-21" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="697.5" y="576" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="uuLHGR9MCX1gwSNQ39ho-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="uuLHGR9MCX1gwSNQ39ho-21" target="uuLHGR9MCX1gwSNQ39ho-23" edge="1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="uuLHGR9MCX1gwSNQ39ho-21" value="审批拉运计划" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="652" y="490" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uuLHGR9MCX1gwSNQ39ho-23" value="审批是否通过" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="651" y="576" width="93" height="46" as="geometry" />
         </mxCell>
         <mxCell id="uuLHGR9MCX1gwSNQ39ho-25" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -176,9 +177,9 @@
         <mxCell id="uuLHGR9MCX1gwSNQ39ho-27" value="组织车辆" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="559" y="680" width="90" height="37" as="geometry" />
         </mxCell>
-        <mxCell id="uuLHGR9MCX1gwSNQ39ho-28" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="uuLHGR9MCX1gwSNQ39ho-27" edge="1">
+        <mxCell id="uuLHGR9MCX1gwSNQ39ho-28" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="uuLHGR9MCX1gwSNQ39ho-23" target="uuLHGR9MCX1gwSNQ39ho-27" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="697.5" y="622" as="sourcePoint" />
+            <mxPoint x="700" y="710" as="sourcePoint" />
             <mxPoint x="750" y="660" as="targetPoint" />
             <Array as="points">
               <mxPoint x="698" y="640" />
@@ -228,8 +229,14 @@
         <mxCell id="OLmslDtg9YMi5v1_NCpc-1" value="汇总产生、拉运、处置数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="425" y="900" width="90" height="37" as="geometry" />
         </mxCell>
+        <mxCell id="OLmslDtg9YMi5v1_NCpc-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OLmslDtg9YMi5v1_NCpc-3" target="OLmslDtg9YMi5v1_NCpc-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="OLmslDtg9YMi5v1_NCpc-3" value="审核数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="550" y="900" width="66" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="OLmslDtg9YMi5v1_NCpc-5" value="审批是否通过" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="536.5" y="970" width="93" height="46" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
