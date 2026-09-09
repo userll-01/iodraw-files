@@ -62,7 +62,7 @@
           <mxGeometry x="108" y="800" width="83" height="100" as="geometry" />
         </mxCell>
         <mxCell id="KzwcP8r9qCKmiWtFyrjv-113" value="川&lt;div&gt;庆&lt;/div&gt;&lt;div&gt;公&lt;/div&gt;&lt;div&gt;司&lt;/div&gt;&lt;div&gt;系&lt;/div&gt;&lt;div&gt;统&lt;/div&gt;&lt;div&gt;填&lt;/div&gt;&lt;div&gt;报&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="107.5" y="900" width="83" height="292" as="geometry" />
+          <mxGeometry x="107.5" y="900" width="83" height="340" as="geometry" />
         </mxCell>
         <mxCell id="KzwcP8r9qCKmiWtFyrjv-114" value="系&lt;div&gt;统&lt;/div&gt;&lt;div&gt;填&lt;/div&gt;&lt;div&gt;报&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="41" y="900" width="67" height="639" as="geometry" />
@@ -347,6 +347,9 @@
           <mxGeometry x="-0.4627" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="OLmslDtg9YMi5v1_NCpc-49" value="组织系统填报" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="548" y="1060" width="90" height="37" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
