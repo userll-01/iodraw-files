@@ -435,8 +435,14 @@
             <mxPoint y="-3" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="OLmslDtg9YMi5v1_NCpc-76" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OLmslDtg9YMi5v1_NCpc-70" target="OLmslDtg9YMi5v1_NCpc-75">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="OLmslDtg9YMi5v1_NCpc-70" value="检查是否&lt;div&gt;存在问题&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1036" y="1320" width="93" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="OLmslDtg9YMi5v1_NCpc-75" value="报川庆公司" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1155" y="1324.5" width="68" height="37" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
