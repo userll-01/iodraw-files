@@ -72,8 +72,8 @@
         </mxCell>
         <mxCell id="KzwcP8r9qCKmiWtFyrjv-116" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="185" y="1539" as="sourcePoint" />
-            <mxPoint x="1115" y="1539" as="targetPoint" />
+            <mxPoint x="190" y="1399" as="sourcePoint" />
+            <mxPoint x="1120" y="1399" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="uuLHGR9MCX1gwSNQ39ho-1" value="环保岗（专、兼职）" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
