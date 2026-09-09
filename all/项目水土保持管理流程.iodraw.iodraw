@@ -56,12 +56,6 @@
         <mxCell id="KzwcP8r9qCKmiWtFyrjv-114" value="系&lt;div&gt;统&lt;/div&gt;&lt;div&gt;填&lt;/div&gt;&lt;div&gt;报&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="21" y="840" width="129" height="610" as="geometry" />
         </mxCell>
-        <mxCell id="KzwcP8r9qCKmiWtFyrjv-116" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="188" y="1626" as="sourcePoint" />
-            <mxPoint x="1118" y="1626" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="QKdj4n2gvNyY4pAPHCyX-1" value="水土保持检测、&lt;div&gt;监理单位&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="373" y="169" width="110" height="50" as="geometry" />
         </mxCell>
@@ -415,10 +409,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="QKdj4n2gvNyY4pAPHCyX-102" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="QKdj4n2gvNyY4pAPHCyX-99">
+        <mxCell id="QKdj4n2gvNyY4pAPHCyX-102" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="210" y="1110" as="sourcePoint" />
-            <mxPoint x="560" y="940" as="targetPoint" />
+            <mxPoint x="212" y="1110" as="sourcePoint" />
+            <mxPoint x="1002" y="1105" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
