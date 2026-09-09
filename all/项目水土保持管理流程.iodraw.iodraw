@@ -31,7 +31,7 @@
             <mxPoint x="188" y="166" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KzwcP8r9qCKmiWtFyrjv-9" value="基层队站" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="KzwcP8r9qCKmiWtFyrjv-9" value="第三方服务机构" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="191" y="104" width="223" height="65" as="geometry" />
         </mxCell>
         <mxCell id="KzwcP8r9qCKmiWtFyrjv-11" value="清洁生产服务队" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
