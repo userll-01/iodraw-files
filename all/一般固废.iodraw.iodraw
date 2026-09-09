@@ -276,7 +276,7 @@
           <mxGeometry x="780" y="1049" width="90" height="37" as="geometry" />
         </mxCell>
         <mxCell id="OLmslDtg9YMi5v1_NCpc-18" value="检查数据&lt;div&gt;是否准确&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="669" y="1055" width="93" height="46" as="geometry" />
+          <mxGeometry x="781" y="1113" width="93" height="46" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
