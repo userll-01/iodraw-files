@@ -198,7 +198,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="QKdj4n2gvNyY4pAPHCyX-42" value="&lt;p&gt;是否涉及水土流失重点预防区和重点治理区&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="831.5" y="580" width="88.5" height="80" as="geometry" />
+          <mxGeometry x="821" y="580" width="100" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
