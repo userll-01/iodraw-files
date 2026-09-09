@@ -342,7 +342,7 @@
           <mxGeometry x="1185" y="1068" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="HKMaap-l94tU0r6R_Ycc-71" value="审核是否通过" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1745" y="1209" width="90" height="50" as="geometry" />
+          <mxGeometry x="1456" y="1209" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="HKMaap-l94tU0r6R_Ycc-77" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -465,7 +465,7 @@
             <mxPoint x="1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="klXIrQ5wFRsCaPP-dyNZ-19" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="klXIrQ5wFRsCaPP-dyNZ-19" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="HKMaap-l94tU0r6R_Ycc-71">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1836" y="1233.5" as="sourcePoint" />
             <mxPoint x="1911" y="1233.5" as="targetPoint" />
