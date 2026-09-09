@@ -197,8 +197,8 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QKdj4n2gvNyY4pAPHCyX-42" value="立项方案初审" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="831.5" y="580" width="80" height="30" as="geometry" />
+        <mxCell id="QKdj4n2gvNyY4pAPHCyX-42" value="&lt;p&gt;是否涉及水土流失重点预防区和重点治理区&lt;/p&gt;&lt;p&gt;今天 17:04&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="831.5" y="580" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
