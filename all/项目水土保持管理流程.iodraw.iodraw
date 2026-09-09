@@ -75,19 +75,19 @@
           <mxGeometry x="524" y="169" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="QKdj4n2gvNyY4pAPHCyX-4" value="第三方服务机构" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="201" y="114" width="443" height="65" as="geometry" />
+          <mxGeometry x="634" y="104" width="443" height="65" as="geometry" />
         </mxCell>
         <mxCell id="QKdj4n2gvNyY4pAPHCyX-5" value="设计单位" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="201" y="179" width="110" height="50" as="geometry" />
+          <mxGeometry x="634" y="169" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="QKdj4n2gvNyY4pAPHCyX-6" value="水土保持方案&lt;div&gt;设计单位&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="179" width="114" height="50" as="geometry" />
+          <mxGeometry x="743" y="169" width="114" height="50" as="geometry" />
         </mxCell>
         <mxCell id="QKdj4n2gvNyY4pAPHCyX-7" value="水土保持检测、&lt;div&gt;监理单位&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="424" y="179" width="110" height="50" as="geometry" />
+          <mxGeometry x="857" y="169" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="QKdj4n2gvNyY4pAPHCyX-8" value="设计单位" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="534" y="179" width="110" height="50" as="geometry" />
+          <mxGeometry x="967" y="169" width="110" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
