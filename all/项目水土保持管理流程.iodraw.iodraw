@@ -87,7 +87,7 @@
           <mxGeometry x="857" y="169" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="QKdj4n2gvNyY4pAPHCyX-9" value="第三方服务机构" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="201" y="114" width="443" height="65" as="geometry" />
+          <mxGeometry x="967" y="104" width="120" height="65" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
