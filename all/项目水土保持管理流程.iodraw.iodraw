@@ -313,9 +313,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="QKdj4n2gvNyY4pAPHCyX-77" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="QKdj4n2gvNyY4pAPHCyX-76">
+        <mxCell id="QKdj4n2gvNyY4pAPHCyX-77" value="征地面积小于 0.5 公顷且挖方不足 1000 立方米，仅做专篇" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="QKdj4n2gvNyY4pAPHCyX-76">
           <mxGeometry x="0.0681" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="53" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
