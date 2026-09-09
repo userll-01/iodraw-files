@@ -86,8 +86,8 @@
         <mxCell id="QKdj4n2gvNyY4pAPHCyX-11" value="地方水行政&lt;div&gt;主管部门&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1046" y="103" width="103" height="116" as="geometry" />
         </mxCell>
-        <mxCell id="QKdj4n2gvNyY4pAPHCyX-12" value="设计单位" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="170" y="260" width="110" height="50" as="geometry" />
+        <mxCell id="QKdj4n2gvNyY4pAPHCyX-12" value="项目立项方案" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="260" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
