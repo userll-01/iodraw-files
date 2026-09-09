@@ -247,7 +247,7 @@
         <mxCell id="HKMaap-l94tU0r6R_Ycc-47" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;校对&lt;/span&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;水量数据&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="930" y="770" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="HKMaap-l94tU0r6R_Ycc-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="klXIrQ5wFRsCaPP-dyNZ-4" target="HKMaap-l94tU0r6R_Ycc-61" edge="1">
+        <mxCell id="HKMaap-l94tU0r6R_Ycc-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="HKMaap-l94tU0r6R_Ycc-48" target="HKMaap-l94tU0r6R_Ycc-61" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HKMaap-l94tU0r6R_Ycc-48" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;审核&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;电力数据&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -420,20 +420,8 @@
             <mxPoint x="1230" y="870" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="klXIrQ5wFRsCaPP-dyNZ-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HKMaap-l94tU0r6R_Ycc-48" target="klXIrQ5wFRsCaPP-dyNZ-4">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1244" y="810" as="sourcePoint" />
-            <mxPoint x="1244" y="962" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="klXIrQ5wFRsCaPP-dyNZ-4" value="" style="shape=stencil(pVPhjsIgDH4a/hoc8QEu3PkedVZHnEAKut3bXxm7xOEwJiYLWb9v/dp+HULp0IFH0chOqG/RNFsp+eR4KGIIHtuYwTuQgUOPmQmR3AUHc4yzhrEdkomJVT9CfvE36VG6ddayiHE2LJgHnsXAWM6VYxaby//O0WaXY88VrhiR5jYzKpr928LbT4SVZqQ2jtIHaC9ncjd7XG2HkpO1CdftL9ez2lClrNInR/iin5Pp+7zFFx56SPt9Iv7pq7tjbaZdpemlAlDLLzQuc6jQGAsjCroHOmNSemwjDIj+rR+F8cqcfFNqDk1pTxZPaL5dE/AH);whiteSpace=wrap;html=1;rotation=-180;" vertex="1" parent="1">
-          <mxGeometry x="1230.1599999999999" y="856.45" width="27.69" height="32.55" as="geometry" />
-        </mxCell>
-        <mxCell id="klXIrQ5wFRsCaPP-dyNZ-6" value="" style="shape=stencil(nZPJkpswEIafhqrkEBcIsx0xu4cxxgtebjLIBsxmIQz200cMTCaTVFKpUBxaX//qBulvhtfyzsKwil/LCGUMbzCsygC2f3kNlyX5hN4TeaehLKNxEjG8zoCeg7es+W96btBXEKOC/F8JMOjvMGvQQAZQk0c2gjqGVR/WBBVhkn2pgmWc1s5Ft6eQ9onLUPaNhl9eURQc7cJQXxrCn/ZdLnWe0c6Tg7s7KXeqjCoGzOytW7GOabNh7N0sSlcLs+4TaDV9sRzHJs2h3TT+Zestcz9f8erWDqePZ4yN6Frm82CjaOe7wYuBJUYRfCS2Adz5xS7qvbp7FYNDB0+P/veB6bE7uD/IcoDjZCWkh+dLhRUgu6fNdB0cbz5IiWNDTSnCNJL2FrCvlcdp0Zm4CnqCTMvwwilWtFCSFMKy/0bpaZqdIK6XRHHuUnWTSHqCx6hCeaZmuus+/SYUU99S65Reu+3lizXK21R3UroZ01IzUw5v4dlc3PQrV2264xK6QmTQHqr9leFnbZwQtK5g2B94Sx1FWUxyaimdoyEuCSRJWdDlN06mFzqrCS6vSCuzElNYlAXdOBvvFGGCuj865Q397pEPp1iozBHB9DDZ9yqAZyecoHw8Q9nHkJYFcTIVBtQmEYlHi0kTcRTGKLnEY38eTIRRDOsBXX50/JuHKR9t/HnOKP9p1Ebdr1P5HQ==);whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="1320" width="120" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="klXIrQ5wFRsCaPP-dyNZ-7" value="" style="shape=stencil(pVPRbsMgDPwaXica1A+Y6PYfbuo2qCkgw5r072dCKjUkVJMmRSi+C+c7WxFKhw48ikZ2Qh1E0+yk5JProagheGxjBu9ABo49ZiZEclcczCnOGsZ2SCYmVn0J+cnfpEfp1lnLIsbZsGBeeBYDY/muHLPY3P4xVx/7XHvucMOINNvMqGi+/yy8+4+w0ozU4ih9hPZ6IfdjT5t2KE2ylnB7/OV6Ng1V2ip9doRv/JxN3+ctvpmhh7TfFfGkb+6OtUz7iumlAlDLLzQu71ChMRaDKOge6IJJ6dVGGBD9AqmFZHyVc0JXE5zQ/PNMwC8=);whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="1460" width="120" height="120" as="geometry" />
+        <mxCell id="klXIrQ5wFRsCaPP-dyNZ-10" value="" style="shape=stencil(pVJRDsIgDD0Nv4ZBPICZeg+cdSNuQApu8/aWMRO3ucXEhBD6Hn0tjzKZ+0o5YIJXTB6ZEBnntFPczWLlHRQhga1CrS41JMYHtHfo9DWMGtpUgDpEVp4YP9CduGReWGNIRFvjJ8wHT2JKG8rlfRIbyz/HaLdPsaMKDQTAsc2EMnH+WTj7R1jmhKw9R+Y3i1CifZjr13Zuuq6Taxs9OxX9XBBvurEtrLm051t2vBUUFnTAfpqDM41+NgczulZYQlT6bMN3AO6njyF85Z00mWsODWkLiwc0TfMAvAA=);whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1010" y="1303" width="120" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
