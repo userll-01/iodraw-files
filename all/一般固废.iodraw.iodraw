@@ -413,6 +413,11 @@
         <mxCell id="OLmslDtg9YMi5v1_NCpc-69" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OLmslDtg9YMi5v1_NCpc-64" target="OLmslDtg9YMi5v1_NCpc-68">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="OLmslDtg9YMi5v1_NCpc-74" value="Y" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="OLmslDtg9YMi5v1_NCpc-69">
+          <mxGeometry x="-0.1475" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="OLmslDtg9YMi5v1_NCpc-64" value="检查是否&lt;div&gt;存在问题&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="915" y="1236" width="93" height="46" as="geometry" />
         </mxCell>
@@ -425,9 +430,9 @@
         <mxCell id="OLmslDtg9YMi5v1_NCpc-72" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OLmslDtg9YMi5v1_NCpc-70" target="OLmslDtg9YMi5v1_NCpc-60">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="OLmslDtg9YMi5v1_NCpc-73" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="OLmslDtg9YMi5v1_NCpc-72">
+        <mxCell id="OLmslDtg9YMi5v1_NCpc-73" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="OLmslDtg9YMi5v1_NCpc-72">
           <mxGeometry x="0.3333" y="3" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint y="-3" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="OLmslDtg9YMi5v1_NCpc-70" value="检查是否&lt;div&gt;存在问题&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
