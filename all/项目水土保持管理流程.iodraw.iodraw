@@ -299,7 +299,10 @@
           <mxGeometry x="620" y="894" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QKdj4n2gvNyY4pAPHCyX-74" value="编写（预）可研报告 / 设计" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="924" width="80" height="36" as="geometry" />
+          <mxGeometry x="190" y="924" width="90" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="QKdj4n2gvNyY4pAPHCyX-75" value="编写（预）可研报告 / 设计" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="924" width="90" height="36" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
