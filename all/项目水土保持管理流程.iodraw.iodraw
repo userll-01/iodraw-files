@@ -69,7 +69,7 @@
           <mxGeometry x="483" y="169" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="QKdj4n2gvNyY4pAPHCyX-4" value="总公司" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="593" y="104" width="487" height="65" as="geometry" />
+          <mxGeometry x="593" y="104" width="517" height="65" as="geometry" />
         </mxCell>
         <mxCell id="QKdj4n2gvNyY4pAPHCyX-5" value="项目实施单位" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="593" y="169" width="110" height="50" as="geometry" />
@@ -268,6 +268,12 @@
         </mxCell>
         <mxCell id="QKdj4n2gvNyY4pAPHCyX-66" value="审查是否通过" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="953" y="833" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="QKdj4n2gvNyY4pAPHCyX-68" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="860" y="750" as="sourcePoint" />
+            <mxPoint x="910" y="700" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
