@@ -280,7 +280,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Z943jDBzrdEJ36IgWkzA-51" value="是否进行节&lt;div&gt;能专项报告&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="866" y="1070" width="150" height="60.5" as="geometry" />
+          <mxGeometry x="880" y="1069" width="120" height="60.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
