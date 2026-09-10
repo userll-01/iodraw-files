@@ -782,7 +782,7 @@
           <mxGeometry x="725" y="2150" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="QKdj4n2gvNyY4pAPHCyX-192" value="审查是否通过" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="745" y="2210" width="90" height="50" as="geometry" />
+          <mxGeometry x="745" y="2213" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="QKdj4n2gvNyY4pAPHCyX-196" value="其他审批流程" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="628" y="2290" width="90" height="40" as="geometry" />
@@ -887,6 +887,11 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="430" y="2240" as="sourcePoint" />
             <mxPoint x="730" y="2000" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QKdj4n2gvNyY4pAPHCyX-223" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="QKdj4n2gvNyY4pAPHCyX-222">
+          <mxGeometry x="-0.0388" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
