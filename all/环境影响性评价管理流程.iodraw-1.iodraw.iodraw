@@ -810,7 +810,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="LINdSobTBbgWGHi0nwle-1" value="审查、备案" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1707.63" y="2511" width="67.75" height="38" as="geometry" />
+          <mxGeometry x="1686" y="2525.5" width="67.75" height="38" as="geometry" />
         </mxCell>
         <mxCell id="2XMQ8XQJAJfj7A2r2Mes-4" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -968,12 +968,6 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1020" y="2430" as="sourcePoint" />
             <mxPoint x="1380" y="2350" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="2XMQ8XQJAJfj7A2r2Mes-43" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.791;exitY=0.468;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="zIRN0Xyj8EtUOTZ_-rDE-98">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1647" y="2533" as="sourcePoint" />
-            <mxPoint x="1672.5" y="2535" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
