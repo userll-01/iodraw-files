@@ -725,7 +725,7 @@
         </mxCell>
         <mxCell id="Z943jDBzrdEJ36IgWkzA-173" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="840" y="2540" as="sourcePoint" />
+            <mxPoint x="840" y="2640" as="sourcePoint" />
             <mxPoint x="840" y="2365" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -771,7 +771,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Z943jDBzrdEJ36IgWkzA-182" value="川庆公司安全环保部门验收审查&lt;span style=&quot;background-color: initial;&quot;&gt;（节能专篇跳过此阶段）&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1190" y="2552" width="150" height="40" as="geometry" />
+          <mxGeometry x="1180" y="2552" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Z943jDBzrdEJ36IgWkzA-185" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="Z943jDBzrdEJ36IgWkzA-175">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
