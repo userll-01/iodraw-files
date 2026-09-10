@@ -707,10 +707,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QKdj4n2gvNyY4pAPHCyX-170" value="提供监理&lt;div&gt;监测报告&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="370" y="1770" width="92" height="38" as="geometry" />
+          <mxGeometry x="375" y="1723" width="92" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="QKdj4n2gvNyY4pAPHCyX-175" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QKdj4n2gvNyY4pAPHCyX-171" target="QKdj4n2gvNyY4pAPHCyX-145">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QKdj4n2gvNyY4pAPHCyX-171" value="提供监理&lt;div&gt;监测报告&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="500.5" y="1768" width="84" height="40" as="geometry" />
+          <mxGeometry x="505.5" y="1721" width="84" height="40" as="geometry" />
         </mxCell>
         <mxCell id="QKdj4n2gvNyY4pAPHCyX-173" value="审查是否通过" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="625" y="1793" width="90" height="50" as="geometry" />
