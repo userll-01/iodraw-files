@@ -1042,7 +1042,7 @@
         </mxCell>
         <mxCell id="2XMQ8XQJAJfj7A2r2Mes-5" value="" style="endArrow=none;html=1;rounded=0;entryX=0.186;entryY=0.509;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="peaUoX4Pmoz3yc2kiJaC-73">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="750" y="802" as="sourcePoint" />
+            <mxPoint x="750" y="800" as="sourcePoint" />
             <mxPoint x="1320" y="600" as="targetPoint" />
           </mxGeometry>
         </mxCell>
