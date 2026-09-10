@@ -55,7 +55,7 @@
         <mxCell id="QKdj4n2gvNyY4pAPHCyX-6" value="其他业务部门" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="593" y="169" width="114" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="QKdj4n2gvNyY4pAPHCyX-7" value="安全环保部门" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="QKdj4n2gvNyY4pAPHCyX-7" value="主要" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="707" y="169" width="294" height="50" as="geometry" />
         </mxCell>
         <mxCell id="QKdj4n2gvNyY4pAPHCyX-12" value="项目立项方案" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
