@@ -765,7 +765,7 @@
         <mxCell id="QKdj4n2gvNyY4pAPHCyX-189" value="审查是否通过" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1003" y="2081" width="90" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="QKdj4n2gvNyY4pAPHCyX-191" value="专项验收通过，报地方管理部门" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="QKdj4n2gvNyY4pAPHCyX-191" value="专项验收通过，报地方管理部门审批" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="740" y="2150" width="96" height="40" as="geometry" />
         </mxCell>
       </root>
