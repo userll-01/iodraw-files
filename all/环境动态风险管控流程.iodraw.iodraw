@@ -583,7 +583,10 @@
           <mxGeometry x="487.5" y="1712" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fV8UQ92mgfStvrnF8Kc9-132" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;color: rgba(0, 0, 0, 0.95); font-family: ui-sans-serif, system-ui, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; font-size: 13px; background-color: initial;&quot;&gt;落实管控措施&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="189" y="1560" width="80" height="40" as="geometry" />
+          <mxGeometry x="177" y="1768" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fV8UQ92mgfStvrnF8Kc9-133" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;color: rgba(0, 0, 0, 0.95); font-family: ui-sans-serif, system-ui, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; font-size: 13px; background-color: initial;&quot;&gt;组织制定&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;color: rgba(0, 0, 0, 0.95); font-family: ui-sans-serif, system-ui, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; font-size: 13px; background-color: initial;&quot;&gt;管控措施&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290.25" y="1418" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
