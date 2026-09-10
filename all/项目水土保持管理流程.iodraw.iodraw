@@ -541,14 +541,17 @@
         <mxCell id="QKdj4n2gvNyY4pAPHCyX-132" value="组织整改" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="640" y="1660" width="99" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="QKdj4n2gvNyY4pAPHCyX-136" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QKdj4n2gvNyY4pAPHCyX-133" target="QKdj4n2gvNyY4pAPHCyX-135">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="QKdj4n2gvNyY4pAPHCyX-133" value="运行情况检查" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="731" y="1540" width="77" height="30" as="geometry" />
+          <mxGeometry x="733" y="1530" width="77" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QKdj4n2gvNyY4pAPHCyX-134" value="专项检查" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="851" y="1540" width="77" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QKdj4n2gvNyY4pAPHCyX-135" value="审查是否通过" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="395" y="1570" width="90" height="50" as="geometry" />
+          <mxGeometry x="728" y="1604" width="90" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
