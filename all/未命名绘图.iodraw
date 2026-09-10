@@ -276,8 +276,8 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Z943jDBzrdEJ36IgWkzA-51" value="审查是否通过" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1050" y="818" width="120" height="40" as="geometry" />
+        <mxCell id="Z943jDBzrdEJ36IgWkzA-51" value="是否进行节能专项报告" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="880" y="1090" width="120" height="50.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
