@@ -53,7 +53,7 @@
           <mxGeometry x="1086" y="197" width="146" height="60" as="geometry" />
         </mxCell>
         <mxCell id="peaUoX4Pmoz3yc2kiJaC-15" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;总公司&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1232" y="134" width="538" height="63" as="geometry" />
+          <mxGeometry x="1232" y="134" width="598" height="63" as="geometry" />
         </mxCell>
         <mxCell id="peaUoX4Pmoz3yc2kiJaC-16" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;项目实施单位&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1232" y="197" width="140" height="60" as="geometry" />
@@ -1049,6 +1049,12 @@
         <mxCell id="2XMQ8XQJAJfj7A2r2Mes-6" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="2XMQ8XQJAJfj7A2r2Mes-5">
           <mxGeometry x="0.1162" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2XMQ8XQJAJfj7A2r2Mes-7" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" target="peaUoX4Pmoz3yc2kiJaC-20">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1200" y="570" as="sourcePoint" />
+            <mxPoint x="1250" y="520" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
