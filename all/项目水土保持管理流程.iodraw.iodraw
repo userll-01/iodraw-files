@@ -757,7 +757,10 @@
           <mxGeometry x="864" y="2005" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="QKdj4n2gvNyY4pAPHCyX-187" value="川庆报告书验收审查" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1006" y="2010" width="84" height="40" as="geometry" />
+          <mxGeometry x="1006" y="2009" width="84" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QKdj4n2gvNyY4pAPHCyX-189" value="审查是否通过" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1001" y="2090" width="90" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
