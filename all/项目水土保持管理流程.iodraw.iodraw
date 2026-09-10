@@ -514,7 +514,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="QKdj4n2gvNyY4pAPHCyX-126" value="运&lt;div&gt;行&lt;/div&gt;&lt;div&gt;阶&lt;/div&gt;&lt;div&gt;段&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="21" y="1480" width="129" height="640" as="geometry" />
+          <mxGeometry x="21" y="1480" width="129" height="280" as="geometry" />
         </mxCell>
         <mxCell id="QKdj4n2gvNyY4pAPHCyX-130" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QKdj4n2gvNyY4pAPHCyX-127" target="QKdj4n2gvNyY4pAPHCyX-129">
           <mxGeometry relative="1" as="geometry" />
@@ -694,7 +694,7 @@
         </mxCell>
         <mxCell id="QKdj4n2gvNyY4pAPHCyX-168" value="水土保持方案发生重大变更" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="QKdj4n2gvNyY4pAPHCyX-167">
           <mxGeometry x="-0.4868" y="-2" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="47" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
