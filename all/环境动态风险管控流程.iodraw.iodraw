@@ -380,8 +380,14 @@
         <mxCell id="fV8UQ92mgfStvrnF8Kc9-79" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;color: rgba(0, 0, 0, 0.95); font-family: ui-sans-serif, system-ui, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; font-size: 13px; background-color: initial;&quot;&gt;结果评估&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="364.5" y="1270" width="80" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="fV8UQ92mgfStvrnF8Kc9-81" value="组织审核" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fV8UQ92mgfStvrnF8Kc9-81" value="抽查" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="800" y="1170" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fV8UQ92mgfStvrnF8Kc9-82" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="550" y="1310" as="sourcePoint" />
+            <mxPoint x="600" y="1260" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
