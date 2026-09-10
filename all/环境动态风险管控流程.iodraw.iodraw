@@ -67,7 +67,7 @@
         <mxCell id="fV8UQ92mgfStvrnF8Kc9-3" value="总公司" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="773" y="104" width="367" height="65" as="geometry" />
         </mxCell>
-        <mxCell id="fV8UQ92mgfStvrnF8Kc9-4" value="环保管理岗" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fV8UQ92mgfStvrnF8Kc9-4" value="环保管理部" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="773" y="169" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="fV8UQ92mgfStvrnF8Kc9-5" value="其他业务部门" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -383,7 +383,7 @@
         <mxCell id="fV8UQ92mgfStvrnF8Kc9-81" value="抽查" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="800" y="1170" width="80" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fV8UQ92mgfStvrnF8Kc9-82" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="fV8UQ92mgfStvrnF8Kc9-68">
+        <mxCell id="fV8UQ92mgfStvrnF8Kc9-82" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="fV8UQ92mgfStvrnF8Kc9-81" target="fV8UQ92mgfStvrnF8Kc9-68">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="840" y="1160" as="sourcePoint" />
             <mxPoint x="450" y="990" as="targetPoint" />
