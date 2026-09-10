@@ -594,8 +594,14 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="Z943jDBzrdEJ36IgWkzA-137" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Z943jDBzrdEJ36IgWkzA-134" target="Z943jDBzrdEJ36IgWkzA-136">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Z943jDBzrdEJ36IgWkzA-134" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;color: rgba(0, 0, 0, 0.95); font-family: ui-sans-serif, system-ui, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; font-size: 13px;&quot;&gt;川庆公司监督抽查&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1216" y="2058" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Z943jDBzrdEJ36IgWkzA-136" value="审查是否通过" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1216" y="2127" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
