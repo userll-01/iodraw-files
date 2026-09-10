@@ -722,6 +722,11 @@
         <mxCell id="2XMQ8XQJAJfj7A2r2Mes-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zIRN0Xyj8EtUOTZ_-rDE-98" target="LINdSobTBbgWGHi0nwle-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="2XMQ8XQJAJfj7A2r2Mes-48" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="2XMQ8XQJAJfj7A2r2Mes-46">
+          <mxGeometry x="0.122" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="zIRN0Xyj8EtUOTZ_-rDE-98" value="审查是否通过" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="1545.38" y="2521" width="129" height="47" as="geometry" />
         </mxCell>
@@ -817,7 +822,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LINdSobTBbgWGHi0nwle-1" value="地方行政主管部门备案" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1576" y="2584" width="67.75" height="38" as="geometry" />
+          <mxGeometry x="1576" y="2604" width="67.75" height="38" as="geometry" />
         </mxCell>
         <mxCell id="2XMQ8XQJAJfj7A2r2Mes-4" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
