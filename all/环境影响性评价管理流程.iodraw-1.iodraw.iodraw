@@ -208,7 +208,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="peaUoX4Pmoz3yc2kiJaC-63" value="确定环境影响评价类型&lt;br&gt;(登记表 / 报告表 / 报告书)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1512.5" y="733" width="143.5" height="34" as="geometry" />
+          <mxGeometry x="1512.5" y="734" width="143.5" height="34" as="geometry" />
         </mxCell>
         <mxCell id="peaUoX4Pmoz3yc2kiJaC-64" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.496;exitY=0.961;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="peaUoX4Pmoz3yc2kiJaC-56" target="peaUoX4Pmoz3yc2kiJaC-63" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -258,24 +258,6 @@
         </mxCell>
         <mxCell id="PPdWcYO4c5VOot3ufRt8-20" value="&lt;b&gt;Y&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="peaUoX4Pmoz3yc2kiJaC-86" vertex="1" connectable="0">
           <mxGeometry x="-0.1511" y="3" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="peaUoX4Pmoz3yc2kiJaC-88" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=0.828;exitY=0.493;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="peaUoX4Pmoz3yc2kiJaC-81" target="peaUoX4Pmoz3yc2kiJaC-20" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1832" y="900" as="sourcePoint" />
-            <mxPoint x="1882" y="850" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="1471" y="973" />
-              <mxPoint x="1650" y="973" />
-              <mxPoint x="1650" y="894" />
-              <mxPoint x="1780" y="894" />
-              <mxPoint x="1780" y="299" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="peaUoX4Pmoz3yc2kiJaC-90" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="peaUoX4Pmoz3yc2kiJaC-88" vertex="1" connectable="0">
-          <mxGeometry x="-0.2655" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
