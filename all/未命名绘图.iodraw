@@ -795,6 +795,9 @@
         <mxCell id="Z943jDBzrdEJ36IgWkzA-187" value="审查是否通过" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1200" y="2620" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="Z943jDBzrdEJ36IgWkzA-193" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Z943jDBzrdEJ36IgWkzA-189" target="Z943jDBzrdEJ36IgWkzA-192">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Z943jDBzrdEJ36IgWkzA-189" value="川庆公司安全环保部门备案" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1205" y="2691" width="115" height="40" as="geometry" />
         </mxCell>
@@ -804,7 +807,7 @@
             <mxPoint x="990" y="2650" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Z943jDBzrdEJ36IgWkzA-192" value="川庆公司安全环保部门备案" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Z943jDBzrdEJ36IgWkzA-192" value="专项验收通过" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1054" y="2691" width="115" height="40" as="geometry" />
         </mxCell>
       </root>
