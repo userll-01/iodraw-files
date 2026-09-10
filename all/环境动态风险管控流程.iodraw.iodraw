@@ -339,6 +339,9 @@
         <mxCell id="fV8UQ92mgfStvrnF8Kc9-80" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fV8UQ92mgfStvrnF8Kc9-71" target="fV8UQ92mgfStvrnF8Kc9-79">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="fV8UQ92mgfStvrnF8Kc9-85" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fV8UQ92mgfStvrnF8Kc9-71" target="fV8UQ92mgfStvrnF8Kc9-74">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="fV8UQ92mgfStvrnF8Kc9-71" value="组织审核" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="364.5" y="1180" width="80" height="60" as="geometry" />
         </mxCell>
@@ -390,6 +393,11 @@
             <Array as="points">
               <mxPoint x="840" y="985" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fV8UQ92mgfStvrnF8Kc9-84" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="fV8UQ92mgfStvrnF8Kc9-82">
+          <mxGeometry x="-0.7967" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
