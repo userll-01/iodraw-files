@@ -251,7 +251,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="peaUoX4Pmoz3yc2kiJaC-81" value="审查是否通过" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="1367.5" y="970" width="129" height="47" as="geometry" />
+          <mxGeometry x="1365.5" y="950" width="129" height="47" as="geometry" />
         </mxCell>
         <mxCell id="peaUoX4Pmoz3yc2kiJaC-85" value="组织项目设计" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1276" y="1052" width="120" height="35" as="geometry" />
@@ -272,6 +272,8 @@
             <mxPoint x="1832" y="900" as="sourcePoint" />
             <mxPoint x="1882" y="850" as="targetPoint" />
             <Array as="points">
+              <mxPoint x="1650" y="973" />
+              <mxPoint x="1650" y="894" />
               <mxPoint x="1816" y="894" />
               <mxPoint x="1816" y="299" />
             </Array>
