@@ -408,6 +408,9 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="Z943jDBzrdEJ36IgWkzA-87" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Z943jDBzrdEJ36IgWkzA-84" target="Z943jDBzrdEJ36IgWkzA-86">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Z943jDBzrdEJ36IgWkzA-84" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;地方投资项目在线审批管理平台审查、批复&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="879" y="1439" width="120" height="70" as="geometry" />
         </mxCell>
@@ -420,8 +423,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="Z943jDBzrdEJ36IgWkzA-88" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Z943jDBzrdEJ36IgWkzA-85">
+          <mxGeometry x="0.1159" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="Z943jDBzrdEJ36IgWkzA-86" value="审查是否通过" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1210" y="1394" width="120" height="40" as="geometry" />
+          <mxGeometry x="879" y="1531" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
