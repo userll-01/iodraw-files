@@ -544,8 +544,8 @@
         <mxCell id="zIRN0Xyj8EtUOTZ_-rDE-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="zIRN0Xyj8EtUOTZ_-rDE-49" target="zIRN0Xyj8EtUOTZ_-rDE-52" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="zIRN0Xyj8EtUOTZ_-rDE-49" value="监督抽查" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1702.5" y="1816" width="90" height="38" as="geometry" />
+        <mxCell id="zIRN0Xyj8EtUOTZ_-rDE-49" value="川庆公司监督抽查" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1690" y="1816" width="102.5" height="38" as="geometry" />
         </mxCell>
         <mxCell id="zIRN0Xyj8EtUOTZ_-rDE-50" value="审查是否通过" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="1407" y="1883" width="129" height="47" as="geometry" />
