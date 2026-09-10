@@ -566,7 +566,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QKdj4n2gvNyY4pAPHCyX-140" value="川庆公司&lt;div&gt;监督、抽查&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1014" y="1527" width="85" height="30" as="geometry" />
+          <mxGeometry x="1019" y="1527" width="76" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QKdj4n2gvNyY4pAPHCyX-141" value="审查是否通过" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1012" y="1582" width="90" height="50" as="geometry" />
@@ -911,7 +911,7 @@
         </mxCell>
         <mxCell id="QKdj4n2gvNyY4pAPHCyX-228" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="QKdj4n2gvNyY4pAPHCyX-7">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1110" y="1480" as="sourcePoint" />
+            <mxPoint x="1110" y="2060" as="sourcePoint" />
             <mxPoint x="900" y="210" as="targetPoint" />
           </mxGeometry>
         </mxCell>
