@@ -420,7 +420,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zIRN0Xyj8EtUOTZ_-rDE-6" value="报地方生态环境&lt;br&gt;行政主管部门审查、批复" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1280" y="1324" width="90" height="38" as="geometry" />
+          <mxGeometry x="1270" y="1320" width="110" height="42" as="geometry" />
         </mxCell>
         <mxCell id="zIRN0Xyj8EtUOTZ_-rDE-9" value="审查是否通过" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="1260.5" y="1450" width="129" height="47" as="geometry" />
