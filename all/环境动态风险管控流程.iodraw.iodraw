@@ -323,6 +323,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="fV8UQ92mgfStvrnF8Kc9-71" value="组织审核" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="810" y="760" width="80" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
