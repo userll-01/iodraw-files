@@ -765,8 +765,14 @@
         <mxCell id="QKdj4n2gvNyY4pAPHCyX-189" value="审查是否通过" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1003" y="2081" width="90" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="QKdj4n2gvNyY4pAPHCyX-193" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QKdj4n2gvNyY4pAPHCyX-191" target="QKdj4n2gvNyY4pAPHCyX-192">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="QKdj4n2gvNyY4pAPHCyX-191" value="专项验收通过，报地方管理部门审批" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="740" y="2150" width="96" height="40" as="geometry" />
+          <mxGeometry x="740" y="2150" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QKdj4n2gvNyY4pAPHCyX-192" value="审查是否通过" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="748" y="2230" width="90" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
