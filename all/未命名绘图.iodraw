@@ -91,10 +91,13 @@
         <mxCell id="Z943jDBzrdEJ36IgWkzA-3" value="审查是否通过" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="760" y="388" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Z943jDBzrdEJ36IgWkzA-8" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="Z943jDBzrdEJ36IgWkzA-8" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Z943jDBzrdEJ36IgWkzA-3" target="peaUoX4Pmoz3yc2kiJaC-11">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="900" y="490" as="sourcePoint" />
             <mxPoint x="950" y="440" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="669" y="418" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
