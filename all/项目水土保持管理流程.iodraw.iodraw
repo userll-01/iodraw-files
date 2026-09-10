@@ -462,6 +462,9 @@
         <mxCell id="QKdj4n2gvNyY4pAPHCyX-112" value="审查" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="732" y="1292" width="80" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="QKdj4n2gvNyY4pAPHCyX-120" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QKdj4n2gvNyY4pAPHCyX-114" target="QKdj4n2gvNyY4pAPHCyX-119">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="QKdj4n2gvNyY4pAPHCyX-114" value="专项资料审查" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="843" y="1350" width="80" height="30" as="geometry" />
         </mxCell>
@@ -481,7 +484,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="QKdj4n2gvNyY4pAPHCyX-119" value="审查是否通过" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="737" y="1351" width="90" height="50" as="geometry" />
+          <mxGeometry x="838" y="1399" width="90" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
