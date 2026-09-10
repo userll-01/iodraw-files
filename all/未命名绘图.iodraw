@@ -259,6 +259,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="Z943jDBzrdEJ36IgWkzA-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Z943jDBzrdEJ36IgWkzA-48" target="Z943jDBzrdEJ36IgWkzA-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Z943jDBzrdEJ36IgWkzA-48" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;组织项目设计&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="880" y="1000" width="120" height="31" as="geometry" />
         </mxCell>
@@ -277,7 +280,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Z943jDBzrdEJ36IgWkzA-51" value="是否进行节能专项报告" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="880" y="1090" width="120" height="50.5" as="geometry" />
+          <mxGeometry x="869" y="1075" width="150" height="60.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
