@@ -227,6 +227,9 @@
         <mxCell id="fV8UQ92mgfStvrnF8Kc9-50" value="结果" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="840" width="70" height="100" as="geometry" />
         </mxCell>
+        <mxCell id="fV8UQ92mgfStvrnF8Kc9-52" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="730" width="80" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
