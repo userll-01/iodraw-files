@@ -132,7 +132,7 @@
         </mxCell>
         <mxCell id="Z943jDBzrdEJ36IgWkzA-14" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="669" y="578" as="sourcePoint" />
+            <mxPoint x="669" y="630" as="sourcePoint" />
             <mxPoint x="669" y="418" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -162,7 +162,7 @@
             <mxPoint x="1030" y="450" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Z943jDBzrdEJ36IgWkzA-25" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Z943jDBzrdEJ36IgWkzA-24">
+        <mxCell id="Z943jDBzrdEJ36IgWkzA-25" value="审查不通过" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Z943jDBzrdEJ36IgWkzA-24">
           <mxGeometry x="-0.7248" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
