@@ -62,7 +62,7 @@
           <mxGeometry x="1372" y="197" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="peaUoX4Pmoz3yc2kiJaC-18" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;安全环保部门&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1502" y="197" width="268" height="60" as="geometry" />
+          <mxGeometry x="1502" y="197" width="328" height="60" as="geometry" />
         </mxCell>
         <mxCell id="peaUoX4Pmoz3yc2kiJaC-20" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;发起项目立项&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1242" y="284" width="120" height="30" as="geometry" />
@@ -262,7 +262,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="peaUoX4Pmoz3yc2kiJaC-91" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;设&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;计&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;审&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;查&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;阶&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;段&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1310" y="2410" width="157" height="679" as="geometry" />
+          <mxGeometry x="534" y="921" width="157" height="679" as="geometry" />
         </mxCell>
         <mxCell id="peaUoX4Pmoz3yc2kiJaC-92" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;运&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;行&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;阶&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;段&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="534" y="1717" width="157" height="280" as="geometry" />
