@@ -353,11 +353,8 @@
         <mxCell id="PPdWcYO4c5VOot3ufRt8-3" value="审查是否通过" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="1530" y="1173" width="129" height="47" as="geometry" />
         </mxCell>
-        <mxCell id="PPdWcYO4c5VOot3ufRt8-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="PPdWcYO4c5VOot3ufRt8-5" target="PPdWcYO4c5VOot3ufRt8-7" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="PPdWcYO4c5VOot3ufRt8-5" value="报川庆公司安全环保部门进行环境影响评价报告书审查（登记表、报告表跳过此流程" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1525.25" y="1247.5" width="137.5" height="48" as="geometry" />
+          <mxGeometry x="1520" y="1247.5" width="160" height="48" as="geometry" />
         </mxCell>
         <mxCell id="PPdWcYO4c5VOot3ufRt8-7" value="审查是否通过" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="1685.5" y="1275" width="129" height="47" as="geometry" />
@@ -538,20 +535,6 @@
             <Array as="points">
               <mxPoint x="1589" y="1709" />
             </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="zIRN0Xyj8EtUOTZ_-rDE-36" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.205;exitY=0.489;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1711.9450000000002" y="1296.9830000000002" as="sourcePoint" />
-            <mxPoint x="896" y="1095" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="896" y="1297" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="zIRN0Xyj8EtUOTZ_-rDE-39" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="zIRN0Xyj8EtUOTZ_-rDE-36" vertex="1" connectable="0">
-          <mxGeometry x="0.1277" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="zIRN0Xyj8EtUOTZ_-rDE-38" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
