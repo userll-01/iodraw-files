@@ -259,8 +259,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Z943jDBzrdEJ36IgWkzA-48" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;发起项目立项&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="900" y="980" width="120" height="31" as="geometry" />
+        <mxCell id="Z943jDBzrdEJ36IgWkzA-48" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;组织项目设计&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="900" y="1000" width="120" height="31" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
