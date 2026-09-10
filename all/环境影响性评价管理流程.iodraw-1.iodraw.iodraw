@@ -982,6 +982,24 @@
             <mxPoint x="1020" y="2550" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="2XMQ8XQJAJfj7A2r2Mes-50" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1630" y="2550" as="sourcePoint" />
+            <mxPoint x="1790" y="2550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2XMQ8XQJAJfj7A2r2Mes-51" value="Label" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="2XMQ8XQJAJfj7A2r2Mes-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2XMQ8XQJAJfj7A2r2Mes-52" value="Source" style="edgeLabel;resizable=0;html=1;;align=left;verticalAlign=bottom;" connectable="0" vertex="1" parent="2XMQ8XQJAJfj7A2r2Mes-50">
+          <mxGeometry x="-1" relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2XMQ8XQJAJfj7A2r2Mes-53" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1780" y="2760" as="sourcePoint" />
+            <mxPoint x="1170" y="2780" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
