@@ -569,7 +569,7 @@
           <mxGeometry x="1001" y="1527" width="119" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QKdj4n2gvNyY4pAPHCyX-141" value="审查是否通过" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1016" y="1582" width="90" height="50" as="geometry" />
+          <mxGeometry x="1012" y="1582" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="QKdj4n2gvNyY4pAPHCyX-143" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="QKdj4n2gvNyY4pAPHCyX-129" target="QKdj4n2gvNyY4pAPHCyX-132">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
