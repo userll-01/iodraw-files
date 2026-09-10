@@ -186,7 +186,7 @@
         </mxCell>
         <mxCell id="Z943jDBzrdEJ36IgWkzA-35" value="Y" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Z943jDBzrdEJ36IgWkzA-32">
           <mxGeometry x="0.0455" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-2" y="-3" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Z943jDBzrdEJ36IgWkzA-28" value="审查是否通过" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -209,6 +209,9 @@
           <mxGeometry x="0.5196" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Z943jDBzrdEJ36IgWkzA-36" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;立项方案预审&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="412.5" width="120" height="31" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
