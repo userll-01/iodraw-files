@@ -480,9 +480,6 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fV8UQ92mgfStvrnF8Kc9-124" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fV8UQ92mgfStvrnF8Kc9-110" target="fV8UQ92mgfStvrnF8Kc9-121">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="fV8UQ92mgfStvrnF8Kc9-110" value="审批措施" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="486.5" y="1610" width="85.5" height="60" as="geometry" />
         </mxCell>
@@ -557,9 +554,6 @@
           <mxGeometry x="-0.2903" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="fV8UQ92mgfStvrnF8Kc9-125" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fV8UQ92mgfStvrnF8Kc9-121" target="fV8UQ92mgfStvrnF8Kc9-122">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fV8UQ92mgfStvrnF8Kc9-121" value="&lt;div style=&quot;text-align: left;&quot;&gt;参加检查&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="592" y="1620" width="75.5" height="40" as="geometry" />
