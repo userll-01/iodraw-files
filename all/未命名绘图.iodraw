@@ -603,18 +603,6 @@
         <mxCell id="Z943jDBzrdEJ36IgWkzA-136" value="审查是否通过" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1216" y="2127" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Z943jDBzrdEJ36IgWkzA-138" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="690" y="2070" as="sourcePoint" />
-            <mxPoint x="740" y="2020" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Z943jDBzrdEJ36IgWkzA-139" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="690" y="2070" as="sourcePoint" />
-            <mxPoint x="740" y="2020" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
