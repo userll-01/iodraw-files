@@ -538,6 +538,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="QKdj4n2gvNyY4pAPHCyX-146" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QKdj4n2gvNyY4pAPHCyX-132" target="QKdj4n2gvNyY4pAPHCyX-145">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="QKdj4n2gvNyY4pAPHCyX-132" value="组织整改" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="620" y="1662" width="99" height="30" as="geometry" />
         </mxCell>
@@ -587,7 +590,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="QKdj4n2gvNyY4pAPHCyX-145" value="组织整改" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="628" y="1720" width="99" height="30" as="geometry" />
+          <mxGeometry x="620" y="1740" width="99" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
