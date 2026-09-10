@@ -293,8 +293,8 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fV8UQ92mgfStvrnF8Kc9-63" value="开展环境敏感性评估" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="22" y="930" width="59" height="420" as="geometry" />
+        <mxCell id="fV8UQ92mgfStvrnF8Kc9-63" value="环境风险评估" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="21" y="930" width="59" height="420" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
