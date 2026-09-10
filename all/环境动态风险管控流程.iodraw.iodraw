@@ -339,7 +339,7 @@
         <mxCell id="fV8UQ92mgfStvrnF8Kc9-80" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fV8UQ92mgfStvrnF8Kc9-71" target="fV8UQ92mgfStvrnF8Kc9-79">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fV8UQ92mgfStvrnF8Kc9-89" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="fV8UQ92mgfStvrnF8Kc9-80">
+        <mxCell id="fV8UQ92mgfStvrnF8Kc9-89" value="Y" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="fV8UQ92mgfStvrnF8Kc9-80">
           <mxGeometry x="0.28" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -420,6 +420,9 @@
           <mxGeometry x="-0.2175" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="fV8UQ92mgfStvrnF8Kc9-90" value="环境风险评估" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="31" y="940" width="59" height="420" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
