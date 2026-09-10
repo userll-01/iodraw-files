@@ -810,6 +810,9 @@
         <mxCell id="Z943jDBzrdEJ36IgWkzA-192" value="专项验收通过" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1054" y="2691" width="115" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="Z943jDBzrdEJ36IgWkzA-194" value="专项验收通过" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="871" y="2691" width="115" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
