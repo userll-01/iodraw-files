@@ -675,6 +675,9 @@
             <mxPoint x="1602.38" y="2330" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="2XMQ8XQJAJfj7A2r2Mes-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zIRN0Xyj8EtUOTZ_-rDE-92" target="zIRN0Xyj8EtUOTZ_-rDE-95">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="zIRN0Xyj8EtUOTZ_-rDE-92" value="组织专项验收&lt;div&gt;报告书、报告表&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1564" y="2229" width="90" height="38" as="geometry" />
         </mxCell>
@@ -699,7 +702,7 @@
           <mxGeometry x="1407" y="2225" width="129" height="47" as="geometry" />
         </mxCell>
         <mxCell id="zIRN0Xyj8EtUOTZ_-rDE-95" value="审查是否通过" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="1545.38" y="2290" width="129" height="47" as="geometry" />
+          <mxGeometry x="1544.38" y="2288" width="129" height="47" as="geometry" />
         </mxCell>
         <mxCell id="zIRN0Xyj8EtUOTZ_-rDE-96" value="审查是否通过" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="1666.63" y="2412" width="129" height="47" as="geometry" />
