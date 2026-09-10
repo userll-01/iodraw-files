@@ -428,16 +428,16 @@
           <mxGeometry x="21" y="1350" width="59" height="510" as="geometry" />
         </mxCell>
         <mxCell id="fV8UQ92mgfStvrnF8Kc9-91" value="低风险（蓝）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="1350" width="70" height="130" as="geometry" />
+          <mxGeometry x="80" y="1350" width="70" height="180" as="geometry" />
         </mxCell>
         <mxCell id="fV8UQ92mgfStvrnF8Kc9-92" value="中风险（黄）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="1480" width="70" height="110" as="geometry" />
         </mxCell>
         <mxCell id="fV8UQ92mgfStvrnF8Kc9-93" value="次高风险（橙）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="1590" width="70" height="110" as="geometry" />
+          <mxGeometry x="80" y="1591" width="70" height="110" as="geometry" />
         </mxCell>
         <mxCell id="fV8UQ92mgfStvrnF8Kc9-94" value="高风险（红）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="1700" width="70" height="160" as="geometry" />
+          <mxGeometry x="80" y="1701" width="70" height="160" as="geometry" />
         </mxCell>
         <mxCell id="fV8UQ92mgfStvrnF8Kc9-95" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;color: rgba(0, 0, 0, 0.95); font-family: ui-sans-serif, system-ui, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; font-size: 13px; background-color: initial;&quot;&gt;进行分级防控&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="364.5" y="1350" width="80" height="40" as="geometry" />
@@ -449,7 +449,7 @@
           <mxGeometry x="265" y="1408" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fV8UQ92mgfStvrnF8Kc9-99" value="抽查" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="500" y="1190" width="80" height="60" as="geometry" />
+          <mxGeometry x="364.5" y="1460" width="80" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
