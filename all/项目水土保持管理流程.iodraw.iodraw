@@ -483,6 +483,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="QKdj4n2gvNyY4pAPHCyX-124" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QKdj4n2gvNyY4pAPHCyX-119" target="QKdj4n2gvNyY4pAPHCyX-123">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="QKdj4n2gvNyY4pAPHCyX-119" value="审查是否通过" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="838" y="1399" width="90" height="50" as="geometry" />
         </mxCell>
@@ -498,7 +501,7 @@
         <mxCell id="QKdj4n2gvNyY4pAPHCyX-122" value="专项审查结束" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="729" y="1450" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="QKdj4n2gvNyY4pAPHCyX-123" value="审查" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="QKdj4n2gvNyY4pAPHCyX-123" value="报川庆公司备案" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="998" y="1409" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
