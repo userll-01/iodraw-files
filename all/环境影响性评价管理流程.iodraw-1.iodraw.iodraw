@@ -349,7 +349,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PPdWcYO4c5VOot3ufRt8-5" value="环境影响评价报告书审查&lt;div style=&quot;font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-stretch: normal; font-family: ui-sans-serif, system-ui, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; font-size: 16px; line-height: 24px; text-align: left; flex: 0 1 auto; flex-direction: row; justify-content: normal; align-items: normal; padding: 0px; margin: 0px; background: none 0% 0% / auto repeat scroll padding-box border-box rgba(0, 0, 0, 0);&quot;&gt;&lt;/div&gt;（登记表、报告表跳过此流程" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1540.25" y="1241.5" width="137.5" height="48" as="geometry" />
+          <mxGeometry x="1533.25" y="1245.5" width="137.5" height="48" as="geometry" />
         </mxCell>
         <mxCell id="PPdWcYO4c5VOot3ufRt8-7" value="审查是否通过" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="1685.5" y="1275" width="129" height="47" as="geometry" />
@@ -362,21 +362,6 @@
         </mxCell>
         <mxCell id="PPdWcYO4c5VOot3ufRt8-19" value="&lt;b&gt;N&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="PPdWcYO4c5VOot3ufRt8-18" vertex="1" connectable="0">
           <mxGeometry x="-0.2266" y="3" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="PPdWcYO4c5VOot3ufRt8-27" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=0.505;exitY=0.948;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.422;entryY=0.089;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="PPdWcYO4c5VOot3ufRt8-3" target="PPdWcYO4c5VOot3ufRt8-5" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1563.25" y="1326" as="sourcePoint" />
-            <mxPoint x="1613.25" y="1276" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="1595" y="1231" />
-              <mxPoint x="1598" y="1231" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="PPdWcYO4c5VOot3ufRt8-28" value="&lt;b&gt;Y&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="PPdWcYO4c5VOot3ufRt8-27" vertex="1" connectable="0">
-          <mxGeometry x="0.0357" y="3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
