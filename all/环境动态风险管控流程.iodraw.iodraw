@@ -434,7 +434,7 @@
           <mxGeometry x="80" y="1544" width="70" height="156" as="geometry" />
         </mxCell>
         <mxCell id="fV8UQ92mgfStvrnF8Kc9-93" value="次高风险（橙）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="1700" width="70" height="176" as="geometry" />
+          <mxGeometry x="80" y="1700" width="70" height="150" as="geometry" />
         </mxCell>
         <mxCell id="fV8UQ92mgfStvrnF8Kc9-94" value="高风险（红）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="1876" width="70" height="160" as="geometry" />
@@ -672,10 +672,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="fV8UQ92mgfStvrnF8Kc9-148" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="fV8UQ92mgfStvrnF8Kc9-148" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="fV8UQ92mgfStvrnF8Kc9-145">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="810" y="1620" as="sourcePoint" />
+            <mxPoint x="950" y="1840" as="sourcePoint" />
             <mxPoint x="860" y="1570" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1069" y="1840" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
