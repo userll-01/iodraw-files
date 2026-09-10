@@ -409,7 +409,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Z943jDBzrdEJ36IgWkzA-84" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;地方投资项目在线审批管理平台审查、批复&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="879" y="1456" width="120" height="40" as="geometry" />
+          <mxGeometry x="879" y="1440" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Z943jDBzrdEJ36IgWkzA-85" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Z943jDBzrdEJ36IgWkzA-78" target="Z943jDBzrdEJ36IgWkzA-84">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
