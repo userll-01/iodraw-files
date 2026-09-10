@@ -347,17 +347,20 @@
         </mxCell>
         <mxCell id="2XMQ8XQJAJfj7A2r2Mes-11" value="Y" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="2XMQ8XQJAJfj7A2r2Mes-10">
           <mxGeometry x="-0.1429" y="1" relative="1" as="geometry">
-            <mxPoint x="-1" y="-2" as="offset" />
+            <mxPoint x="-2" y="-2" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="PPdWcYO4c5VOot3ufRt8-3" value="审查是否通过" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="1530" y="1173" width="129" height="47" as="geometry" />
         </mxCell>
+        <mxCell id="2XMQ8XQJAJfj7A2r2Mes-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PPdWcYO4c5VOot3ufRt8-5" target="PPdWcYO4c5VOot3ufRt8-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="PPdWcYO4c5VOot3ufRt8-5" value="报川庆公司安全环保部门进行环境影响评价报告书审查（登记表、报告表跳过此流程" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1510" y="1247.5" width="170" height="48" as="geometry" />
         </mxCell>
         <mxCell id="PPdWcYO4c5VOot3ufRt8-7" value="审查是否通过" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="1685.5" y="1275" width="129" height="47" as="geometry" />
+          <mxGeometry x="1529" y="1326" width="129" height="47" as="geometry" />
         </mxCell>
         <mxCell id="PPdWcYO4c5VOot3ufRt8-18" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=0.146;exitY=0.486;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.35;entryY=1.161;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -418,20 +421,6 @@
         </mxCell>
         <mxCell id="zIRN0Xyj8EtUOTZ_-rDE-6" value="报地方生态环境&lt;br/&gt;行政主管部门" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1279" y="1311" width="90" height="38" as="geometry" />
-        </mxCell>
-        <mxCell id="zIRN0Xyj8EtUOTZ_-rDE-7" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1750" y="1322" as="sourcePoint" />
-            <mxPoint x="1369" y="1331" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="1750" y="1331" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="zIRN0Xyj8EtUOTZ_-rDE-8" value="Y" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="zIRN0Xyj8EtUOTZ_-rDE-7" vertex="1" connectable="0">
-          <mxGeometry x="0.177" y="2" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="zIRN0Xyj8EtUOTZ_-rDE-9" value="审查是否通过" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="1259.5" y="1450" width="129" height="47" as="geometry" />
