@@ -539,7 +539,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="QKdj4n2gvNyY4pAPHCyX-132" value="组织整改" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="620" y="1661" width="99" height="30" as="geometry" />
+          <mxGeometry x="620" y="1662" width="99" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QKdj4n2gvNyY4pAPHCyX-136" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QKdj4n2gvNyY4pAPHCyX-133" target="QKdj4n2gvNyY4pAPHCyX-135">
           <mxGeometry relative="1" as="geometry" />
@@ -558,6 +558,9 @@
         </mxCell>
         <mxCell id="QKdj4n2gvNyY4pAPHCyX-137" value="审查是否通过" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="839.5" y="1580" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="QKdj4n2gvNyY4pAPHCyX-140" value="专项检查" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1001" y="1530" width="77" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
