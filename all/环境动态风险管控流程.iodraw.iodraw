@@ -366,10 +366,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="fV8UQ92mgfStvrnF8Kc9-78" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="fV8UQ92mgfStvrnF8Kc9-77">
+        <mxCell id="fV8UQ92mgfStvrnF8Kc9-78" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="fV8UQ92mgfStvrnF8Kc9-77">
           <mxGeometry x="-0.5235" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="fV8UQ92mgfStvrnF8Kc9-79" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;color: rgba(0, 0, 0, 0.95); font-family: ui-sans-serif, system-ui, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; font-size: 13px; background-color: initial;&quot;&gt;结果评估&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470.5" y="1400" width="80" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
