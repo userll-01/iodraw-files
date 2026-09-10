@@ -212,6 +212,9 @@
         <mxCell id="fV8UQ92mgfStvrnF8Kc9-46" value="组织人员进行环境敏感目标进行排查、识别及数据统计" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="357" y="540" width="80" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="fV8UQ92mgfStvrnF8Kc9-47" value="组织人员进行环境敏感目标进行排查、识别及数据统计" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="367" y="550" width="80" height="70" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
