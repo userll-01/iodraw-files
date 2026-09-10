@@ -150,11 +150,6 @@
         <mxCell id="Z943jDBzrdEJ36IgWkzA-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Z943jDBzrdEJ36IgWkzA-22" target="Z943jDBzrdEJ36IgWkzA-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Z943jDBzrdEJ36IgWkzA-30" value="Y" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Z943jDBzrdEJ36IgWkzA-27">
-          <mxGeometry x="0.3469" relative="1" as="geometry">
-            <mxPoint x="1274" y="741" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="Z943jDBzrdEJ36IgWkzA-22" value="审查是否通过" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="848" y="584" width="120" height="40" as="geometry" />
         </mxCell>
