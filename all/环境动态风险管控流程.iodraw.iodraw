@@ -425,7 +425,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="fV8UQ92mgfStvrnF8Kc9-90" value="环境风险防控" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="21" y="1350" width="59" height="510" as="geometry" />
+          <mxGeometry x="21" y="1350" width="59" height="630" as="geometry" />
         </mxCell>
         <mxCell id="fV8UQ92mgfStvrnF8Kc9-91" value="低风险（蓝）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="1350" width="70" height="180" as="geometry" />
@@ -486,28 +486,6 @@
         <mxCell id="fV8UQ92mgfStvrnF8Kc9-106" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="fV8UQ92mgfStvrnF8Kc9-104">
           <mxGeometry x="0.2844" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="fV8UQ92mgfStvrnF8Kc9-107" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="fV8UQ92mgfStvrnF8Kc9-95" target="fV8UQ92mgfStvrnF8Kc9-97">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="550" y="1630" as="sourcePoint" />
-            <mxPoint x="600" y="1580" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="160" y="1370" />
-              <mxPoint x="160" y="1428" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="fV8UQ92mgfStvrnF8Kc9-108" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="160" y="1760" as="sourcePoint" />
-            <mxPoint x="160" y="1430" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="fV8UQ92mgfStvrnF8Kc9-109" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="fV8UQ92mgfStvrnF8Kc9-100">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="160" y="1560" as="sourcePoint" />
-            <mxPoint x="600" y="1580" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fV8UQ92mgfStvrnF8Kc9-110" value="检查落实情况" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
