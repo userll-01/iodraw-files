@@ -581,7 +581,13 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="510" y="1540" as="sourcePoint" />
             <mxPoint x="560" y="1490" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="666" y="1605" />
+            </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="QKdj4n2gvNyY4pAPHCyX-145" value="组织整改" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="628" y="1720" width="99" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
