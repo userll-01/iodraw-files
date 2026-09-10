@@ -539,6 +539,9 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="550" y="1530" as="sourcePoint" />
             <mxPoint x="460" y="1560" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="527" y="1560" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
