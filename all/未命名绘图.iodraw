@@ -613,7 +613,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Z943jDBzrdEJ36IgWkzA-141" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0.95); font-family: ui-sans-serif, system-ui, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; font-size: 13px; text-align: left;&quot;&gt;组织整改&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="876" y="2240" width="110" height="40" as="geometry" />
+          <mxGeometry x="876" y="2239" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Z943jDBzrdEJ36IgWkzA-142" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Z943jDBzrdEJ36IgWkzA-127" target="Z943jDBzrdEJ36IgWkzA-141">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
