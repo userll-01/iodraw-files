@@ -192,6 +192,9 @@
         <mxCell id="Z943jDBzrdEJ36IgWkzA-28" value="审查是否通过" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1186" y="666" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="Z943jDBzrdEJ36IgWkzA-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Z943jDBzrdEJ36IgWkzA-31" target="Z943jDBzrdEJ36IgWkzA-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Z943jDBzrdEJ36IgWkzA-31" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;color: rgba(0, 0, 0, 0.95); font-family: ui-sans-serif, system-ui, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; font-size: 13px;&quot;&gt;判定节能审查类型&lt;/span&gt;&lt;div style=&quot;box-sizing: border-box; border: 0px solid; margin: 0px; padding: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); outline: none; font-size: 13px; color: rgba(0, 0, 0, 0.95); font-family: ui-sans-serif, system-ui, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; line-height: 1.6 !important;&quot; class=&quot;container-Uxvbjy md-box-line-break wrapper-GYqxgQ undefined&quot;&gt;&lt;/div&gt;&lt;span style=&quot;color: rgba(0, 0, 0, 0.95); font-family: ui-sans-serif, system-ui, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; font-size: 13px;&quot;&gt;(专篇 / 专项审查)&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1182" y="742" width="128" height="39.5" as="geometry" />
         </mxCell>
@@ -211,7 +214,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Z943jDBzrdEJ36IgWkzA-36" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;综合审查&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1025" y="746.25" width="120" height="31" as="geometry" />
+          <mxGeometry x="1040" y="746.25" width="120" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="Z943jDBzrdEJ36IgWkzA-38" value="审查是否通过" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="464" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
