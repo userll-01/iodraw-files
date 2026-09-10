@@ -807,7 +807,7 @@
         <mxCell id="QKdj4n2gvNyY4pAPHCyX-204" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="QKdj4n2gvNyY4pAPHCyX-203">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="720" y="1780" as="sourcePoint" />
-            <mxPoint x="770" y="1730" as="targetPoint" />
+            <mxPoint x="600" y="1800" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
