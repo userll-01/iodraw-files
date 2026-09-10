@@ -1,0 +1,76 @@
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.289 Safari/537.36" version="24.7.17">
+  <diagram name="第 1 页" id="VtreUaIQKaSy79a-vFFt">
+    <mxGraphModel dx="1334" dy="902" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="KzwcP8r9qCKmiWtFyrjv-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="21" y="104" width="129" height="116" as="geometry" />
+        </mxCell>
+        <mxCell id="TT1xrOZBvsEEWYrkdfZf-1" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;环境动态风险管控流程&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="461" y="28" width="259" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TT1xrOZBvsEEWYrkdfZf-4" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;管理层&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=none;gradientColor=default;gradientDirection=north;" parent="1" vertex="1">
+          <mxGeometry x="88" y="116.5" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TT1xrOZBvsEEWYrkdfZf-5" value="管理内容" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" parent="1" vertex="1">
+          <mxGeometry x="73" y="178" width="70" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="TT1xrOZBvsEEWYrkdfZf-6" value="管理流程" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;direction=west;" parent="1" vertex="1">
+          <mxGeometry x="22" y="185" width="51" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="TT1xrOZBvsEEWYrkdfZf-8" value="" style="endArrow=none;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" parent="1" source="KzwcP8r9qCKmiWtFyrjv-4" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="21" y="99" as="sourcePoint" />
+            <mxPoint x="88" y="219" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KzwcP8r9qCKmiWtFyrjv-2" value="" style="endArrow=none;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=1.008;entryY=0.629;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="KzwcP8r9qCKmiWtFyrjv-4" target="KzwcP8r9qCKmiWtFyrjv-4" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="251.00000000000006" y="89.0039999999999" as="sourcePoint" />
+            <mxPoint x="168" y="166" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KzwcP8r9qCKmiWtFyrjv-9" value="第三方服务机构" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="150" y="104" width="443" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="KzwcP8r9qCKmiWtFyrjv-11" value="设计单位" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="150" y="169" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="KzwcP8r9qCKmiWtFyrjv-12" value="水土保持方案&lt;div&gt;设计单位&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="259" y="169" width="114" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="KzwcP8r9qCKmiWtFyrjv-25" value="&lt;div&gt;立&lt;/div&gt;&lt;div&gt;项&lt;/div&gt;&lt;div&gt;阶&lt;/div&gt;&lt;div&gt;段&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="21" y="219.5" width="129" height="620.5" as="geometry" />
+        </mxCell>
+        <mxCell id="QKdj4n2gvNyY4pAPHCyX-1" value="水土保持检测、&lt;div&gt;监理单位&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="373" y="169" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="QKdj4n2gvNyY4pAPHCyX-2" value="设计单位" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="483" y="169" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="QKdj4n2gvNyY4pAPHCyX-4" value="总公司" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="593" y="104" width="517" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="QKdj4n2gvNyY4pAPHCyX-5" value="项目实施单位" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="593" y="169" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="QKdj4n2gvNyY4pAPHCyX-6" value="业务主管部门" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="702" y="169" width="114" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="QKdj4n2gvNyY4pAPHCyX-7" value="安全环保部门" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="816" y="169" width="294" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="QKdj4n2gvNyY4pAPHCyX-12" value="项目立项方案" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="165" y="250" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QKdj4n2gvNyY4pAPHCyX-228" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" parent="1" target="QKdj4n2gvNyY4pAPHCyX-7" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1110" y="2360" as="sourcePoint" />
+            <mxPoint x="900" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
