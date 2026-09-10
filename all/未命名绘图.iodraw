@@ -364,7 +364,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Z943jDBzrdEJ36IgWkzA-71" value="" style="shape=stencil(pVJRDsIgDD0Nv4ZBPICZeg+cdSNuQApu8/aWMRO3ucXEhBD6Hn0tjzKZ+0o5YIJXTB6ZEBnntFPczWLlHRQhga1CrS41JMYHtHfo9DWMGtpUgDpEVp4YP9CduGReWGNIRFvjJ8wHT2JKG8rlfRIbyz/HaLdPsaMKDQTAsc2EMnH+WTj7R1jmhKw9R+Y3i1CifZjr13Zuuq6Taxs9OxX9XBBvurEtrLm051t2vBUUFnTAfpqDM41+NgczulZYQlT6bMN3AO6njyF85Z00mWsODWkLiwc0TfMAvAA=);whiteSpace=wrap;html=1;rotation=-180;" vertex="1" parent="1">
-          <mxGeometry x="870" y="2400" width="10" height="40" as="geometry" />
+          <mxGeometry x="900" y="2180" width="10" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Z943jDBzrdEJ36IgWkzA-76" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Z943jDBzrdEJ36IgWkzA-72" target="Z943jDBzrdEJ36IgWkzA-75">
           <mxGeometry relative="1" as="geometry" />
