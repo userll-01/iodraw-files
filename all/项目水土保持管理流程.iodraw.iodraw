@@ -450,8 +450,8 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QKdj4n2gvNyY4pAPHCyX-110" value="报地方水行政主管部门审查、审批" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="600" y="1310" width="110" height="30" as="geometry" />
+        <mxCell id="QKdj4n2gvNyY4pAPHCyX-110" value="项目备案资料" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="1310" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
