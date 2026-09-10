@@ -110,7 +110,7 @@
         </mxCell>
         <mxCell id="fV8UQ92mgfStvrnF8Kc9-34" value="Y" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="fV8UQ92mgfStvrnF8Kc9-25">
           <mxGeometry x="0.4528" y="1" relative="1" as="geometry">
-            <mxPoint x="1" as="offset" />
+            <mxPoint x="-11" y="1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fV8UQ92mgfStvrnF8Kc9-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fV8UQ92mgfStvrnF8Kc9-13" target="fV8UQ92mgfStvrnF8Kc9-7">
@@ -134,7 +134,7 @@
         </mxCell>
         <mxCell id="fV8UQ92mgfStvrnF8Kc9-31" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="fV8UQ92mgfStvrnF8Kc9-29">
           <mxGeometry x="-0.16" relative="1" as="geometry">
-            <mxPoint x="1" as="offset" />
+            <mxPoint x="-2" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fV8UQ92mgfStvrnF8Kc9-14" value="审核" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
