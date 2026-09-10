@@ -43,11 +43,8 @@
         <mxCell id="KzwcP8r9qCKmiWtFyrjv-25" value="&lt;div&gt;立&lt;/div&gt;&lt;div&gt;项&lt;/div&gt;&lt;div&gt;阶&lt;/div&gt;&lt;div&gt;段&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="21" y="219.5" width="129" height="620.5" as="geometry" />
         </mxCell>
-        <mxCell id="QKdj4n2gvNyY4pAPHCyX-1" value="水土保持检测、&lt;div&gt;监理单位&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="QKdj4n2gvNyY4pAPHCyX-1" value="队站负责人" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="373" y="169" width="110" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="QKdj4n2gvNyY4pAPHCyX-2" value="设计单位" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="483" y="169" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="QKdj4n2gvNyY4pAPHCyX-4" value="总公司" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="593" y="104" width="517" height="65" as="geometry" />
