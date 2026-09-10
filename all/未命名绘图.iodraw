@@ -664,7 +664,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Z943jDBzrdEJ36IgWkzA-154" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0.95); font-family: ui-sans-serif, system-ui, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; font-size: 13px; text-align: left; text-wrap: wrap;&quot;&gt;2年未开工或项目能源消费总量增长超过10%&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Z943jDBzrdEJ36IgWkzA-148">
+        <mxCell id="Z943jDBzrdEJ36IgWkzA-154" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0.95); font-family: ui-sans-serif, system-ui, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; text-align: left; text-wrap: wrap;&quot;&gt;&lt;font style=&quot;font-size: 6px;&quot;&gt;2年未开工或项目能源消费总量增长超过10%&lt;/font&gt;&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Z943jDBzrdEJ36IgWkzA-148">
           <mxGeometry x="-0.289" y="-1" relative="1" as="geometry">
             <mxPoint x="-341" y="29" as="offset" />
           </mxGeometry>
