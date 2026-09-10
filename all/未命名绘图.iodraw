@@ -759,7 +759,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Z943jDBzrdEJ36IgWkzA-182" value="川庆公司" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Z943jDBzrdEJ36IgWkzA-182" value="川庆公司验收审查&lt;div&gt;（节能专篇跳过此阶段）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1210" y="2550" width="110" height="40" as="geometry" />
         </mxCell>
       </root>
