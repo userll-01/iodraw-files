@@ -236,8 +236,8 @@
         <mxCell id="peaUoX4Pmoz3yc2kiJaC-82" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="peaUoX4Pmoz3yc2kiJaC-76" target="peaUoX4Pmoz3yc2kiJaC-81" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="peaUoX4Pmoz3yc2kiJaC-76" value="报川庆公司审批" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1377" y="880" width="101" height="34" as="geometry" />
+        <mxCell id="peaUoX4Pmoz3yc2kiJaC-76" value="报川庆公司业务主管部门审批" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1377" y="873" width="101" height="34" as="geometry" />
         </mxCell>
         <mxCell id="peaUoX4Pmoz3yc2kiJaC-81" value="审查是否通过" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="1365.5" y="950" width="129" height="47" as="geometry" />
