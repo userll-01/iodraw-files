@@ -349,14 +349,17 @@
             <mxPoint x="813.5" y="1130" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Z943jDBzrdEJ36IgWkzA-70" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="Z943jDBzrdEJ36IgWkzA-60">
+        <mxCell id="Z943jDBzrdEJ36IgWkzA-70" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="670" y="1215" as="sourcePoint" />
-            <mxPoint x="1050" y="1150" as="targetPoint" />
+            <mxPoint x="675" y="1215" as="sourcePoint" />
+            <mxPoint x="885" y="1215" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Z943jDBzrdEJ36IgWkzA-71" value="" style="shape=stencil(pVJRDsIgDD0Nv4ZBPICZeg+cdSNuQApu8/aWMRO3ucXEhBD6Hn0tjzKZ+0o5YIJXTB6ZEBnntFPczWLlHRQhga1CrS41JMYHtHfo9DWMGtpUgDpEVp4YP9CduGReWGNIRFvjJ8wHT2JKG8rlfRIbyz/HaLdPsaMKDQTAsc2EMnH+WTj7R1jmhKw9R+Y3i1CifZjr13Zuuq6Taxs9OxX9XBBvurEtrLm051t2vBUUFnTAfpqDM41+NgczulZYQlT6bMN3AO6njyF85Z00mWsODWkLiwc0TfMAvAA=);whiteSpace=wrap;html=1;rotation=-180;" vertex="1" parent="1">
           <mxGeometry x="700" y="1654" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Z943jDBzrdEJ36IgWkzA-72" value="审查是否通过" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="890" y="1205" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
