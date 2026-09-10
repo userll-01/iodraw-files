@@ -595,7 +595,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="QKdj4n2gvNyY4pAPHCyX-145" value="项目完工组织预审" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="620" y="1729" width="99" height="31" as="geometry" />
+          <mxGeometry x="620" y="1726" width="99" height="31" as="geometry" />
         </mxCell>
         <mxCell id="QKdj4n2gvNyY4pAPHCyX-148" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="QKdj4n2gvNyY4pAPHCyX-162">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -699,6 +699,9 @@
         </mxCell>
         <mxCell id="QKdj4n2gvNyY4pAPHCyX-169" value="验&lt;div&gt;收&lt;/div&gt;&lt;div&gt;阶&lt;/div&gt;&lt;div&gt;段&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="21" y="1760" width="129" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="QKdj4n2gvNyY4pAPHCyX-170" value="项目完工组织预审" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="385" y="1770" width="99" height="31" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
