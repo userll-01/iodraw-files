@@ -711,7 +711,13 @@
           <mxGeometry x="1050" y="2410" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Z943jDBzrdEJ36IgWkzA-170" value="审查是否通过" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1044.5" y="2481" width="120" height="40" as="geometry" />
+          <mxGeometry x="1044.5" y="2480" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Z943jDBzrdEJ36IgWkzA-173" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="940" y="2390" as="sourcePoint" />
+            <mxPoint x="840" y="2370" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
