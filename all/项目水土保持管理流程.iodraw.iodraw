@@ -750,11 +750,14 @@
         <mxCell id="QKdj4n2gvNyY4pAPHCyX-183" value="组织专项验收&lt;div&gt;（专篇/表）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="867" y="1933" width="84" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="QKdj4n2gvNyY4pAPHCyX-188" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QKdj4n2gvNyY4pAPHCyX-185" target="QKdj4n2gvNyY4pAPHCyX-187">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="QKdj4n2gvNyY4pAPHCyX-185" value="审查是否通过" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="864" y="2005" width="90" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="QKdj4n2gvNyY4pAPHCyX-187" value="组织专项验收&lt;div&gt;（专篇/表）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="877" y="1943" width="84" height="40" as="geometry" />
+        <mxCell id="QKdj4n2gvNyY4pAPHCyX-187" value="川庆报告书验收审查" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1006" y="2010" width="84" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
