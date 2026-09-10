@@ -422,7 +422,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="fV8UQ92mgfStvrnF8Kc9-90" value="环境风险防控" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="21" y="1350" width="59" height="420" as="geometry" />
+          <mxGeometry x="21" y="1350" width="59" height="510" as="geometry" />
         </mxCell>
         <mxCell id="fV8UQ92mgfStvrnF8Kc9-91" value="低风险（蓝）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="1350" width="70" height="130" as="geometry" />
@@ -434,7 +434,7 @@
           <mxGeometry x="80" y="1580" width="70" height="100" as="geometry" />
         </mxCell>
         <mxCell id="fV8UQ92mgfStvrnF8Kc9-94" value="高风险（红）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="1680" width="70" height="90" as="geometry" />
+          <mxGeometry x="80" y="1680" width="70" height="180" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
