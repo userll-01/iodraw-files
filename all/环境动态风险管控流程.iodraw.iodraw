@@ -53,7 +53,7 @@
           <mxGeometry x="460" y="169" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="QKdj4n2gvNyY4pAPHCyX-6" value="其他业务部门" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="569" y="169" width="90" height="50" as="geometry" />
+          <mxGeometry x="540" y="169" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="QKdj4n2gvNyY4pAPHCyX-7" value="主要负责人或分管负责人" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="684" y="169" width="143" height="50" as="geometry" />
