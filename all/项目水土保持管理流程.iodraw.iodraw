@@ -594,6 +594,9 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="QKdj4n2gvNyY4pAPHCyX-174" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QKdj4n2gvNyY4pAPHCyX-145" target="QKdj4n2gvNyY4pAPHCyX-173">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="QKdj4n2gvNyY4pAPHCyX-145" value="项目完工组织预审" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="620" y="1726" width="99" height="31" as="geometry" />
         </mxCell>
@@ -710,7 +713,7 @@
           <mxGeometry x="506" y="1770" width="84" height="40" as="geometry" />
         </mxCell>
         <mxCell id="QKdj4n2gvNyY4pAPHCyX-173" value="审查是否通过" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="800" y="1830" width="90" height="50" as="geometry" />
+          <mxGeometry x="625" y="1809" width="90" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
