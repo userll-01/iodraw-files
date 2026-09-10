@@ -265,7 +265,7 @@
           <mxGeometry x="534" y="921" width="157" height="809" as="geometry" />
         </mxCell>
         <mxCell id="peaUoX4Pmoz3yc2kiJaC-92" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;运&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;行&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;阶&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;段&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="534" y="1743" width="157" height="280" as="geometry" />
+          <mxGeometry x="534" y="1730" width="157" height="293" as="geometry" />
         </mxCell>
         <mxCell id="peaUoX4Pmoz3yc2kiJaC-93" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;验&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;收&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;阶&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;段&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="534" y="2023" width="157" height="600" as="geometry" />
@@ -645,21 +645,6 @@
         </mxCell>
         <mxCell id="zIRN0Xyj8EtUOTZ_-rDE-74" value="Y" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="zIRN0Xyj8EtUOTZ_-rDE-72" vertex="1" connectable="0">
           <mxGeometry x="0.2515" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="zIRN0Xyj8EtUOTZ_-rDE-75" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="zIRN0Xyj8EtUOTZ_-rDE-53" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1466" y="1895" as="sourcePoint" />
-            <mxPoint x="896" y="1095" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="1335" y="1895" />
-              <mxPoint x="896" y="1895" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="zIRN0Xyj8EtUOTZ_-rDE-77" value="发生重大变更" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="zIRN0Xyj8EtUOTZ_-rDE-75" vertex="1" connectable="0">
-          <mxGeometry x="-0.5342" y="3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
