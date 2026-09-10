@@ -559,7 +559,7 @@
         <mxCell id="fV8UQ92mgfStvrnF8Kc9-121" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 13px;&quot;&gt;&lt;font face=&quot;ui-sans-serif, system-ui, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji&quot; color=&quot;rgba(0, 0, 0, 0.95)&quot;&gt;参加检查&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="592" y="1620" width="75.5" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="fV8UQ92mgfStvrnF8Kc9-122" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fV8UQ92mgfStvrnF8Kc9-122" value="&lt;div style=&quot;text-align: left;&quot;&gt;组织检查&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="695.5" y="1620" width="75.5" height="40" as="geometry" />
         </mxCell>
       </root>
