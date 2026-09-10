@@ -707,7 +707,7 @@
           <mxGeometry x="352" y="1771" width="110" height="38" as="geometry" />
         </mxCell>
         <mxCell id="QKdj4n2gvNyY4pAPHCyX-171" value="提供监理&lt;div&gt;监测报告&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="506" y="1768" width="110" height="40" as="geometry" />
+          <mxGeometry x="506" y="1770" width="84" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
