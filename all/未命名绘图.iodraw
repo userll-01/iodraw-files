@@ -685,10 +685,13 @@
         <mxCell id="Z943jDBzrdEJ36IgWkzA-161" value="审查是否通过" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="871" y="2345" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Z943jDBzrdEJ36IgWkzA-163" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="Z943jDBzrdEJ36IgWkzA-163" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Z943jDBzrdEJ36IgWkzA-161" target="Z943jDBzrdEJ36IgWkzA-141">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="940" y="2390" as="sourcePoint" />
             <mxPoint x="990" y="2340" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="840" y="2242" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
