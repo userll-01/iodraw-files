@@ -718,11 +718,16 @@
         <mxCell id="QKdj4n2gvNyY4pAPHCyX-177" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QKdj4n2gvNyY4pAPHCyX-173" target="QKdj4n2gvNyY4pAPHCyX-176">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="QKdj4n2gvNyY4pAPHCyX-178" value="Y" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="QKdj4n2gvNyY4pAPHCyX-177">
+          <mxGeometry x="0.0941" y="1" relative="1" as="geometry">
+            <mxPoint x="-1" y="-10" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="QKdj4n2gvNyY4pAPHCyX-173" value="审查是否通过" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="625" y="1777" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="QKdj4n2gvNyY4pAPHCyX-176" value="提供验收报告" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="627.5" y="1854" width="84" height="40" as="geometry" />
+          <mxGeometry x="627.5" y="1863" width="84" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
