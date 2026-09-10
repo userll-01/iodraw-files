@@ -560,7 +560,10 @@
           <mxGeometry x="1215" y="1900" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Z943jDBzrdEJ36IgWkzA-127" value="审查是否通过" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1130" y="2020" width="120" height="40" as="geometry" />
+          <mxGeometry x="1040" y="1980" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Z943jDBzrdEJ36IgWkzA-128" value="审查是否通过" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1215" y="1980" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
