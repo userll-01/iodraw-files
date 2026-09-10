@@ -594,9 +594,12 @@
             <mxPoint x="520" y="1350" as="targetPoint" />
             <Array as="points">
               <mxPoint x="160" y="1370" />
-              <mxPoint x="160" y="1740" />
+              <mxPoint x="160" y="1730" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="fV8UQ92mgfStvrnF8Kc9-135" value="审批措施" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="496.5" y="1620" width="85.5" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
