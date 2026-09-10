@@ -201,7 +201,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="fV8UQ92mgfStvrnF8Kc9-43" value="开展环境敏感性评估" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="21" y="510" width="59" height="290.5" as="geometry" />
+          <mxGeometry x="21" y="510" width="59" height="430" as="geometry" />
         </mxCell>
         <mxCell id="fV8UQ92mgfStvrnF8Kc9-44" value="收集数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="510" width="70" height="130" as="geometry" />
@@ -221,7 +221,7 @@
         <mxCell id="fV8UQ92mgfStvrnF8Kc9-49" value="核实抽查" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="740" width="70" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="fV8UQ92mgfStvrnF8Kc9-50" value="核实抽查" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fV8UQ92mgfStvrnF8Kc9-50" value="结果" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="840" width="70" height="100" as="geometry" />
         </mxCell>
       </root>
