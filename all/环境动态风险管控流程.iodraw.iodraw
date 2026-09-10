@@ -225,7 +225,7 @@
           <mxGeometry x="80" y="740" width="70" height="100" as="geometry" />
         </mxCell>
         <mxCell id="fV8UQ92mgfStvrnF8Kc9-50" value="结果" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="840" width="70" height="100" as="geometry" />
+          <mxGeometry x="80" y="840" width="70" height="90" as="geometry" />
         </mxCell>
         <mxCell id="fV8UQ92mgfStvrnF8Kc9-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fV8UQ92mgfStvrnF8Kc9-52" target="fV8UQ92mgfStvrnF8Kc9-48">
           <mxGeometry relative="1" as="geometry" />
@@ -284,7 +284,7 @@
             <mxPoint x="840" y="750" as="sourcePoint" />
             <mxPoint x="438" y="568" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="838" y="566" />
+              <mxPoint x="840" y="568" />
             </Array>
           </mxGeometry>
         </mxCell>
