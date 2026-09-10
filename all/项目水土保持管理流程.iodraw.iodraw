@@ -516,6 +516,9 @@
         <mxCell id="QKdj4n2gvNyY4pAPHCyX-126" value="运&lt;div&gt;行&lt;/div&gt;&lt;div&gt;阶&lt;/div&gt;&lt;div&gt;段&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="21" y="1480" width="129" height="640" as="geometry" />
         </mxCell>
+        <mxCell id="QKdj4n2gvNyY4pAPHCyX-130" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QKdj4n2gvNyY4pAPHCyX-127" target="QKdj4n2gvNyY4pAPHCyX-129">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="QKdj4n2gvNyY4pAPHCyX-127" value="水土保持监测监理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="381" y="1490" width="99" height="30" as="geometry" />
         </mxCell>
@@ -523,7 +526,7 @@
           <mxGeometry x="640" y="1490" width="99" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QKdj4n2gvNyY4pAPHCyX-129" value="审查是否通过" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="430" y="1620" width="90" height="50" as="geometry" />
+          <mxGeometry x="385" y="1560" width="90" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
