@@ -541,8 +541,8 @@
         <mxCell id="QKdj4n2gvNyY4pAPHCyX-132" value="组织整改" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="640" y="1660" width="99" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="QKdj4n2gvNyY4pAPHCyX-133" value="按照设计方案及批复组织项目施工" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="650" y="1500" width="99" height="30" as="geometry" />
+        <mxCell id="QKdj4n2gvNyY4pAPHCyX-133" value="运行情况检查" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="760" y="1530" width="99" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
