@@ -599,7 +599,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="fV8UQ92mgfStvrnF8Kc9-135" value="审批措施" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="496.5" y="1620" width="85.5" height="60" as="geometry" />
+          <mxGeometry x="685.5" y="1760" width="85.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fV8UQ92mgfStvrnF8Kc9-136" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="470" y="1800" as="sourcePoint" />
+            <mxPoint x="520" y="1750" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
