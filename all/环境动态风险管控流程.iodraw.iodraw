@@ -44,7 +44,7 @@
           <mxGeometry x="21" y="219.5" width="129" height="620.5" as="geometry" />
         </mxCell>
         <mxCell id="QKdj4n2gvNyY4pAPHCyX-1" value="队站负责人" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="373" y="169" width="110" height="50" as="geometry" />
+          <mxGeometry x="373" y="169" width="87" height="50" as="geometry" />
         </mxCell>
         <mxCell id="QKdj4n2gvNyY4pAPHCyX-4" value="项目部/专业公司" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="483" y="104" width="367" height="65" as="geometry" />
@@ -59,7 +59,7 @@
           <mxGeometry x="707" y="169" width="143" height="50" as="geometry" />
         </mxCell>
         <mxCell id="QKdj4n2gvNyY4pAPHCyX-12" value="项目立项方案" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="165" y="250" width="80" height="30" as="geometry" />
+          <mxGeometry x="270" y="240" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fV8UQ92mgfStvrnF8Kc9-3" value="总公司" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="850" y="104" width="367" height="65" as="geometry" />
