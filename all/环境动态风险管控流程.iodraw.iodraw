@@ -599,7 +599,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="fV8UQ92mgfStvrnF8Kc9-135" value="审批措施" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="686.5" y="1760" width="85.5" height="60" as="geometry" />
+          <mxGeometry x="685.5" y="1760" width="85.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fV8UQ92mgfStvrnF8Kc9-136" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.419;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="fV8UQ92mgfStvrnF8Kc9-131" target="fV8UQ92mgfStvrnF8Kc9-135">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -619,14 +619,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="fV8UQ92mgfStvrnF8Kc9-138" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="fV8UQ92mgfStvrnF8Kc9-135" target="fV8UQ92mgfStvrnF8Kc9-133">
+        <mxCell id="fV8UQ92mgfStvrnF8Kc9-139" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="470" y="1800" as="sourcePoint" />
             <mxPoint x="520" y="1750" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="730" y="1840" />
-              <mxPoint x="405" y="1840" />
-            </Array>
           </mxGeometry>
         </mxCell>
       </root>
