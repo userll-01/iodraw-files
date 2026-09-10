@@ -774,8 +774,8 @@
         <mxCell id="QKdj4n2gvNyY4pAPHCyX-192" value="审查是否通过" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="745" y="2210" width="90" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="QKdj4n2gvNyY4pAPHCyX-195" value="专项验收通过，报地方管理部门审批、备案" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="735" y="2160" width="130" height="40" as="geometry" />
+        <mxCell id="QKdj4n2gvNyY4pAPHCyX-195" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; text-wrap: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%E4%B8%93%E9%A1%B9%E9%AA%8C%E6%94%B6%E9%80%9A%E8%BF%87%EF%BC%8C%E6%8A%A5%E5%9C%B0%E6%96%B9%E7%AE%A1%E7%90%86%E9%83%A8%E9%97%A8%E5%AE%A1%E6%89%B9%E3%80%81%E5%A4%87%E6%A1%88%22%20style%3D%22rounded%3D0%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22725%22%20y%3D%222150%22%20width%3D%22130%22%20height%3D%2240%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="573" y="2300" width="130" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
