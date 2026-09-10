@@ -89,7 +89,7 @@
           <mxGeometry x="474.5" y="240" width="75.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fV8UQ92mgfStvrnF8Kc9-9" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0.95); font-family: ui-sans-serif, system-ui, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; font-size: 13px; text-align: left;&quot;&gt;组织开展风险物&lt;/span&gt;&lt;span style=&quot;color: rgba(0, 0, 0, 0.95); font-family: ui-sans-serif, system-ui, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; font-size: 13px; text-align: left;&quot;&gt;质识别&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="790" y="240" width="80" height="40" as="geometry" />
+          <mxGeometry x="784" y="240" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fV8UQ92mgfStvrnF8Kc9-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fV8UQ92mgfStvrnF8Kc9-12" target="fV8UQ92mgfStvrnF8Kc9-13">
           <mxGeometry relative="1" as="geometry" />
