@@ -431,7 +431,7 @@
           <mxGeometry x="80" y="1350" width="70" height="180" as="geometry" />
         </mxCell>
         <mxCell id="fV8UQ92mgfStvrnF8Kc9-92" value="中风险（黄）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="1532" width="70" height="110" as="geometry" />
+          <mxGeometry x="80" y="1530" width="70" height="110" as="geometry" />
         </mxCell>
         <mxCell id="fV8UQ92mgfStvrnF8Kc9-93" value="次高风险（橙）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="1644" width="70" height="110" as="geometry" />
@@ -448,7 +448,7 @@
         <mxCell id="fV8UQ92mgfStvrnF8Kc9-98" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;color: rgba(0, 0, 0, 0.95); font-family: ui-sans-serif, system-ui, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; font-size: 13px; background-color: initial;&quot;&gt;直至制定&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;color: rgba(0, 0, 0, 0.95); font-family: ui-sans-serif, system-ui, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; font-size: 13px; background-color: initial;&quot;&gt;管控措施&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="265" y="1408" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="fV8UQ92mgfStvrnF8Kc9-99" value="抽查" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fV8UQ92mgfStvrnF8Kc9-99" value="检查落实情况" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="364.5" y="1460" width="80" height="60" as="geometry" />
         </mxCell>
       </root>
