@@ -787,6 +787,9 @@
         <mxCell id="QKdj4n2gvNyY4pAPHCyX-196" value="其他审批流程" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="628" y="2290" width="90" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="QKdj4n2gvNyY4pAPHCyX-224" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QKdj4n2gvNyY4pAPHCyX-197" target="QKdj4n2gvNyY4pAPHCyX-198">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="QKdj4n2gvNyY4pAPHCyX-197" value="项目专项验收资料" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="743" y="2290" width="107" height="40" as="geometry" />
         </mxCell>
