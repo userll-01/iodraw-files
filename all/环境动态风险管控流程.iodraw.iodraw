@@ -47,7 +47,7 @@
           <mxGeometry x="373" y="169" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="QKdj4n2gvNyY4pAPHCyX-4" value="项目部/专业公司" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="483" y="104" width="517" height="65" as="geometry" />
+          <mxGeometry x="483" y="104" width="367" height="65" as="geometry" />
         </mxCell>
         <mxCell id="QKdj4n2gvNyY4pAPHCyX-5" value="环保管理岗" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="483" y="169" width="110" height="50" as="geometry" />
@@ -56,10 +56,22 @@
           <mxGeometry x="593" y="169" width="114" height="50" as="geometry" />
         </mxCell>
         <mxCell id="QKdj4n2gvNyY4pAPHCyX-7" value="主要负责人或分管负责人" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="707" y="169" width="294" height="50" as="geometry" />
+          <mxGeometry x="707" y="169" width="143" height="50" as="geometry" />
         </mxCell>
         <mxCell id="QKdj4n2gvNyY4pAPHCyX-12" value="项目立项方案" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="165" y="250" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fV8UQ92mgfStvrnF8Kc9-3" value="项目部/专业公司" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="493" y="114" width="367" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="fV8UQ92mgfStvrnF8Kc9-4" value="环保管理岗" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="493" y="179" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="fV8UQ92mgfStvrnF8Kc9-5" value="其他业务部门" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="603" y="179" width="114" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="fV8UQ92mgfStvrnF8Kc9-6" value="主要负责人或分管负责人" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="717" y="179" width="143" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
