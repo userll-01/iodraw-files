@@ -520,7 +520,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="klXIrQ5wFRsCaPP-dyNZ-41" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;审定结算单据&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1620" y="1238" width="110" height="40" as="geometry" />
+          <mxGeometry x="1649" y="1238" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="klXIrQ5wFRsCaPP-dyNZ-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="klXIrQ5wFRsCaPP-dyNZ-42" target="klXIrQ5wFRsCaPP-dyNZ-44" edge="1">
           <mxGeometry relative="1" as="geometry" />
