@@ -392,11 +392,8 @@
         <mxCell id="MLEgFeWWa_L2cOA0wtcn-3" value="非生产亡人" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-792" y="-1120" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="MLEgFeWWa_L2cOA0wtcn-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.331;entryY=0.002;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-1578" y="-893.5000000000002" as="sourcePoint" />
-            <mxPoint x="-1568.28" y="-893.2440000000001" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="MLEgFeWWa_L2cOA0wtcn-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1618" y="-896" width="120" height="128" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
