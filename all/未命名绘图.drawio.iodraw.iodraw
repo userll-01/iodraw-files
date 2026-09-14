@@ -224,9 +224,6 @@
             <mxPoint x="-416" y="484" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jrDchdewvENPkOc70hWg-1" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;人事办&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="-1187" y="-805.5" width="74" height="35" as="geometry" />
-        </mxCell>
         <mxCell id="jrDchdewvENPkOc70hWg-2" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;综合办&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="-1071" y="-805.5" width="74" height="35" as="geometry" />
         </mxCell>
@@ -394,6 +391,9 @@
         </mxCell>
         <mxCell id="MLEgFeWWa_L2cOA0wtcn-9" value="项目部、装业公司" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1264" y="-892" width="384" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TkDIU17aElw3jpWtoyiv-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1152" y="-736" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
