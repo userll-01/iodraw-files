@@ -392,8 +392,8 @@
         <mxCell id="MLEgFeWWa_L2cOA0wtcn-9" value="项目部、装业公司" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1264" y="-892" width="384" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TkDIU17aElw3jpWtoyiv-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1264" y="-830.5" width="120" height="63.5" as="geometry" />
+        <mxCell id="TkDIU17aElw3jpWtoyiv-1" value="人事办" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1264" y="-832.5" width="120" height="66.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
