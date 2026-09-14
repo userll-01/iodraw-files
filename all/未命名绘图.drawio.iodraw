@@ -392,8 +392,8 @@
         <mxCell id="MLEgFeWWa_L2cOA0wtcn-3" value="非生产亡人" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-792" y="-1120" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="MLEgFeWWa_L2cOA0wtcn-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1482" y="-892" width="120" height="127" as="geometry" />
+        <mxCell id="MLEgFeWWa_L2cOA0wtcn-8" value="基层队站" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1482" y="-892" width="218" height="127" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
