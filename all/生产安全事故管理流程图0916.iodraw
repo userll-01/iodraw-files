@@ -24,6 +24,18 @@
         <mxCell id="5D7GM2S4beVe6qFRnROk-4" value="管理内容" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="QAxT6IvgDtLFzx1mQNqQ-173" vertex="1">
           <mxGeometry x="-47" y="89" width="70" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="QAxT6IvgDtLFzx1mQNqQ-185" value="" style="endArrow=none;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=1;resizable=0;" parent="QAxT6IvgDtLFzx1mQNqQ-173" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-47" y="1" as="sourcePoint" />
+            <mxPoint x="73" y="71" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QAxT6IvgDtLFzx1mQNqQ-186" value="" style="endArrow=none;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=1;resizable=0;" parent="QAxT6IvgDtLFzx1mQNqQ-173" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-47" as="sourcePoint" />
+            <mxPoint x="43" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="QAxT6IvgDtLFzx1mQNqQ-129" value="基层队（站）" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;strokeColor=inherit;connectable=0;fillColor=none;startSize=70;collapsible=0;recursiveResize=0;expand=0;fontSize=16;align=center;verticalAlign=middle;fontFamily=Helvetica;fontColor=default;resizable=0;swimlaneLine=1;" parent="QAxT6IvgDtLFzx1mQNqQ-128" vertex="1">
           <mxGeometry x="120" width="360" height="119" as="geometry">
             <mxRectangle width="360" height="119" as="alternateBounds" />
@@ -1169,18 +1181,6 @@
         </mxCell>
         <mxCell id="ThlkBELTR-9QL7YRcd4m-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="QAxT6IvgDtLFzx1mQNqQ-88" source="FPAiQ-n-ynI77ha3DhqX-269" target="ThlkBELTR-9QL7YRcd4m-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="QAxT6IvgDtLFzx1mQNqQ-185" value="" style="endArrow=none;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=1;resizable=0;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-47920" y="-3102" as="sourcePoint" />
-            <mxPoint x="-47800" y="-3032" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="QAxT6IvgDtLFzx1mQNqQ-186" value="" style="endArrow=none;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=1;resizable=0;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-48570" y="-3190" as="sourcePoint" />
-            <mxPoint x="-47830" y="-2983" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
