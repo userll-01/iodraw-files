@@ -1,11 +1,11 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.289 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="xcRlwHVc7TBrjqSXRyoQ">
-    <mxGraphModel dx="20356" dy="8017" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="22837" dy="8017" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="QAxT6IvgDtLFzx1mQNqQ-88" value="生产安全事故管理流程图" style="shape=table;childLayout=tableLayout;startSize=67;collapsible=0;recursiveResize=0;expand=0;fontSize=20;align=center;verticalAlign=middle;fontFamily=Helvetica;fontStyle=1;resizable=0;swimlaneLine=1;labelBackgroundColor=default;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="-7170" y="-3050" width="1840" height="1227.0000000000005" as="geometry" />
+          <mxGeometry x="-9980" y="-2940" width="1840" height="1227.0000000000005" as="geometry" />
         </mxCell>
         <mxCell id="QAxT6IvgDtLFzx1mQNqQ-128" style="shape=tableRow;horizontal=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;strokeColor=inherit;bottom=0;right=0;dropTarget=0;fontStyle=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;startSize=47;collapsible=0;recursiveResize=0;expand=0;fontSize=16;align=center;verticalAlign=middle;fontFamily=Helvetica;fontColor=default;resizable=0;swimlaneLine=0;" parent="QAxT6IvgDtLFzx1mQNqQ-88" vertex="1">
           <mxGeometry y="67" width="1840" height="119" as="geometry" />
@@ -1172,14 +1172,14 @@
         </mxCell>
         <mxCell id="QAxT6IvgDtLFzx1mQNqQ-185" value="" style="endArrow=none;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=1;resizable=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-7170" y="-2982" as="sourcePoint" />
-            <mxPoint x="-7050" y="-2912" as="targetPoint" />
+            <mxPoint x="-9980" y="-2872" as="sourcePoint" />
+            <mxPoint x="-9860" y="-2802" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="QAxT6IvgDtLFzx1mQNqQ-186" value="" style="endArrow=none;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=1;resizable=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-7170" y="-2983" as="sourcePoint" />
-            <mxPoint x="-7080" y="-2863" as="targetPoint" />
+            <mxPoint x="-9980" y="-2873" as="sourcePoint" />
+            <mxPoint x="-9890" y="-2753" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
