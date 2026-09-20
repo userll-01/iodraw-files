@@ -909,7 +909,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="DCeWnfOq8pxNJVCFC5f0-3" value="总公司" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="DCeWnfOq8pxNJVCFC5f0-3" value="川庆公司" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="960" y="104" width="162" height="114" as="geometry" />
         </mxCell>
       </root>
