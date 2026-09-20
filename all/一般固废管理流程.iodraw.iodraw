@@ -168,7 +168,7 @@
         <mxCell id="uuLHGR9MCX1gwSNQ39ho-27" value="组织车辆" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="745" y="692" width="90" height="37" as="geometry" />
         </mxCell>
-        <mxCell id="uuLHGR9MCX1gwSNQ39ho-28" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="uuLHGR9MCX1gwSNQ39ho-23" target="uuLHGR9MCX1gwSNQ39ho-27" edge="1">
+        <mxCell id="uuLHGR9MCX1gwSNQ39ho-28" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#60a917;strokeColor=#2D7600;" parent="1" source="uuLHGR9MCX1gwSNQ39ho-23" target="uuLHGR9MCX1gwSNQ39ho-27" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="886" y="722" as="sourcePoint" />
             <mxPoint x="936" y="672" as="targetPoint" />
@@ -189,7 +189,7 @@
         <mxCell id="uuLHGR9MCX1gwSNQ39ho-30" value="出库计量、装车和记录台账" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="611" y="772" width="90" height="37" as="geometry" />
         </mxCell>
-        <mxCell id="uuLHGR9MCX1gwSNQ39ho-31" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="uuLHGR9MCX1gwSNQ39ho-27" target="uuLHGR9MCX1gwSNQ39ho-30" edge="1">
+        <mxCell id="uuLHGR9MCX1gwSNQ39ho-31" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#60a917;strokeColor=#2D7600;" parent="1" source="uuLHGR9MCX1gwSNQ39ho-27" target="uuLHGR9MCX1gwSNQ39ho-30" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="806" y="902" as="sourcePoint" />
             <mxPoint x="856" y="852" as="targetPoint" />
