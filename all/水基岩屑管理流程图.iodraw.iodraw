@@ -599,6 +599,12 @@
         <mxCell id="UTzVN1ssYW2B11S2N_Se-182" value="&lt;div&gt;&lt;span style=&quot;font-size: 8.24288pt; font-family: 微软雅黑;&quot;&gt;开展过程监管&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="1264" y="360" width="80" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="UTzVN1ssYW2B11S2N_Se-184" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.985;entryY=0.195;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="UTzVN1ssYW2B11S2N_Se-80">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1170" y="490" as="sourcePoint" />
+            <mxPoint x="1220" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
