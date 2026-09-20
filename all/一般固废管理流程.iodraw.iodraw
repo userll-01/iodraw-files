@@ -166,7 +166,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="uuLHGR9MCX1gwSNQ39ho-27" value="组织车辆" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="745" y="692" width="90" height="37" as="geometry" />
+          <mxGeometry x="741" y="692" width="90" height="37" as="geometry" />
         </mxCell>
         <mxCell id="uuLHGR9MCX1gwSNQ39ho-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#60a917;strokeColor=#2D7600;" parent="1" source="uuLHGR9MCX1gwSNQ39ho-30" target="uuLHGR9MCX1gwSNQ39ho-32" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -473,8 +473,8 @@
         </mxCell>
         <mxCell id="QZ95aEZLP8yLufWFxQQv-9" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;dashed=1;dashPattern=1 1;strokeColor=#808080;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="736" y="1440" as="sourcePoint" />
-            <mxPoint x="742" y="258" as="targetPoint" />
+            <mxPoint x="821" y="1413" as="sourcePoint" />
+            <mxPoint x="827" y="231" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
