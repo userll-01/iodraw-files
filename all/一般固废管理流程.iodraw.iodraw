@@ -220,16 +220,16 @@
         <mxCell id="OLmslDtg9YMi5v1_NCpc-1" value="汇总产生、拉运、处置数据" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="611" y="912" width="90" height="37" as="geometry" />
         </mxCell>
-        <mxCell id="OLmslDtg9YMi5v1_NCpc-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="OLmslDtg9YMi5v1_NCpc-3" target="OLmslDtg9YMi5v1_NCpc-5" edge="1">
+        <mxCell id="OLmslDtg9YMi5v1_NCpc-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#60a917;strokeColor=#2D7600;" parent="1" source="OLmslDtg9YMi5v1_NCpc-3" target="OLmslDtg9YMi5v1_NCpc-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OLmslDtg9YMi5v1_NCpc-3" value="审核数据" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="736" y="912" width="66" height="37" as="geometry" />
         </mxCell>
-        <mxCell id="OLmslDtg9YMi5v1_NCpc-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="OLmslDtg9YMi5v1_NCpc-5" target="OLmslDtg9YMi5v1_NCpc-7" edge="1">
+        <mxCell id="OLmslDtg9YMi5v1_NCpc-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#60a917;strokeColor=#2D7600;" parent="1" source="OLmslDtg9YMi5v1_NCpc-5" target="OLmslDtg9YMi5v1_NCpc-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="OLmslDtg9YMi5v1_NCpc-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="OLmslDtg9YMi5v1_NCpc-5" target="OLmslDtg9YMi5v1_NCpc-9" edge="1">
+        <mxCell id="OLmslDtg9YMi5v1_NCpc-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#60a917;strokeColor=#2D7600;" parent="1" source="OLmslDtg9YMi5v1_NCpc-5" target="OLmslDtg9YMi5v1_NCpc-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OLmslDtg9YMi5v1_NCpc-5" value="检查数据&lt;div&gt;是否准确&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
