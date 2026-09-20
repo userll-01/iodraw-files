@@ -684,6 +684,11 @@
         <mxCell id="TReKciuowRURjHf18CaE-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#008a00;strokeColor=#005700;" edge="1" parent="1" source="Z943jDBzrdEJ36IgWkzA-187" target="Z943jDBzrdEJ36IgWkzA-189">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="TReKciuowRURjHf18CaE-35" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="TReKciuowRURjHf18CaE-34">
+          <mxGeometry x="-0.0383" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="Z943jDBzrdEJ36IgWkzA-187" value="审查是否通过" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="981" y="2668" width="120" height="40" as="geometry" />
         </mxCell>
@@ -711,7 +716,7 @@
           <mxGeometry x="784" y="2741" width="115" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Z943jDBzrdEJ36IgWkzA-194" value="项目其他验收流程" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
-          <mxGeometry x="609" y="2741" width="115" height="40" as="geometry" />
+          <mxGeometry x="612" y="2741" width="115" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Z943jDBzrdEJ36IgWkzA-196" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" parent="1" source="peaUoX4Pmoz3yc2kiJaC-93" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
