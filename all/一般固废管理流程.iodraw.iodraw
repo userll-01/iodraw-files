@@ -450,6 +450,9 @@
             <mxPoint x="1410" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="QZ95aEZLP8yLufWFxQQv-1" value="总公司" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1320" y="117" width="264" height="61" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
