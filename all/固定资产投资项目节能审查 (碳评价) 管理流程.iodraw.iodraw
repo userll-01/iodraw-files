@@ -295,12 +295,12 @@
         <mxCell id="Z943jDBzrdEJ36IgWkzA-71" value="" style="shape=stencil(pVJRDsIgDD0Nv4ZBPICZeg+cdSNuQApu8/aWMRO3ucXEhBD6Hn0tjzKZ+0o5YIJXTB6ZEBnntFPczWLlHRQhga1CrS41JMYHtHfo9DWMGtpUgDpEVp4YP9CduGReWGNIRFvjJ8wHT2JKG8rlfRIbyz/HaLdPsaMKDQTAsc2EMnH+WTj7R1jmhKw9R+Y3i1CifZjr13Zuuq6Taxs9OxX9XBBvurEtrLm051t2vBUUFnTAfpqDM41+NgczulZYQlT6bMN3AO6njyF85Z00mWsODWkLiwc0TfMAvAA=);whiteSpace=wrap;html=1;rotation=-180;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" parent="1" vertex="1">
           <mxGeometry x="515" y="2235" width="16" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Z943jDBzrdEJ36IgWkzA-76" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Z943jDBzrdEJ36IgWkzA-72" target="Z943jDBzrdEJ36IgWkzA-75" edge="1">
+        <mxCell id="Z943jDBzrdEJ36IgWkzA-76" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#008a00;strokeColor=#005700;" parent="1" source="Z943jDBzrdEJ36IgWkzA-72" target="Z943jDBzrdEJ36IgWkzA-75" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Z943jDBzrdEJ36IgWkzA-77" value="Y" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="Z943jDBzrdEJ36IgWkzA-76" vertex="1" connectable="0">
           <mxGeometry x="-0.0763" y="1" relative="1" as="geometry">
-            <mxPoint x="1" y="-6" as="offset" />
+            <mxPoint x="1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Z943jDBzrdEJ36IgWkzA-72" value="审查是否通过" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
@@ -316,9 +316,6 @@
           <mxGeometry x="-0.0906" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="Z943jDBzrdEJ36IgWkzA-79" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Z943jDBzrdEJ36IgWkzA-75" target="Z943jDBzrdEJ36IgWkzA-78" edge="1">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Z943jDBzrdEJ36IgWkzA-75" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0.95); font-family: ui-sans-serif, system-ui, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; font-size: 13px; text-align: left;&quot;&gt;报川庆安全环保部门进行专项报告审查&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="981" y="1307" width="120" height="40" as="geometry" />
