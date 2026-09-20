@@ -46,8 +46,8 @@
         <mxCell id="UTzVN1ssYW2B11S2N_Se-51" value="产生" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="130" y="260" width="70" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="UTzVN1ssYW2B11S2N_Se-52" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="310" width="120" height="60" as="geometry" />
+        <mxCell id="UTzVN1ssYW2B11S2N_Se-52" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="330" y="290" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
