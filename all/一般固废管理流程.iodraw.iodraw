@@ -438,6 +438,12 @@
         <mxCell id="QZ95aEZLP8yLufWFxQQv-1" value="川庆公司" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1320" y="116" width="109" height="115" as="geometry" />
         </mxCell>
+        <mxCell id="QZ95aEZLP8yLufWFxQQv-3" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="uuLHGR9MCX1gwSNQ39ho-27">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1080" y="470" as="sourcePoint" />
+            <mxPoint x="1130" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
