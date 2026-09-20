@@ -516,7 +516,7 @@
           <mxGeometry x="381" y="1498" width="99" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QKdj4n2gvNyY4pAPHCyX-128" value="按照设计方案及批复组织项目施工" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="616" y="1488" width="81" height="44" as="geometry" />
+          <mxGeometry x="616" y="1491" width="81" height="44" as="geometry" />
         </mxCell>
         <mxCell id="QKdj4n2gvNyY4pAPHCyX-129" value="审查是否通过" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="385" y="1560" width="90" height="50" as="geometry" />
@@ -578,7 +578,7 @@
             <mxPoint x="510" y="1540" as="sourcePoint" />
             <mxPoint x="560" y="1490" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="666" y="1605" />
+              <mxPoint x="654" y="1605" />
             </Array>
           </mxGeometry>
         </mxCell>
