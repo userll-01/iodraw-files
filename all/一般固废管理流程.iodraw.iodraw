@@ -73,7 +73,7 @@
         <mxCell id="KzwcP8r9qCKmiWtFyrjv-116" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" parent="1" edge="1" source="KzwcP8r9qCKmiWtFyrjv-115">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="450" y="1411.65" as="sourcePoint" />
-            <mxPoint x="1500" y="1411.65" as="targetPoint" />
+            <mxPoint x="1440" y="1410" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="uuLHGR9MCX1gwSNQ39ho-1" value="环保岗（专、兼职）" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -314,7 +314,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="OLmslDtg9YMi5v1_NCpc-42" value="检查是否&lt;div&gt;存在问题&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="1215" y="1190" width="93" height="46" as="geometry" />
+          <mxGeometry x="1214" y="1190" width="93" height="46" as="geometry" />
         </mxCell>
         <mxCell id="OLmslDtg9YMi5v1_NCpc-44" value="报川庆公司" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="1338" y="1194.5" width="68" height="37" as="geometry" />
