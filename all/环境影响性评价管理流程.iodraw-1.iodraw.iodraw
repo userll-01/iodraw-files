@@ -357,7 +357,7 @@
         <mxCell id="PPdWcYO4c5VOot3ufRt8-3" value="审查是否通过" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="1386" y="1250" width="129" height="47" as="geometry" />
         </mxCell>
-        <mxCell id="2XMQ8XQJAJfj7A2r2Mes-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="PPdWcYO4c5VOot3ufRt8-5" target="PPdWcYO4c5VOot3ufRt8-7" edge="1">
+        <mxCell id="2XMQ8XQJAJfj7A2r2Mes-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#008a00;strokeColor=#005700;" parent="1" source="PPdWcYO4c5VOot3ufRt8-5" target="PPdWcYO4c5VOot3ufRt8-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PPdWcYO4c5VOot3ufRt8-5" value="报川庆公司安全环保部门进行环境影响评价报告书审查（登记表、报告表跳过此流程" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
@@ -873,7 +873,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="HDeXNtrP3TEQriMvY9fX-14" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="2XMQ8XQJAJfj7A2r2Mes-14">
+        <mxCell id="HDeXNtrP3TEQriMvY9fX-14" value="Y" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="2XMQ8XQJAJfj7A2r2Mes-14">
           <mxGeometry x="-0.1914" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
