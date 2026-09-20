@@ -854,7 +854,7 @@
         <mxCell id="TReKciuowRURjHf18CaE-5" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;川庆公司&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1042" y="185" width="138" height="123" as="geometry" />
         </mxCell>
-        <mxCell id="TReKciuowRURjHf18CaE-6" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=1;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1">
+        <mxCell id="TReKciuowRURjHf18CaE-6" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1180" y="2807" as="sourcePoint" />
             <mxPoint x="1180" y="304" as="targetPoint" />
