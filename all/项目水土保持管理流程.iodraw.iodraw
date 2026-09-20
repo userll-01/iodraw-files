@@ -593,7 +593,7 @@
         <mxCell id="QKdj4n2gvNyY4pAPHCyX-145" value="项目完工组织预审" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="618" y="1726" width="84" height="31" as="geometry" />
         </mxCell>
-        <mxCell id="QKdj4n2gvNyY4pAPHCyX-148" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fillColor=#008a00;strokeColor=#005700;" parent="1" source="QKdj4n2gvNyY4pAPHCyX-135" edge="1">
+        <mxCell id="QKdj4n2gvNyY4pAPHCyX-148" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fillColor=#d80073;strokeColor=#A50040;" parent="1" source="QKdj4n2gvNyY4pAPHCyX-135" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="510" y="1740" as="sourcePoint" />
             <mxPoint x="701" y="1679" as="targetPoint" />
@@ -627,10 +627,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="QKdj4n2gvNyY4pAPHCyX-156" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fillColor=#008a00;strokeColor=#005700;" parent="1" source="QKdj4n2gvNyY4pAPHCyX-158" target="QKdj4n2gvNyY4pAPHCyX-137" edge="1">
+        <mxCell id="QKdj4n2gvNyY4pAPHCyX-156" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fillColor=#d80073;strokeColor=#A50040;" parent="1" source="QKdj4n2gvNyY4pAPHCyX-158" target="QKdj4n2gvNyY4pAPHCyX-137" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="885" y="1680" as="sourcePoint" />
             <mxPoint x="560" y="1690" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="884" y="1639" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="QKdj4n2gvNyY4pAPHCyX-157" value="" style="endArrow=none;html=1;rounded=0;fillColor=#d80073;strokeColor=#A50040;" parent="1" edge="1">
