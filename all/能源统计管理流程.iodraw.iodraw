@@ -288,7 +288,7 @@
             <mxPoint x="1439.5" y="787" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HKMaap-l94tU0r6R_Ycc-56" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" target="HKMaap-l94tU0r6R_Ycc-51" edge="1">
+        <mxCell id="HKMaap-l94tU0r6R_Ycc-56" value="" style="endArrow=classic;html=1;rounded=0;fillColor=#008a00;strokeColor=#005700;" parent="1" target="HKMaap-l94tU0r6R_Ycc-51" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1989.5" y="753" as="sourcePoint" />
             <mxPoint x="1989.5" y="786" as="targetPoint" />
