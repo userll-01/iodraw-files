@@ -47,7 +47,10 @@
           <mxGeometry x="130" y="260" width="70" height="160" as="geometry" />
         </mxCell>
         <mxCell id="UTzVN1ssYW2B11S2N_Se-52" value="利用工艺、设备&lt;div&gt;岩屑减量化&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="330" y="290" width="80" height="60" as="geometry" />
+          <mxGeometry x="340" y="290" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UTzVN1ssYW2B11S2N_Se-53" value="利用工艺、设备&lt;div&gt;岩屑减量化&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="215" y="290" width="90" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
