@@ -706,7 +706,7 @@
             <mxPoint x="1458.38" y="2407" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2XMQ8XQJAJfj7A2r2Mes-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="zIRN0Xyj8EtUOTZ_-rDE-92" target="zIRN0Xyj8EtUOTZ_-rDE-95" edge="1">
+        <mxCell id="2XMQ8XQJAJfj7A2r2Mes-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#008a00;strokeColor=#005700;" parent="1" source="zIRN0Xyj8EtUOTZ_-rDE-92" target="zIRN0Xyj8EtUOTZ_-rDE-95" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zIRN0Xyj8EtUOTZ_-rDE-92" value="组织专项验收&lt;div&gt;报告书、报告表&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
