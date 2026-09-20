@@ -502,7 +502,7 @@
         <mxCell id="klXIrQ5wFRsCaPP-dyNZ-31" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;数据校准&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="1951" y="1303" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="klXIrQ5wFRsCaPP-dyNZ-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="klXIrQ5wFRsCaPP-dyNZ-34" target="klXIrQ5wFRsCaPP-dyNZ-36" edge="1">
+        <mxCell id="klXIrQ5wFRsCaPP-dyNZ-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#008a00;strokeColor=#005700;" parent="1" source="klXIrQ5wFRsCaPP-dyNZ-34" target="klXIrQ5wFRsCaPP-dyNZ-36" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="klXIrQ5wFRsCaPP-dyNZ-40" value="Y" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="klXIrQ5wFRsCaPP-dyNZ-37" vertex="1" connectable="0">
@@ -553,7 +553,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="klXIrQ5wFRsCaPP-dyNZ-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="klXIrQ5wFRsCaPP-dyNZ-50" target="klXIrQ5wFRsCaPP-dyNZ-29" edge="1">
+        <mxCell id="klXIrQ5wFRsCaPP-dyNZ-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#008a00;strokeColor=#005700;" parent="1" source="klXIrQ5wFRsCaPP-dyNZ-50" target="klXIrQ5wFRsCaPP-dyNZ-29" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="klXIrQ5wFRsCaPP-dyNZ-58" value="Y" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="klXIrQ5wFRsCaPP-dyNZ-54" vertex="1" connectable="0">
