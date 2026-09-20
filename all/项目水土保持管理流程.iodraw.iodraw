@@ -756,7 +756,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QKdj4n2gvNyY4pAPHCyX-191" value="专项验收通过，报地方管理部门审批、备案" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="723" y="2129" width="81" height="61" as="geometry" />
+          <mxGeometry x="723" y="2132" width="81" height="61" as="geometry" />
         </mxCell>
         <mxCell id="QKdj4n2gvNyY4pAPHCyX-226" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#008a00;strokeColor=#005700;" parent="1" source="QKdj4n2gvNyY4pAPHCyX-192" target="QKdj4n2gvNyY4pAPHCyX-197" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -865,7 +865,7 @@
             <mxPoint x="680" y="2050" as="sourcePoint" />
             <mxPoint x="730" y="2000" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1052" y="2161" />
+              <mxPoint x="1048" y="2162" />
             </Array>
           </mxGeometry>
         </mxCell>
