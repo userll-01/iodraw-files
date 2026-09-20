@@ -706,7 +706,7 @@
             <mxPoint x="1458.38" y="2407" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2XMQ8XQJAJfj7A2r2Mes-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#008a00;strokeColor=#005700;" parent="1" source="zIRN0Xyj8EtUOTZ_-rDE-92" target="zIRN0Xyj8EtUOTZ_-rDE-95" edge="1">
+        <mxCell id="2XMQ8XQJAJfj7A2r2Mes-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="zIRN0Xyj8EtUOTZ_-rDE-92" target="zIRN0Xyj8EtUOTZ_-rDE-95" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zIRN0Xyj8EtUOTZ_-rDE-92" value="组织专项验收&lt;div&gt;报告书、报告表&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
@@ -715,8 +715,13 @@
         <mxCell id="2XMQ8XQJAJfj7A2r2Mes-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="zIRN0Xyj8EtUOTZ_-rDE-93" target="zIRN0Xyj8EtUOTZ_-rDE-96" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HDeXNtrP3TEQriMvY9fX-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zIRN0Xyj8EtUOTZ_-rDE-93" target="zIRN0Xyj8EtUOTZ_-rDE-96">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="HDeXNtrP3TEQriMvY9fX-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#008a00;strokeColor=#005700;" edge="1" parent="1" source="zIRN0Xyj8EtUOTZ_-rDE-93" target="zIRN0Xyj8EtUOTZ_-rDE-96">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1586" y="2475" />
+              <mxPoint x="1587" y="2475" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="zIRN0Xyj8EtUOTZ_-rDE-93" value="报川庆安全环保部门报告书审批&lt;span style=&quot;background-color: initial;&quot;&gt;报告表跳过此阶段&amp;nbsp;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="1526" y="2406" width="120" height="50" as="geometry" />
