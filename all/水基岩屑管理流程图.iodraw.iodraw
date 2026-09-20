@@ -49,8 +49,8 @@
         <mxCell id="UTzVN1ssYW2B11S2N_Se-52" value="利用工艺、设备&lt;div&gt;岩屑减量化&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="340" y="290" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UTzVN1ssYW2B11S2N_Se-53" value="收集固控设备&lt;div style=&quot;color: rgb(31, 35, 41); font-size: 16px; line-height: 24px; text-align: left; flex: 0 1 auto; flex-direction: row; justify-content: normal; align-items: normal; padding: 0px; margin: 0px; background: none 0% 0% / auto repeat scroll padding-box border-box rgba(0, 0, 0, 0);&quot;&gt;&lt;/div&gt;&lt;br/&gt;分离钻井岩屑" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="215" y="290" width="90" height="60" as="geometry" />
+        <mxCell id="UTzVN1ssYW2B11S2N_Se-53" value="收集固控设备&lt;br&gt;分离钻井岩屑" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="215" y="290" width="90" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
