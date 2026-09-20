@@ -101,13 +101,16 @@
           <mxGeometry x="560" y="120" width="280" height="70" as="geometry" />
         </mxCell>
         <mxCell id="UTzVN1ssYW2B11S2N_Se-69" value="&lt;div&gt;&lt;span style=&quot;font-size: 8.24288pt; font-family: 微软雅黑;&quot;&gt;生产部门&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="190" width="130" height="70" as="geometry" />
+          <mxGeometry x="560" y="190" width="150" height="70" as="geometry" />
         </mxCell>
         <mxCell id="UTzVN1ssYW2B11S2N_Se-70" value="&lt;div&gt;&lt;span style=&quot;font-size: 8.24288pt; font-family: 微软雅黑;&quot;&gt;安全环保部门&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="710" y="190" width="130" height="70" as="geometry" />
         </mxCell>
         <mxCell id="UTzVN1ssYW2B11S2N_Se-71" value="建设单位" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="840" y="120" width="120" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="UTzVN1ssYW2B11S2N_Se-72" value="&lt;div&gt;&lt;span style=&quot;font-size: 8.24288pt; font-family: 微软雅黑;&quot;&gt;意通公司清洁生产服务分公司&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="130" width="280" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
