@@ -100,7 +100,7 @@
         <mxCell id="uuLHGR9MCX1gwSNQ39ho-8" value="环保办公室&lt;div&gt;正、副负责人&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1193" y="181" width="233" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="uuLHGR9MCX1gwSNQ39ho-12" value="随产生放入收集设施" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#a0522d;strokeColor=#6D1F00;fontColor=#ffffff;" parent="1" vertex="1">
+        <mxCell id="uuLHGR9MCX1gwSNQ39ho-12" value="随产生放入收集设施" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="391" y="241.5" width="85" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uuLHGR9MCX1gwSNQ39ho-13" value="交班前分类&lt;span style=&quot;background-color: initial;&quot;&gt;统一收集、移交&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -205,7 +205,7 @@
         <mxCell id="uuLHGR9MCX1gwSNQ39ho-32" value="处置台账登记、回执" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="611" y="832" width="90" height="37" as="geometry" />
         </mxCell>
-        <mxCell id="uuLHGR9MCX1gwSNQ39ho-34" value="收集回执" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e6d0de;gradientColor=#d5739d;strokeColor=#996185;" parent="1" vertex="1">
+        <mxCell id="uuLHGR9MCX1gwSNQ39ho-34" value="收集回执" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="840" y="832" width="90" height="37" as="geometry" />
         </mxCell>
         <mxCell id="uuLHGR9MCX1gwSNQ39ho-35" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#60a917;strokeColor=#2D7600;" parent="1" source="uuLHGR9MCX1gwSNQ39ho-32" target="uuLHGR9MCX1gwSNQ39ho-34" edge="1">
