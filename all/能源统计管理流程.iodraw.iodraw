@@ -672,9 +672,12 @@
         </mxCell>
         <mxCell id="xMPoYbxsjI2fO1JB-Via-13" value="" style="endArrow=none;html=1;rounded=0;dashed=1;fontStyle=1" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1916.82" y="1620" as="sourcePoint" />
-            <mxPoint x="1916.82" y="284" as="targetPoint" />
+            <mxPoint x="2050.8199999999997" y="1612" as="sourcePoint" />
+            <mxPoint x="2050.8199999999997" y="276" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="xMPoYbxsjI2fO1JB-Via-14" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;质量健康安全环保部&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1978.5" y="351" width="265" height="32" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
