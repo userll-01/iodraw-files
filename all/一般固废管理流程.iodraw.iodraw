@@ -260,7 +260,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OLmslDtg9YMi5v1_NCpc-11" value="检查数据&lt;div&gt;是否准确&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="OLmslDtg9YMi5v1_NCpc-11" value="检查数据&lt;div&gt;是否准确&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="845" y="1057" width="93" height="46" as="geometry" />
         </mxCell>
         <mxCell id="OLmslDtg9YMi5v1_NCpc-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="OLmslDtg9YMi5v1_NCpc-14" target="OLmslDtg9YMi5v1_NCpc-18" edge="1">
@@ -285,7 +285,7 @@
             <mxPoint y="-4" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OLmslDtg9YMi5v1_NCpc-18" value="检查数据&lt;div&gt;是否准确&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="OLmslDtg9YMi5v1_NCpc-18" value="检查数据&lt;div&gt;是否准确&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="964" y="980.5" width="93" height="46" as="geometry" />
         </mxCell>
         <mxCell id="OLmslDtg9YMi5v1_NCpc-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="OLmslDtg9YMi5v1_NCpc-22" target="OLmslDtg9YMi5v1_NCpc-25" edge="1">
@@ -305,7 +305,7 @@
         <mxCell id="OLmslDtg9YMi5v1_NCpc-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="OLmslDtg9YMi5v1_NCpc-25" target="OLmslDtg9YMi5v1_NCpc-38" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="OLmslDtg9YMi5v1_NCpc-25" value="检查数据&lt;div&gt;是否准确&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="OLmslDtg9YMi5v1_NCpc-25" value="检查数据&lt;div&gt;是否准确&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="1088" y="1057" width="93" height="46" as="geometry" />
         </mxCell>
         <mxCell id="OLmslDtg9YMi5v1_NCpc-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="OLmslDtg9YMi5v1_NCpc-38" target="OLmslDtg9YMi5v1_NCpc-40" edge="1">
