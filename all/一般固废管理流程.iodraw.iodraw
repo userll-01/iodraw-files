@@ -166,13 +166,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="uuLHGR9MCX1gwSNQ39ho-27" value="组织车辆" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="760" y="692" width="60" height="37" as="geometry" />
+          <mxGeometry x="760" y="688" width="60" height="37" as="geometry" />
         </mxCell>
         <mxCell id="uuLHGR9MCX1gwSNQ39ho-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#60a917;strokeColor=#2D7600;" parent="1" source="uuLHGR9MCX1gwSNQ39ho-30" target="uuLHGR9MCX1gwSNQ39ho-32" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="uuLHGR9MCX1gwSNQ39ho-30" value="出库计量、装车和记录台账" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="611" y="772" width="90" height="37" as="geometry" />
+          <mxGeometry x="611" y="764" width="90" height="37" as="geometry" />
         </mxCell>
         <mxCell id="uuLHGR9MCX1gwSNQ39ho-31" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#60a917;strokeColor=#2D7600;" parent="1" source="uuLHGR9MCX1gwSNQ39ho-27" target="uuLHGR9MCX1gwSNQ39ho-30" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -527,8 +527,8 @@
         </mxCell>
         <mxCell id="QZ95aEZLP8yLufWFxQQv-19" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;dashed=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="377" y="719.4999999999998" as="sourcePoint" />
-            <mxPoint x="1440" y="711.5" as="targetPoint" />
+            <mxPoint x="376.5" y="811.9999999999998" as="sourcePoint" />
+            <mxPoint x="1439.5" y="804" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
