@@ -919,6 +919,12 @@
         <mxCell id="E6DqUBsRb7H6SNN8YMli-25" value="抽查" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="1156.5" y="750" width="80" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="E6DqUBsRb7H6SNN8YMli-26" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="910" y="560" as="sourcePoint" />
+            <mxPoint x="960" y="510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
