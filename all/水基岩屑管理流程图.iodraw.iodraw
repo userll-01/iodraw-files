@@ -555,8 +555,11 @@
         <mxCell id="UTzVN1ssYW2B11S2N_Se-170" value="&lt;div&gt;&lt;span style=&quot;font-size: 8.24288pt; font-family: 微软雅黑;&quot;&gt;审阅报告&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="1140" y="1474" width="90" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="UTzVN1ssYW2B11S2N_Se-172" value="&lt;div&gt;&lt;span style=&quot;font-size: 8.24288pt; font-family: 微软雅黑;&quot;&gt;审核是否通过&lt;/span&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="UTzVN1ssYW2B11S2N_Se-172" value="&lt;div&gt;&lt;span style=&quot;font-size: 8.24288pt; font-family: 微软雅黑;&quot;&gt;检查报告&lt;/span&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="1145" y="1550" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="UTzVN1ssYW2B11S2N_Se-174" value="&lt;div&gt;&lt;span style=&quot;font-size: 8.24288pt; font-family: 微软雅黑;&quot;&gt;审阅系统数据&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1005" y="1330" width="80" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
