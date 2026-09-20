@@ -324,9 +324,9 @@
           <mxGeometry x="981" y="1307" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Z943jDBzrdEJ36IgWkzA-78" value="审查是否通过" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="981" y="1418" width="120" height="40" as="geometry" />
+          <mxGeometry x="981" y="1433" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Z943jDBzrdEJ36IgWkzA-80" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#d80073;strokeColor=#A50040;" parent="1" edge="1">
+        <mxCell id="Z943jDBzrdEJ36IgWkzA-80" value="" style="endArrow=none;html=1;rounded=0;fillColor=#d80073;strokeColor=#A50040;" parent="1" edge="1" target="Z943jDBzrdEJ36IgWkzA-78">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="408" y="1454" as="sourcePoint" />
             <mxPoint x="796" y="1454" as="targetPoint" />
