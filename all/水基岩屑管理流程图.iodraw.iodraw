@@ -254,7 +254,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="UTzVN1ssYW2B11S2N_Se-103" value="&lt;div&gt;&lt;span style=&quot;font-size: 8.24288pt; font-family: 微软雅黑;&quot;&gt;审核是否通过&lt;/span&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="590" y="680" width="80" height="50" as="geometry" />
+          <mxGeometry x="590" y="675" width="80" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
