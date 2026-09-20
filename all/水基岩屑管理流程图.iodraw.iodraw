@@ -34,6 +34,9 @@
         <mxCell id="UTzVN1ssYW2B11S2N_Se-47" value="基层队站" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="120" width="200" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="UTzVN1ssYW2B11S2N_Se-48" value="清洁生产服务队" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="190" width="200" height="70" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
