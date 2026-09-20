@@ -352,10 +352,10 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QKdj4n2gvNyY4pAPHCyX-86" value="" style="shape=stencil(pVJRDsIgDD0Nv4ZBPICZeg+cdSNuQApu8/aWMRO3ucXEhBD6Hn0tjzKZ+0o5YIJXTB6ZEBnntFPczWLlHRQhga1CrS41JMYHtHfo9DWMGtpUgDpEVp4YP9CduGReWGNIRFvjJ8wHT2JKG8rlfRIbyz/HaLdPsaMKDQTAsc2EMnH+WTj7R1jmhKw9R+Y3i1CifZjr13Zuuq6Taxs9OxX9XBBvurEtrLm051t2vBUUFnTAfpqDM41+NgczulZYQlT6bMN3AO6njyF85Z00mWsODWkLiwc0TfMAvAA=);whiteSpace=wrap;html=1;rotation=-180;" parent="1" vertex="1">
+        <mxCell id="QKdj4n2gvNyY4pAPHCyX-86" value="" style="shape=stencil(pVJRDsIgDD0Nv4ZBPICZeg+cdSNuQApu8/aWMRO3ucXEhBD6Hn0tjzKZ+0o5YIJXTB6ZEBnntFPczWLlHRQhga1CrS41JMYHtHfo9DWMGtpUgDpEVp4YP9CduGReWGNIRFvjJ8wHT2JKG8rlfRIbyz/HaLdPsaMKDQTAsc2EMnH+WTj7R1jmhKw9R+Y3i1CifZjr13Zuuq6Taxs9OxX9XBBvurEtrLm051t2vBUUFnTAfpqDM41+NgczulZYQlT6bMN3AO6njyF85Z00mWsODWkLiwc0TfMAvAA=);whiteSpace=wrap;html=1;rotation=-180;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" parent="1" vertex="1">
           <mxGeometry x="311" y="982" width="10" height="18" as="geometry" />
         </mxCell>
-        <mxCell id="QKdj4n2gvNyY4pAPHCyX-88" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
+        <mxCell id="QKdj4n2gvNyY4pAPHCyX-88" value="" style="endArrow=none;html=1;rounded=0;fillColor=#d80073;strokeColor=#A50040;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="213" y="990" as="sourcePoint" />
             <mxPoint x="310" y="990" as="targetPoint" />
@@ -379,7 +379,7 @@
         <mxCell id="QKdj4n2gvNyY4pAPHCyX-93" value="审查是否通过" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="833" y="1023" width="90" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="QKdj4n2gvNyY4pAPHCyX-95" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" edge="1">
+        <mxCell id="QKdj4n2gvNyY4pAPHCyX-95" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#d80073;strokeColor=#A50040;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="213" y="1049" as="sourcePoint" />
             <mxPoint x="837" y="1048" as="targetPoint" />
