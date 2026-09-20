@@ -294,7 +294,7 @@
         <mxCell id="OLmslDtg9YMi5v1_NCpc-22" value="审阅系统&lt;div&gt;推送数据&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1090" y="985" width="90" height="37" as="geometry" />
         </mxCell>
-        <mxCell id="OLmslDtg9YMi5v1_NCpc-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="OLmslDtg9YMi5v1_NCpc-25" target="OLmslDtg9YMi5v1_NCpc-14" edge="1">
+        <mxCell id="OLmslDtg9YMi5v1_NCpc-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#d80073;strokeColor=#A50040;" parent="1" source="OLmslDtg9YMi5v1_NCpc-25" target="OLmslDtg9YMi5v1_NCpc-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OLmslDtg9YMi5v1_NCpc-28" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="OLmslDtg9YMi5v1_NCpc-27" vertex="1" connectable="0">
