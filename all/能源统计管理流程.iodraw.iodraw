@@ -688,7 +688,7 @@
         <mxCell id="xMPoYbxsjI2fO1JB-Via-16" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="HKMaap-l94tU0r6R_Ycc-46">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="408" y="969" as="sourcePoint" />
-            <mxPoint x="458" y="919" as="targetPoint" />
+            <mxPoint x="1247" y="805" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
