@@ -252,7 +252,7 @@
             <mxPoint x="550" y="820" as="sourcePoint" />
             <mxPoint x="600" y="770" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="290" y="780" />
+              <mxPoint x="300" y="780" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -446,7 +446,7 @@
           <mxGeometry x="164" y="1408" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fV8UQ92mgfStvrnF8Kc9-98" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;color: rgba(0, 0, 0, 0.95); font-family: ui-sans-serif, system-ui, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; font-size: 13px; background-color: initial;&quot;&gt;组织制定&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;color: rgba(0, 0, 0, 0.95); font-family: ui-sans-serif, system-ui, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; font-size: 13px; background-color: initial;&quot;&gt;管控措施&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="280.25" y="1408" width="80" height="40" as="geometry" />
+          <mxGeometry x="273.25" y="1408" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fV8UQ92mgfStvrnF8Kc9-99" value="检查落实情况" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="373.5" y="1461" width="85.5" height="60" as="geometry" />
