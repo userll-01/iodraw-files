@@ -181,12 +181,12 @@
         <mxCell id="Z943jDBzrdEJ36IgWkzA-31" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;color: rgba(0, 0, 0, 0.95); font-family: ui-sans-serif, system-ui, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; font-size: 13px;&quot;&gt;判定节能审查类型&lt;/span&gt;&lt;div style=&quot;box-sizing: border-box; border: 0px solid; margin: 0px; padding: 0px; -webkit-font-smoothing: antialiased; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); outline: none; font-size: 13px; color: rgba(0, 0, 0, 0.95); font-family: ui-sans-serif, system-ui, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; line-height: 1.6 !important;&quot; class=&quot;container-Uxvbjy md-box-line-break wrapper-GYqxgQ undefined&quot;&gt;&lt;/div&gt;&lt;span style=&quot;color: rgba(0, 0, 0, 0.95); font-family: ui-sans-serif, system-ui, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; font-size: 13px;&quot;&gt;(专篇 / 专项审查)&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="774" y="792" width="128" height="39.5" as="geometry" />
         </mxCell>
-        <mxCell id="Z943jDBzrdEJ36IgWkzA-33" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fillColor=#d80073;strokeColor=#A50040;" parent="1" source="Z943jDBzrdEJ36IgWkzA-28" target="Z943jDBzrdEJ36IgWkzA-1" edge="1">
+        <mxCell id="Z943jDBzrdEJ36IgWkzA-33" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fillColor=#d80073;strokeColor=#A50040;" parent="1" source="Z943jDBzrdEJ36IgWkzA-28" target="Z943jDBzrdEJ36IgWkzA-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="592" y="650" as="sourcePoint" />
             <mxPoint x="642" y="600" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="922" y="736" />
+              <mxPoint x="922" y="658" />
               <mxPoint x="922" y="350" />
             </Array>
           </mxGeometry>
