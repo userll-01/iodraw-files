@@ -649,7 +649,7 @@
           <mxGeometry x="802.5" y="1770" width="75.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fV8UQ92mgfStvrnF8Kc9-144" value="&lt;div style=&quot;text-align: left;&quot;&gt;参加检查&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="921.5" y="1770" width="75.5" height="40" as="geometry" />
+          <mxGeometry x="913.5" y="1770" width="75.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fV8UQ92mgfStvrnF8Kc9-145" value="&lt;div style=&quot;text-align: left;&quot;&gt;组织检查&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1031.5" y="1769" width="75.5" height="40" as="geometry" />
@@ -838,6 +838,9 @@
             <mxPoint x="997" y="2069.5" as="sourcePoint" />
             <mxPoint x="997" y="213.5" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="E6DqUBsRb7H6SNN8YMli-9" value="总公司" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="783" y="114" width="367" height="65" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
