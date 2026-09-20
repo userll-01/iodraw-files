@@ -556,7 +556,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="fV8UQ92mgfStvrnF8Kc9-121" value="&lt;div style=&quot;text-align: left;&quot;&gt;参加检查&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="592" y="1620" width="75.5" height="40" as="geometry" />
+          <mxGeometry x="591" y="1620" width="75.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fV8UQ92mgfStvrnF8Kc9-122" value="&lt;div style=&quot;text-align: left;&quot;&gt;组织检查&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="695.5" y="1620" width="75.5" height="40" as="geometry" />
@@ -697,7 +697,7 @@
           <mxGeometry x="466" y="1910" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fV8UQ92mgfStvrnF8Kc9-152" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;color: rgba(0, 0, 0, 0.95); font-family: ui-sans-serif, system-ui, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; font-size: 13px; background-color: initial;&quot;&gt;落实&lt;/span&gt;&lt;span style=&quot;background-color: initial; color: rgba(0, 0, 0, 0.95); font-family: ui-sans-serif, system-ui, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; font-size: 13px;&quot;&gt;管控措施&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="572" y="1960" width="80" height="40" as="geometry" />
+          <mxGeometry x="550" y="1960" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fV8UQ92mgfStvrnF8Kc9-163" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="fV8UQ92mgfStvrnF8Kc9-153" target="fV8UQ92mgfStvrnF8Kc9-152" edge="1">
           <mxGeometry relative="1" as="geometry" />
