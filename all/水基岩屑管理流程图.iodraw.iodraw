@@ -343,7 +343,7 @@
           <mxGeometry x="1145" y="732" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="UTzVN1ssYW2B11S2N_Se-121" value="&lt;div&gt;&lt;span style=&quot;font-size: 8.24288pt; font-family: 微软雅黑;&quot;&gt;按规定路线行&lt;br/&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 8.24288pt; font-family: 微软雅黑;&quot;&gt;驶，拉运岩屑至&lt;br/&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 8.24288pt; font-family: 微软雅黑;&quot;&gt;指定处置地点&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="455" y="830" width="90" height="50" as="geometry" />
+          <mxGeometry x="455" y="835" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="UTzVN1ssYW2B11S2N_Se-122" value="&lt;div&gt;&lt;span style=&quot;font-size: 8.24288pt; font-family: 微软雅黑;&quot;&gt;开展过程监管&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="590" y="830" width="90" height="50" as="geometry" />
@@ -352,6 +352,9 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="320" y="880" as="sourcePoint" />
             <mxPoint x="370" y="830" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="248" y="860" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
