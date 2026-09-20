@@ -646,7 +646,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="fV8UQ92mgfStvrnF8Kc9-143" value="&lt;div style=&quot;text-align: left;&quot;&gt;参加检查&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="807.5" y="1770" width="75.5" height="40" as="geometry" />
+          <mxGeometry x="802.5" y="1770" width="75.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fV8UQ92mgfStvrnF8Kc9-144" value="&lt;div style=&quot;text-align: left;&quot;&gt;参加检查&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="921.5" y="1770" width="75.5" height="40" as="geometry" />
@@ -829,8 +829,8 @@
         </mxCell>
         <mxCell id="E6DqUBsRb7H6SNN8YMli-7" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="883.5" y="2072" as="sourcePoint" />
-            <mxPoint x="883.5" y="216" as="targetPoint" />
+            <mxPoint x="883.5" y="2070" as="sourcePoint" />
+            <mxPoint x="883.5" y="214" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
