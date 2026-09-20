@@ -716,7 +716,7 @@
           <mxGeometry x="784" y="2747" width="115" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Z943jDBzrdEJ36IgWkzA-194" value="项目其他验收流程" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
-          <mxGeometry x="612" y="2741" width="115" height="40" as="geometry" />
+          <mxGeometry x="612" y="2746" width="115" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Z943jDBzrdEJ36IgWkzA-196" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" parent="1" source="peaUoX4Pmoz3yc2kiJaC-93" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
