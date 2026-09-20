@@ -71,7 +71,7 @@
           <mxGeometry x="130" y="460" width="70" height="100" as="geometry" />
         </mxCell>
         <mxCell id="UTzVN1ssYW2B11S2N_Se-59" value="&lt;div&gt;&lt;span style=&quot;font-size: 8.24288pt; font-family: 微软雅黑;&quot;&gt;出库&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="130" y="560" width="70" height="280" as="geometry" />
+          <mxGeometry x="130" y="560" width="70" height="260" as="geometry" />
         </mxCell>
         <mxCell id="UTzVN1ssYW2B11S2N_Se-63" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#008a00;strokeColor=#005700;" edge="1" parent="1" source="UTzVN1ssYW2B11S2N_Se-60" target="UTzVN1ssYW2B11S2N_Se-62">
           <mxGeometry relative="1" as="geometry" />
@@ -204,8 +204,8 @@
         </mxCell>
         <mxCell id="UTzVN1ssYW2B11S2N_Se-91" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;dashed=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="202" y="819" as="sourcePoint" />
-            <mxPoint x="1242" y="819" as="targetPoint" />
+            <mxPoint x="202" y="820" as="sourcePoint" />
+            <mxPoint x="1242" y="820" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="UTzVN1ssYW2B11S2N_Se-92" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;dashed=1;" edge="1" parent="1">
@@ -341,6 +341,9 @@
         </mxCell>
         <mxCell id="UTzVN1ssYW2B11S2N_Se-119" value="&lt;div&gt;&lt;span style=&quot;font-size: 8.24288pt; font-family: 微软雅黑;&quot;&gt;审阅监管结果&lt;br/&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 8.24288pt; font-family: 微软雅黑;&quot;&gt;提出工作要求&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="1145" y="732" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="UTzVN1ssYW2B11S2N_Se-121" value="&lt;div&gt;&lt;span style=&quot;font-size: 8.24288pt; font-family: 微软雅黑;&quot;&gt;通知承包商&lt;br/&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 8.24288pt; font-family: 微软雅黑;&quot;&gt;组织车辆&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="600" y="744" width="90" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
