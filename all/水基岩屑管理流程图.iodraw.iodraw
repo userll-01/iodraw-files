@@ -481,7 +481,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="UTzVN1ssYW2B11S2N_Se-153" value="&lt;div&gt;&lt;span style=&quot;font-size: 8.24288pt; font-family: 微软雅黑;&quot;&gt;收集现场台账数据&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="875" y="1150" width="70" height="50" as="geometry" />
+          <mxGeometry x="875" y="1149" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="UTzVN1ssYW2B11S2N_Se-154" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="UTzVN1ssYW2B11S2N_Se-149" target="UTzVN1ssYW2B11S2N_Se-153">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="570" y="1020" as="sourcePoint" />
+            <mxPoint x="620" y="970" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
