@@ -297,13 +297,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OLmslDtg9YMi5v1_NCpc-38" value="分析系统数据&lt;div&gt;编订季度报告&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1090" y="1132" width="90" height="37" as="geometry" />
+          <mxGeometry x="1090" y="1125" width="90" height="37" as="geometry" />
         </mxCell>
-        <mxCell id="QZ95aEZLP8yLufWFxQQv-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="OLmslDtg9YMi5v1_NCpc-40" target="OLmslDtg9YMi5v1_NCpc-42">
+        <mxCell id="QZ95aEZLP8yLufWFxQQv-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#60a917;strokeColor=#2D7600;" edge="1" parent="1" source="OLmslDtg9YMi5v1_NCpc-40" target="OLmslDtg9YMi5v1_NCpc-42">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OLmslDtg9YMi5v1_NCpc-40" value="审阅报告数据" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1215" y="1132" width="90" height="37" as="geometry" />
+          <mxGeometry x="1215" y="1125" width="90" height="37" as="geometry" />
         </mxCell>
         <mxCell id="OLmslDtg9YMi5v1_NCpc-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#60a917;strokeColor=#2D7600;" parent="1" source="OLmslDtg9YMi5v1_NCpc-42" target="OLmslDtg9YMi5v1_NCpc-44" edge="1">
           <mxGeometry relative="1" as="geometry" />
