@@ -291,7 +291,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="UTzVN1ssYW2B11S2N_Se-110" value="&lt;div&gt;&lt;span style=&quot;font-size: 8.24288pt; font-family: 微软雅黑;&quot;&gt;通知承包商&lt;br/&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 8.24288pt; font-family: 微软雅黑;&quot;&gt;组织车辆&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="590" y="810" width="90" height="50" as="geometry" />
+          <mxGeometry x="590" y="750" width="90" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
