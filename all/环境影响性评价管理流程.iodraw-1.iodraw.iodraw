@@ -452,7 +452,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zIRN0Xyj8EtUOTZ_-rDE-14" value="审查" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="1265" y="1590" width="90" height="38" as="geometry" />
+          <mxGeometry x="1260" y="1590" width="90" height="38" as="geometry" />
         </mxCell>
         <mxCell id="zIRN0Xyj8EtUOTZ_-rDE-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.806;exitY=0.489;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="zIRN0Xyj8EtUOTZ_-rDE-15" target="zIRN0Xyj8EtUOTZ_-rDE-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
