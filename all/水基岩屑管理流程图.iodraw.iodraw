@@ -97,6 +97,12 @@
         <mxCell id="UTzVN1ssYW2B11S2N_Se-67" value="承包商服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="120" width="120" height="140" as="geometry" />
         </mxCell>
+        <mxCell id="UTzVN1ssYW2B11S2N_Se-68" value="基层队站" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="120" width="240" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="UTzVN1ssYW2B11S2N_Se-69" value="清洁生产服务队" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="200" width="120" height="70" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
