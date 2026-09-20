@@ -936,7 +936,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="E6DqUBsRb7H6SNN8YMli-32" value="&lt;div style=&quot;text-align: left;&quot;&gt;组织检查&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="E6DqUBsRb7H6SNN8YMli-32" value="&lt;div style=&quot;text-align: left;&quot;&gt;参加、&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;组织检查&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="1158.75" y="1945" width="75.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="E6DqUBsRb7H6SNN8YMli-33" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fillColor=#008a00;strokeColor=#005700;" edge="1" parent="1">
