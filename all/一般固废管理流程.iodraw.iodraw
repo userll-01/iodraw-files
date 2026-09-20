@@ -451,7 +451,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="QZ95aEZLP8yLufWFxQQv-1" value="总公司" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1320" y="116" width="90" height="61" as="geometry" />
+          <mxGeometry x="1320" y="116" width="90" height="117" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
