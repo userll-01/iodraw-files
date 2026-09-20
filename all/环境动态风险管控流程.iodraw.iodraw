@@ -340,14 +340,6 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fV8UQ92mgfStvrnF8Kc9-85" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="fV8UQ92mgfStvrnF8Kc9-71" target="fV8UQ92mgfStvrnF8Kc9-74" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="fV8UQ92mgfStvrnF8Kc9-88" value="Y" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="fV8UQ92mgfStvrnF8Kc9-85" vertex="1" connectable="0">
-          <mxGeometry x="0.1209" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="fV8UQ92mgfStvrnF8Kc9-71" value="组织审核" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="364.5" y="1180" width="80" height="60" as="geometry" />
         </mxCell>
