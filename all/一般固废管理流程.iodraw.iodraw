@@ -410,7 +410,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OLmslDtg9YMi5v1_NCpc-69" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="OLmslDtg9YMi5v1_NCpc-64" target="OLmslDtg9YMi5v1_NCpc-68" edge="1">
+        <mxCell id="OLmslDtg9YMi5v1_NCpc-69" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#60a917;strokeColor=#2D7600;" parent="1" source="OLmslDtg9YMi5v1_NCpc-64" target="OLmslDtg9YMi5v1_NCpc-68" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OLmslDtg9YMi5v1_NCpc-74" value="Y" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="OLmslDtg9YMi5v1_NCpc-69" vertex="1" connectable="0">
