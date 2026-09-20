@@ -214,7 +214,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2XMQ8XQJAJfj7A2r2Mes-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="peaUoX4Pmoz3yc2kiJaC-63" target="peaUoX4Pmoz3yc2kiJaC-70" edge="1">
+        <mxCell id="2XMQ8XQJAJfj7A2r2Mes-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#008a00;strokeColor=#005700;" parent="1" source="peaUoX4Pmoz3yc2kiJaC-63" target="peaUoX4Pmoz3yc2kiJaC-70" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="peaUoX4Pmoz3yc2kiJaC-63" value="确定环境影响评价类型&lt;br&gt;(登记表 / 报告表 / 报告书)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
@@ -231,14 +231,19 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="peaUoX4Pmoz3yc2kiJaC-74" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="peaUoX4Pmoz3yc2kiJaC-70" target="peaUoX4Pmoz3yc2kiJaC-73" edge="1">
+        <mxCell id="peaUoX4Pmoz3yc2kiJaC-74" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#008a00;strokeColor=#005700;" parent="1" source="peaUoX4Pmoz3yc2kiJaC-70" target="peaUoX4Pmoz3yc2kiJaC-73" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="peaUoX4Pmoz3yc2kiJaC-70" value="综合审查" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="1231" y="815" width="104" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="2XMQ8XQJAJfj7A2r2Mes-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="peaUoX4Pmoz3yc2kiJaC-73" target="peaUoX4Pmoz3yc2kiJaC-76" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="2XMQ8XQJAJfj7A2r2Mes-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#008a00;strokeColor=#005700;" parent="1" source="peaUoX4Pmoz3yc2kiJaC-73" target="peaUoX4Pmoz3yc2kiJaC-76" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1283" y="930" />
+              <mxPoint x="1283" y="930" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="2XMQ8XQJAJfj7A2r2Mes-3" value="Y" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="2XMQ8XQJAJfj7A2r2Mes-1" vertex="1" connectable="0">
           <mxGeometry x="-0.3073" relative="1" as="geometry">
@@ -248,8 +253,13 @@
         <mxCell id="peaUoX4Pmoz3yc2kiJaC-73" value="审查是否通过" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="1218.5" y="852" width="129" height="47" as="geometry" />
         </mxCell>
-        <mxCell id="peaUoX4Pmoz3yc2kiJaC-82" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="peaUoX4Pmoz3yc2kiJaC-76" target="peaUoX4Pmoz3yc2kiJaC-81" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="peaUoX4Pmoz3yc2kiJaC-82" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#008a00;strokeColor=#005700;" parent="1" source="peaUoX4Pmoz3yc2kiJaC-76" target="peaUoX4Pmoz3yc2kiJaC-81" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1284" y="980" />
+              <mxPoint x="1284" y="980" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="peaUoX4Pmoz3yc2kiJaC-76" value="报川庆公司业务主管部门审批" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="1233" y="931" width="101" height="34" as="geometry" />
