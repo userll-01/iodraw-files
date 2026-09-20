@@ -177,7 +177,7 @@
             <mxPoint x="1373.5" y="671" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="peaUoX4Pmoz3yc2kiJaC-48" value="反馈结果&lt;div&gt;环境影响评价管理流程结束&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+        <mxCell id="peaUoX4Pmoz3yc2kiJaC-48" value="反馈结果&lt;div&gt;环境影响评价管理流程结束&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="1226.5" y="682" width="148.5" height="43" as="geometry" />
         </mxCell>
         <mxCell id="peaUoX4Pmoz3yc2kiJaC-51" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;entryX=0.473;entryY=-0.027;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.085;exitY=0.51;exitDx=0;exitDy=0;exitPerimeter=0;fillColor=#d80073;strokeColor=#A50040;" parent="1" edge="1">
