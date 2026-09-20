@@ -124,6 +124,9 @@
         <mxCell id="UTzVN1ssYW2B11S2N_Se-39" value="N" style="endArrow=block;html=1;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="UTzVN1ssYW2B11S2N_Se-20" target="UTzVN1ssYW2B11S2N_Se-19">
           <mxGeometry as="geometry" />
         </mxCell>
+        <mxCell id="UTzVN1ssYW2B11S2N_Se-40" value="水基岩屑管理流程图" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
