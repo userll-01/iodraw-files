@@ -538,7 +538,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="UTzVN1ssYW2B11S2N_Se-164" value="&lt;div&gt;&lt;span style=&quot;font-size: 8.24288pt; font-family: 微软雅黑;&quot;&gt;审核是否通过&lt;/span&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="995" y="1400" width="80" height="50" as="geometry" />
+          <mxGeometry x="995" y="1394" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="UTzVN1ssYW2B11S2N_Se-167" value="&lt;div&gt;&lt;span style=&quot;font-size: 8.24288pt; font-family: 微软雅黑;&quot;&gt;审核是否通过&lt;/span&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="615" y="1170" width="80" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
