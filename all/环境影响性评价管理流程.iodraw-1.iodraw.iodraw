@@ -241,13 +241,13 @@
         <mxCell id="peaUoX4Pmoz3yc2kiJaC-82" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="peaUoX4Pmoz3yc2kiJaC-76" target="peaUoX4Pmoz3yc2kiJaC-81" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="peaUoX4Pmoz3yc2kiJaC-76" value="报川庆公司业务主管部门审批" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="peaUoX4Pmoz3yc2kiJaC-76" value="报川庆公司业务主管部门审批" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="1233" y="931" width="101" height="34" as="geometry" />
         </mxCell>
         <mxCell id="peaUoX4Pmoz3yc2kiJaC-81" value="审查是否通过" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="1219.5" y="986" width="129" height="47" as="geometry" />
         </mxCell>
-        <mxCell id="peaUoX4Pmoz3yc2kiJaC-85" value="组织项目设计" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="peaUoX4Pmoz3yc2kiJaC-85" value="组织项目设计" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="1132" y="1067" width="120" height="35" as="geometry" />
         </mxCell>
         <mxCell id="peaUoX4Pmoz3yc2kiJaC-86" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=0.2;exitY=0.503;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="peaUoX4Pmoz3yc2kiJaC-81" edge="1">
