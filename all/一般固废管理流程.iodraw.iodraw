@@ -427,7 +427,7 @@
         <mxCell id="OLmslDtg9YMi5v1_NCpc-68" value="审核系统&lt;span style=&quot;background-color: initial;&quot;&gt;数据&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1224" y="1252" width="90" height="37" as="geometry" />
         </mxCell>
-        <mxCell id="OLmslDtg9YMi5v1_NCpc-72" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="OLmslDtg9YMi5v1_NCpc-70" target="OLmslDtg9YMi5v1_NCpc-60" edge="1">
+        <mxCell id="OLmslDtg9YMi5v1_NCpc-72" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#d80073;strokeColor=#A50040;" parent="1" source="OLmslDtg9YMi5v1_NCpc-70" target="OLmslDtg9YMi5v1_NCpc-60" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OLmslDtg9YMi5v1_NCpc-73" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="OLmslDtg9YMi5v1_NCpc-72" vertex="1" connectable="0">
@@ -435,7 +435,7 @@
             <mxPoint y="-3" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OLmslDtg9YMi5v1_NCpc-76" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="OLmslDtg9YMi5v1_NCpc-70" target="OLmslDtg9YMi5v1_NCpc-75" edge="1">
+        <mxCell id="OLmslDtg9YMi5v1_NCpc-76" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#60a917;strokeColor=#2D7600;" parent="1" source="OLmslDtg9YMi5v1_NCpc-70" target="OLmslDtg9YMi5v1_NCpc-75" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OLmslDtg9YMi5v1_NCpc-70" value="检查是否&lt;div&gt;存在问题&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
