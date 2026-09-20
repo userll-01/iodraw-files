@@ -203,6 +203,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="E6DqUBsRb7H6SNN8YMli-31" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="fV8UQ92mgfStvrnF8Kc9-42">
+          <mxGeometry x="-0.6381" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="fV8UQ92mgfStvrnF8Kc9-43" value="开展环境敏感性评估" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="21" y="510" width="59" height="420" as="geometry" />
         </mxCell>
