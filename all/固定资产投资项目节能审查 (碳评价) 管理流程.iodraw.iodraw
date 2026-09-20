@@ -64,13 +64,8 @@
         <mxCell id="peaUoX4Pmoz3yc2kiJaC-92" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;运&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;行&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;阶&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;段&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="30" y="1889" width="157" height="402" as="geometry" />
         </mxCell>
-        <mxCell id="TReKciuowRURjHf18CaE-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="peaUoX4Pmoz3yc2kiJaC-93">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="108.5" y="2305.75" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="peaUoX4Pmoz3yc2kiJaC-93" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;验&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;收&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;阶&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;段&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="30" y="2325" width="157" height="486" as="geometry" />
+          <mxGeometry x="30" y="2290" width="157" height="521" as="geometry" />
         </mxCell>
         <mxCell id="Z943jDBzrdEJ36IgWkzA-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#008a00;strokeColor=#005700;" parent="1" source="Z943jDBzrdEJ36IgWkzA-1" target="Z943jDBzrdEJ36IgWkzA-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
