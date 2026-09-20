@@ -214,7 +214,7 @@
             <mxPoint x="836" y="852" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OLmslDtg9YMi5v1_NCpc-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="OLmslDtg9YMi5v1_NCpc-1" target="OLmslDtg9YMi5v1_NCpc-3" edge="1">
+        <mxCell id="OLmslDtg9YMi5v1_NCpc-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#60a917;strokeColor=#2D7600;" parent="1" source="OLmslDtg9YMi5v1_NCpc-1" target="OLmslDtg9YMi5v1_NCpc-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OLmslDtg9YMi5v1_NCpc-1" value="汇总产生、拉运、处置数据" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
