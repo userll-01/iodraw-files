@@ -214,7 +214,7 @@
           <mxGeometry x="970.5" y="815" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Z943jDBzrdEJ36IgWkzA-45" value="审查是否通过" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="976" y="903" width="120" height="40" as="geometry" />
+          <mxGeometry x="971" y="871" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Z943jDBzrdEJ36IgWkzA-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#008a00;strokeColor=#005700;" parent="1" source="Z943jDBzrdEJ36IgWkzA-48" target="Z943jDBzrdEJ36IgWkzA-51" edge="1">
           <mxGeometry relative="1" as="geometry" />
