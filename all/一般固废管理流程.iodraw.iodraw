@@ -396,7 +396,7 @@
             <mxPoint y="2" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OLmslDtg9YMi5v1_NCpc-65" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="OLmslDtg9YMi5v1_NCpc-60" target="OLmslDtg9YMi5v1_NCpc-64" edge="1">
+        <mxCell id="OLmslDtg9YMi5v1_NCpc-65" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#60a917;strokeColor=#2D7600;" parent="1" source="OLmslDtg9YMi5v1_NCpc-60" target="OLmslDtg9YMi5v1_NCpc-64" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OLmslDtg9YMi5v1_NCpc-60" value="审核系统&lt;span style=&quot;background-color: initial;&quot;&gt;数据&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
