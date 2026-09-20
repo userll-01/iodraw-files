@@ -70,10 +70,10 @@
         <mxCell id="KzwcP8r9qCKmiWtFyrjv-115" value="集&lt;div&gt;团&lt;/div&gt;&lt;div&gt;公&lt;/div&gt;&lt;div&gt;司&lt;/div&gt;&lt;div&gt;系&lt;/div&gt;&lt;div&gt;统&lt;/div&gt;&lt;div&gt;填&lt;/div&gt;&lt;div&gt;报&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="294" y="1252" width="83" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="KzwcP8r9qCKmiWtFyrjv-116" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" parent="1" edge="1" source="KzwcP8r9qCKmiWtFyrjv-115">
+        <mxCell id="KzwcP8r9qCKmiWtFyrjv-116" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="450" y="1411.65" as="sourcePoint" />
-            <mxPoint x="1440" y="1412" as="targetPoint" />
+            <mxPoint x="371" y="1411.9999999999995" as="sourcePoint" />
+            <mxPoint x="1434" y="1412" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="uuLHGR9MCX1gwSNQ39ho-1" value="环保岗（专、兼职）" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
